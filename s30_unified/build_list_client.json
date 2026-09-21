@@ -1,0 +1,12 @@
+{
+ "version": 8,
+ "keepDevOnly": false,
+ "keepClientOnly": true,
+ "streamFileMandatory": "paks/Win64/pc_sdk_s30.starpak",
+ "streamFileOptional": "paks/Win64/pc_sdk_s30.opt.starpak",
+ "outputDir": "./s30_unified\\out\\",
+ "showDebugInfo": false,
+ "paks": [
+  "./s30_unified\\sdk_s30.json"
+ ]
+}

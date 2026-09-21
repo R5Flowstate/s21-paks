@@ -1,0 +1,2610 @@
+{
+ "version": 8,
+ "name": "root_lgnd_skins_overdrive_classic",
+ "headerFlags": 32,
+ "compressLevel": 0,
+ "compressWorkers": 4,
+ "assetsDir": "./s30_axle\\paks_out\\assets_axle\\",
+ "outputDir": "./s30_axle\\paks_out\\out\\",
+ "streamFileMandatory": "paks/Win64/pc_axle.starpak",
+ "streamFileOptional": "paks/Win64/pc_axle.opt.starpak",
+ "files": [
+  {
+   "_type": "stgs",
+   "_path": "settings/rpak_roots/lgnd_skins/overdrive/classic.rpak"
+  },
+  {
+   "_type": "stlt",
+   "_path": "settings_layout/settings_rpak_root_layout.rpak",
+   "$guid": 516643626211009942
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_base_v.rmdl",
+   "$guid": 11141519518694996632,
+   "$animrigs": [
+    "0xAF8CB1C8006E6A8E",
+    "0xB49D66D45AE9D0AF"
+   ],
+   "$materials": [
+    "0x5A60025337FB96F2",
+    "0xAAC812829A27A097",
+    "0x96BE96A6E6604562",
+    "0xAFD4E7A3D2A8D90B",
+    "0xA803C4F46F1752B2",
+    "0x40A3B65B5E933580",
+    "0x0563EE625CE17F45",
+    "0x12E28C3AA33AA197",
+    "0x441EE1FCE062D316",
+    "0x38464C301416DF80",
+    "0x38464C301416DF80",
+    "0x38464C301416DF80",
+    "0xEF7E71CDEEC5449E",
+    "0xAFC67BB593ACAE8F",
+    "0xFCCBDC2A447ACB5E",
+    "0xDEFBB972081A2EC7",
+    "0xB91B113330A268BA",
+    "0x2F32E1276AB9E155",
+    "0xCE0FAE39422EBAE9",
+    "0x92D1A8531B7AEA28",
+    "0x3B4F1B1384828DAB",
+    "0x078C45DC0DCB535D",
+    "0x01246255AE4C227E",
+    "0xD7EACFE8D077C746",
+    "0xC7F1EF5036749231",
+    "0xEFF7B52527A37D9C",
+    "0x8897A68C29BAE23D",
+    "0xE40C11AAB909FD8A",
+    "0xAA42A08FB885476D",
+    "0xF017615413E559D4",
+    "0x100E9AED564E6662",
+    "0x1C9EB5930AC7F36D",
+    "0xB8229876BCDD0A21",
+    "0xECF1EF9BBD116D52",
+    "0x537E3D48DA4BD3C6",
+    "0x4A789190007BDE8A",
+    "0xA7D6BD1F5A06426B",
+    "0x0DC928B3525E45D3",
+    "0xDEEC64BB1782FF57"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_base_w.rmdl",
+   "$guid": 10959141120861391562,
+   "$animrigs": [
+    "0x92079B00D5DA2D6D",
+    "0x46F57C0892F969D4"
+   ],
+   "$materials": [
+    "0x09F262DE6C2FF0FC",
+    "0x30766E2F1C7BC8C3",
+    "0x5789047BFAB65447",
+    "0x1BB445A6A9FCC285",
+    "0x38464C301416DF80",
+    "0x38464C301416DF80",
+    "0x38464C301416DF80",
+    "0xB556FE5C2E6EBE36",
+    "0x447119C23C845891",
+    "0xF5987CC9DB80E1CD",
+    "0x9F15DE060874A9E2",
+    "0x5A60025337FB96F2",
+    "0xAAC812829A27A097",
+    "0x96BE96A6E6604562",
+    "0xAFD4E7A3D2A8D90B",
+    "0xA803C4F46F1752B2",
+    "0x40A3B65B5E933580",
+    "0x0563EE625CE17F45",
+    "0x12E28C3AA33AA197",
+    "0x441EE1FCE062D316",
+    "0xEF7E71CDEEC5449E",
+    "0xAFC67BB593ACAE8F",
+    "0xFCCBDC2A447ACB5E",
+    "0xDEFBB972081A2EC7",
+    "0xB91B113330A268BA",
+    "0x2F32E1276AB9E155",
+    "0xCE0FAE39422EBAE9",
+    "0x92D1A8531B7AEA28",
+    "0x3B4F1B1384828DAB",
+    "0x078C45DC0DCB535D",
+    "0x01246255AE4C227E",
+    "0xD7EACFE8D077C746",
+    "0xC7F1EF5036749231",
+    "0xEFF7B52527A37D9C",
+    "0x8897A68C29BAE23D",
+    "0xE40C11AAB909FD8A",
+    "0xAA42A08FB885476D",
+    "0xF017615413E559D4",
+    "0xE5E0D66DD62EE9D5",
+    "0xF7343CCD5ED99A3F"
+   ]
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xC1834E67A5AA2E00",
+   "$guid": 13944075078337179136,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xF4778E7CC817E801",
+   "$guid": 17615705134067083265,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xDF8A95A81AA27203",
+   "$guid": 16107851566477898243,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xD41D84DE496AA203",
+   "$guid": 15284518800614662659,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xCD05B4526FE35606",
+   "$guid": 14773412418816267782,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x2AD072B71DC6820B",
+   "$guid": 3085091875552920075,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x2229DE3CBE9A5E11",
+   "$guid": 2461743023811878417,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x1DEAD9940F294813",
+   "$guid": 2155774601582954515,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x2CEBC7A7CE660C15",
+   "$guid": 3236900280732093461,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x4A01E78AD60EC417",
+   "$guid": 5332798017266172951,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xFF1631D29B666414",
+   "$guid": 18380933709779330068,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x03D584A7DC366C1F",
+   "$guid": 276272808642112543,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xD61F9ADA1BB6EC1B",
+   "$guid": 15429221109953129499,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x51B425C9D5470829",
+   "$guid": 5887372161676937257,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xA760720DEB8B9028",
+   "$guid": 12060765206210121768,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xFDDFF61E07029E29",
+   "$guid": 18293610820229307945,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xC6E214CF4FA19C2C",
+   "$guid": 14331039844873116716,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xD0982B5AA468B230",
+   "$guid": 15030811424654406192,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xE2DFCC473ABC0833",
+   "$guid": 16348009778678335539,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x58F7A13BD73AA03A",
+   "$guid": 6410769872971276346,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x6657658C7A05B63A",
+   "$guid": 7374474568859498042,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x345E5B79120E3442",
+   "$guid": 3773554113335145538,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xD0D3CE2DA8EA7E3E",
+   "$guid": 15047597475477749310,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x68C8C8C23F8D3640",
+   "$guid": 7550505511902066240,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x6EC4CE5BC61A5044",
+   "$guid": 7981731333168320580,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x5FC7EC43B9E0C24E",
+   "$guid": 6901744729594053198,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xCECE17DC73D2D04C",
+   "$guid": 14901874452618989644,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x393352570C1D8055",
+   "$guid": 4121728617793028181,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xF394EFDA99C28A4F",
+   "$guid": 17551917369931237967,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xB71CE17D163D1053",
+   "$guid": 13194668935648972883,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xF060FA1A4B774454",
+   "$guid": 17321119157709128788,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xF8EBC77320396A55",
+   "$guid": 17936649238208932437,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x64449FF867F1CC5D",
+   "$guid": 7225075591453723741,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x64B4128DCE71B660",
+   "$guid": 7256445299863959136,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xDD1D1978F7EE0863",
+   "$guid": 15932919064053024867,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x54E305FC823CB468",
+   "$guid": 6116739300974179432,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x8496AAE13435426D",
+   "$guid": 9554011543733355117,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x1B26B2B4042E0272",
+   "$guid": 1956447574373040754,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x4A9DB49F407ADE72",
+   "$guid": 5376652126224834162,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x8E10CD802A37CC70",
+   "$guid": 10236907903360945264,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x6C2E912CA10A9C76",
+   "$guid": 7795327625891322998,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xE3DCCA39B8EAF279",
+   "$guid": 16419220690750337657,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x803E1967B5189081",
+   "$guid": 9240851418621448321,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x7A7E5A6D041B9083",
+   "$guid": 8826591743959601283,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xDCB578ED82AD4E81",
+   "$guid": 15903750620623752833,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x007E9B7EA8F2108C",
+   "$guid": 35636815368163468,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xED7FF8EE691C088C",
+   "$guid": 17113670811880523916,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x00CA3F59236B3895",
+   "$guid": 56927597374421141,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xAC7E5E6C7934DC92",
+   "$guid": 12429475841572134034,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x2221A847F42E349A",
+   "$guid": 2459431898513814682,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xFB5E5215B682AC94",
+   "$guid": 18113005004540521620,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x3B1B625E867F489F",
+   "$guid": 4259106030731872415,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x76534F065125F89E",
+   "$guid": 8526245408092321950,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x90F77B03A5AB0E9E",
+   "$guid": 10445953116303724190,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x92051367CFBCC0A0",
+   "$guid": 10521837441008844960,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x951F9820A5440CA5",
+   "$guid": 10745474501908368549,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x57A4BB9500D024A8",
+   "$guid": 6315378826118440104,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xE67CCAD4187F26A7",
+   "$guid": 16608372538128410279,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x26F8CE960FA27AAE",
+   "$guid": 2808221511568226990,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xF6236E454A2828A9",
+   "$guid": 17736141001391089833,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x46816EEB9136B4B1",
+   "$guid": 5080463812683281585,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xE776CA8F2F9D64AC",
+   "$guid": 16678740986341188780,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x62A180DA102512B8",
+   "$guid": 7107103361029444280,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xC47C57B434A9DCBA",
+   "$guid": 14158287760035273914,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x3351E1C340687CC1",
+   "$guid": 3697984997763349697,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x8661152A3E54CABF",
+   "$guid": 9683043945001831103,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xF26A2F81B94E10C2",
+   "$guid": 17467826338916077762,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xBBDF94589C74C0C5",
+   "$guid": 13537702113201930437,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x2D902800CDF94ACD",
+   "$guid": 3283168112273869517,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xD45B1704AA3138CA",
+   "$guid": 15301849467724052682,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xC258DB235E6FFECD",
+   "$guid": 14004183986263293645,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x8DDF08FE1E3C84D3",
+   "$guid": 10222899566676313299,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xC1831C1D2C71E4D1",
+   "$guid": 13944019782894478545,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xE9AF504685F0D2D3",
+   "$guid": 16838765795586659027,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xC46D97A296A7EED5",
+   "$guid": 14154135928463421141,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xCDB4ECF88726E4DF",
+   "$guid": 14822732825746662623,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xA169E16CC18B4EE4",
+   "$guid": 11631075369880866532,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x8E07C9A72A58B4E6",
+   "$guid": 10234370398029919462,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x0BDBE439593304EA",
+   "$guid": 854527489277625578,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x7BAB0CD710C6D2FD",
+   "$guid": 8911230405521625853,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x70908046EBD57F00",
+   "$guid": 8111123970986966784,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x551EA9F2FC157D08",
+   "$guid": 6133526603601640712,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x97B135091FB1E908",
+   "$guid": 10930576083907635464,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xD1AB6A312B0D2F0D",
+   "$guid": 15108286134352686861,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xB75F7CDE12C74B10",
+   "$guid": 13213417124967959312,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x6751FE136644EB16",
+   "$guid": 7445011018293766934,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x40B9B0B61DDD131A",
+   "$guid": 4663953185350423322,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xD8CFC5E7F44C1119",
+   "$guid": 15622923232398283033,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xAB648969BE99791D",
+   "$guid": 12350147165419043101,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xAEFB8BF329AD191E",
+   "$guid": 12608825458246359326,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x593537CC9C964122",
+   "$guid": 6428105395081199906,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xF9FB2BFB9682E11D",
+   "$guid": 18013039494160376093,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xD9F8C650964D2721",
+   "$guid": 15706521749875926817,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x5B6C45E91510E725",
+   "$guid": 6587717222319318821,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x13CAC50365006B2E",
+   "$guid": 1426168850386283310,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xEF0BB62E8FC1952C",
+   "$guid": 17225061510905173292,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x3A1673E221A6E533",
+   "$guid": 4185660318751843635,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xB6E92BA7869CC731",
+   "$guid": 13180113782994421553,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xFF2BA25D6CC80937",
+   "$guid": 18386968425810889015,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xE8DD8C0BE17AE33A",
+   "$guid": 16779721769307792186,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x8CA165579838ED40",
+   "$guid": 10133492063450754368,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x9CAF2B7B91CF6B43",
+   "$guid": 11290290600568384323,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x3FC8B3DCF0127746",
+   "$guid": 4596121181233510214,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x636D1C51956FA147",
+   "$guid": 7164413718941376839,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x3AB3EF1097B2714B",
+   "$guid": 4229987329574596939,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xF518E735C39CA947",
+   "$guid": 17661120156834507079,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x42995D3A20AACF50",
+   "$guid": 4798969382177525584,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xDBD017D89770894F",
+   "$guid": 15839186108483144015,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x3D66A56C48B2F55E",
+   "$guid": 4424405568432829790,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xEF1DDC3960960961",
+   "$guid": 17230169888381077857,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xE7B92C7114B97361",
+   "$guid": 16697425957643449185,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x10F1DC9D82FA3969",
+   "$guid": 1220999543059528041,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x80177DE8C6BAB367",
+   "$guid": 9229984400039129959,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xA3D70EB61C785167",
+   "$guid": 11805921123499528551,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x7E9556122D2F6D69",
+   "$guid": 9121291256376290665,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xD73A59DC1CFCCB69",
+   "$guid": 15508807068717730665,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x483F6B5FF6B02B72",
+   "$guid": 5205997754168388466,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x088B4DDFE33BD17A",
+   "$guid": 615671398051598714,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x651744A6A6089D79",
+   "$guid": 7284366404835908985,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x9ECFE2CC534EA379",
+   "$guid": 11443614545370588025,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x19F5C66EACAF4D7E",
+   "$guid": 1870619398888181118,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x929C7053D6088980",
+   "$guid": 10564442331279821184,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x4BA9F043B508FF88",
+   "$guid": 5452152997499436936,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xC964489CDF371F85",
+   "$guid": 14511803737891610501,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xEF2B5D8685B2F985",
+   "$guid": 17233971231413434757,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x4BA2564ABE83C38B",
+   "$guid": 5450013378095596427,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x907123AE9EEC558E",
+   "$guid": 10408139446727497102,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xFA9BB5A138871D8E",
+   "$guid": 18058226834914876814,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x9C9268691DE8C997",
+   "$guid": 11282194817199163799,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x105E7CE4EE32B7A0",
+   "$guid": 1179517475108337568,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x6F4C384558303BA0",
+   "$guid": 8019846906923465632,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x5AB961B50D652DA4",
+   "$guid": 6537363764346695076,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x7CA0DB17A1C3F7A5",
+   "$guid": 8980418551521474469,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x54A7F970BF6F91A6",
+   "$guid": 6100118482940039590,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x03ED34E75AB60DAA",
+   "$guid": 282940519858179498,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x786F5453342CEDA8",
+   "$guid": 8678247723300613544,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x2917E0A4F869ADAC",
+   "$guid": 2961082279166324140,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xA7AAA177D149CFAD",
+   "$guid": 12081646486359232429,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xA6E80257787E9DAE",
+   "$guid": 12026865379599883694,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x7F0B93E77BC9D7B2",
+   "$guid": 9154573289984219058,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xC793BB8861FE0DB8",
+   "$guid": 14381044229558111672,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xA2452ABE93388FC1",
+   "$guid": 11692799005539471297,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x897E8FFB2057BFC3",
+   "$guid": 9907514539003854787,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x4B94E0DA015A61C9",
+   "$guid": 5446225076327965129,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x03F7CFAC3CCA03DA",
+   "$guid": 285925440022512602,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x3A239B9F0F1BE3D9",
+   "$guid": 4189363185840284633,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xA96CBFCEDDFDA9DA",
+   "$guid": 12208343585103129050,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x3C15EDB70E3B9FE1",
+   "$guid": 4329627987260186593,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x84C75313A64A2DE0",
+   "$guid": 9567707277231271392,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xCA1C5E2F309E95DE",
+   "$guid": 14563618851781514718,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x1AD3484074F2F9E7",
+   "$guid": 1932968106749262311,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xC6186512EBDC2DE5",
+   "$guid": 14274270150891679205,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xFF8C51C02A12D5E6",
+   "$guid": 18414182862192563686,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x56390A38F99675F4",
+   "$guid": 6213008400756143604,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xF318B165793DB5F2",
+   "$guid": 17516945800041444850,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x27229ADD9EA80435",
+   "$guid": 2819986593327612981,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x83AE512995802A61",
+   "$guid": 9488610703959927393,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x6E43E1718ED90092",
+   "$guid": 7945442045455827090,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0xF74AD734EC772AA1",
+   "$guid": 17819291497950292641,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x585D2E5516FF5751",
+   "$guid": 6367296391164680017,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "txtr",
+   "_path": "texture/0x51BBBC33556F84E8",
+   "$guid": 5889507866379781352,
+   "$strmMips": 0,
+   "$optMips": 0
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_gear_shadow_sknp",
+   "$guid": 6907446760335119416
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_gear_prepass_sknp",
+   "$guid": 4660063368951030392
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_gear_vsm_sknp",
+   "$guid": 125273390240837235
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_gear_tightshadow_sknp",
+   "$guid": 15957671114171016179
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/overdrive_base_gear_colpass_sknp",
+   "$guid": 13023443128777503958
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/overdrive_base_gear_sknp",
+   "$guid": 6512207617622513394
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_gear_shadow_sknp",
+   "$guid": 11052697410589393151
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_gear_prepass_sknp",
+   "$guid": 15006058333961517658
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_gear_vsm_sknp",
+   "$guid": 7311862655167607521
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_gear_tightshadow_sknp",
+   "$guid": 12506248316999372044
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_gear_colpass_sknp",
+   "$guid": 15016251105077746995
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_gear_sknp",
+   "$guid": 12306106333931217047
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_gear_shadow_sknp",
+   "$guid": 624919708613458254
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_gear_prepass_sknp",
+   "$guid": 3503897402931769590
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_gear_vsm_sknp",
+   "$guid": 1541906743115103026
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_gear_tightshadow_sknp",
+   "$guid": 250670473645508853
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_gear_colpass_sknp",
+   "$guid": 16637130883610870669
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_gear_sknp",
+   "$guid": 10862284994838021474
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_gear_shadow_sknp",
+   "$guid": 1089505219401297172
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_gear_prepass_sknp",
+   "$guid": 5064501771523033839
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_gear_vsm_sknp",
+   "$guid": 5325418277583807684
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_gear_tightshadow_sknp",
+   "$guid": 8481010247474437414
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_gear_colpass_sknp",
+   "$guid": 2400699085953180427
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_gear_sknp",
+   "$guid": 12670006342500014347
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_gear_shadow_sknp",
+   "$guid": 1601671511812822055
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_gear_prepass_sknp",
+   "$guid": 14128209102344551947
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_gear_vsm_sknp",
+   "$guid": 8114861288281003365
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_gear_tightshadow_sknp",
+   "$guid": 8757761327886730028
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_gear_colpass_sknp",
+   "$guid": 9075177823774679292
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_gear_sknp",
+   "$guid": 12106736777416889010
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_gear_shadow_sknp",
+   "$guid": 5975945073593332962
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_gear_prepass_sknp",
+   "$guid": 12747007997673632085
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_gear_vsm_sknp",
+   "$guid": 17343207053652943639
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_gear_tightshadow_sknp",
+   "$guid": 8611947879274042009
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_gear_colpass_sknp",
+   "$guid": 12435385628036370051
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_gear_sknp",
+   "$guid": 4657766943176209792
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_gear_shadow_sknp",
+   "$guid": 11091181467413075541
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_gear_prepass_sknp",
+   "$guid": 9343645762493210362
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_gear_vsm_sknp",
+   "$guid": 7929627290069692934
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_gear_tightshadow_sknp",
+   "$guid": 16743384950217839399
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_gear_colpass_sknp",
+   "$guid": 8036920900351402854
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_gear_sknp",
+   "$guid": 388416099116482373
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_gear_shadow_sknp",
+   "$guid": 10748177690550192815
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_gear_prepass_sknp",
+   "$guid": 17530069181686772739
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_gear_vsm_sknp",
+   "$guid": 418592391691991826
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_gear_tightshadow_sknp",
+   "$guid": 264268254503742286
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_gear_colpass_sknp",
+   "$guid": 7685737306685437618
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_gear_sknp",
+   "$guid": 1360804220893831575
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_gear_shadow_sknp",
+   "$guid": 12286909901502277627
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_gear_prepass_sknp",
+   "$guid": 14855932061974237738
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_gear_vsm_sknp",
+   "$guid": 3902191475187626056
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_gear_tightshadow_sknp",
+   "$guid": 17977588500820337920
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_gear_colpass_sknp",
+   "$guid": 18275342619442419609
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_gear_sknp",
+   "$guid": 4908609120093000470
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/models/characters/event_skin/event_skin_v_shadow_sknp",
+   "$guid": 1153716783129536665
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/models/characters/event_skin/event_skin_v_prepass_sknp",
+   "$guid": 218282173584257784
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/models/characters/event_skin/event_skin_v_vsm_sknp",
+   "$guid": 2210027819492759043
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/models/characters/event_skin/event_skin_v_tightshadow_sknp",
+   "$guid": 13215946443091197565
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_1p_shadow_sknp",
+   "$guid": 12982843543012785440
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_1p_prepass_sknp",
+   "$guid": 1760904679751974859
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_1p_vsm_sknp",
+   "$guid": 12067422763026630824
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_1p_tightshadow_sknp",
+   "$guid": 13830743159167507056
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_kit_shadow_sknp",
+   "$guid": 2582874036776005129
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_kit_prepass_sknp",
+   "$guid": 6675547072890435722
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_kit_vsm_sknp",
+   "$guid": 5851986837221927572
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_kit_tightshadow_sknp",
+   "$guid": 4847623575013463000
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/overdrive_base_kit_colpass_sknp",
+   "$guid": 4313828235138095214
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/overdrive_base_kit_sknp",
+   "$guid": 17257355951418459294
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_kit_shadow_sknp",
+   "$guid": 13964192385358624521
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_kit_prepass_sknp",
+   "$guid": 5085034316241102207
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_kit_vsm_sknp",
+   "$guid": 12586660035464119646
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_kit_tightshadow_sknp",
+   "$guid": 16779379267090239518
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_kit_colpass_sknp",
+   "$guid": 4716047542576002680
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_kit_sknp",
+   "$guid": 12665947021822963343
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_kit_shadow_sknp",
+   "$guid": 12755148110777370384
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_kit_prepass_sknp",
+   "$guid": 16730144663731590259
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_kit_vsm_sknp",
+   "$guid": 8920240346167847843
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_kit_tightshadow_sknp",
+   "$guid": 669376106173855144
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_kit_colpass_sknp",
+   "$guid": 16556085971317649021
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_kit_sknp",
+   "$guid": 18215895191925738334
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_kit_shadow_sknp",
+   "$guid": 13119693403936479923
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_kit_prepass_sknp",
+   "$guid": 792801576954921808
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_kit_vsm_sknp",
+   "$guid": 7978569782724709334
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_kit_tightshadow_sknp",
+   "$guid": 16550240378324147339
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_kit_colpass_sknp",
+   "$guid": 13624547541666433404
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_kit_sknp",
+   "$guid": 16067639994987720391
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_kit_shadow_sknp",
+   "$guid": 3351628348399485096
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_kit_prepass_sknp",
+   "$guid": 13719951343715944358
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_kit_vsm_sknp",
+   "$guid": 1294145172154533145
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_kit_tightshadow_sknp",
+   "$guid": 1286341426232798312
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_kit_colpass_sknp",
+   "$guid": 18042115738682225948
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_kit_sknp",
+   "$guid": 13338273632944810170
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_kit_shadow_sknp",
+   "$guid": 18016961825184796514
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_kit_prepass_sknp",
+   "$guid": 5690069999347902810
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_kit_vsm_sknp",
+   "$guid": 1571271618364372067
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_kit_tightshadow_sknp",
+   "$guid": 15249974060926329726
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_kit_colpass_sknp",
+   "$guid": 11443525772465448436
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_kit_sknp",
+   "$guid": 3401028228028686677
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_kit_shadow_sknp",
+   "$guid": 16702523997559005995
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_kit_prepass_sknp",
+   "$guid": 170475692295313343
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_kit_vsm_sknp",
+   "$guid": 13236133977997220285
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_kit_tightshadow_sknp",
+   "$guid": 9870906285527365611
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_kit_colpass_sknp",
+   "$guid": 8184884619806543371
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_kit_sknp",
+   "$guid": 14848278057410542313
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_kit_shadow_sknp",
+   "$guid": 12282706511493262221
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_kit_prepass_sknp",
+   "$guid": 18413387325173476122
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_kit_vsm_sknp",
+   "$guid": 8879445431127276601
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_kit_tightshadow_sknp",
+   "$guid": 16792032610006455358
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_kit_colpass_sknp",
+   "$guid": 1538822827251174430
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_kit_sknp",
+   "$guid": 10579422074566797864
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_kit_shadow_sknp",
+   "$guid": 18443700657135426713
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_kit_prepass_sknp",
+   "$guid": 17519116120217498877
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_kit_vsm_sknp",
+   "$guid": 16827235167679891366
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_kit_tightshadow_sknp",
+   "$guid": 1228836680184972064
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_kit_colpass_sknp",
+   "$guid": 3971994947226333439
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_kit_sknp",
+   "$guid": 4273664342039367083
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_body_shadow_sknp",
+   "$guid": 10180226198275899024
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_body_prepass_sknp",
+   "$guid": 17912607295707253152
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_body_vsm_sknp",
+   "$guid": 820497613540231937
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_body_tightshadow_sknp",
+   "$guid": 13901806408650962395
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/overdrive_base_body_colpass_sknp",
+   "$guid": 12511341840750801260
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/overdrive_base_body_sknp",
+   "$guid": 543886466431538013
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_body_shadow_sknp",
+   "$guid": 6714844573578566260
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_body_prepass_sknp",
+   "$guid": 18177849006539169615
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_body_vsm_sknp",
+   "$guid": 1745591641230775065
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_body_tightshadow_sknp",
+   "$guid": 12310002514620897080
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_body_colpass_sknp",
+   "$guid": 5242778390741603162
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_body_sknp",
+   "$guid": 82298813335478910
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_body_shadow_sknp",
+   "$guid": 11895954684621685490
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_body_prepass_sknp",
+   "$guid": 6364619419774217727
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_body_vsm_sknp",
+   "$guid": 16686885273331405774
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_body_tightshadow_sknp",
+   "$guid": 1509258203942649318
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_body_colpass_sknp",
+   "$guid": 9634684788311211007
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_body_sknp",
+   "$guid": 15558476461541672774
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_body_shadow_sknp",
+   "$guid": 3589039092981992336
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_body_prepass_sknp",
+   "$guid": 1841503388062127157
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_body_vsm_sknp",
+   "$guid": 6414590528695031210
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_body_tightshadow_sknp",
+   "$guid": 1380297611172478676
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_body_colpass_sknp",
+   "$guid": 12045025670706134618
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_body_sknp",
+   "$guid": 14407559810724958769
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_body_shadow_sknp",
+   "$guid": 8895989625848469518
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_body_prepass_sknp",
+   "$guid": 1384066653506559205
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_body_vsm_sknp",
+   "$guid": 11914930633265524860
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_body_tightshadow_sknp",
+   "$guid": 2733040996792737902
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_body_colpass_sknp",
+   "$guid": 623540183309881842
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_body_sknp",
+   "$guid": 17291488465495752092
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_body_shadow_sknp",
+   "$guid": 16853306205483146025
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_body_prepass_sknp",
+   "$guid": 15279027573463773662
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_body_vsm_sknp",
+   "$guid": 18443207870675783555
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_body_tightshadow_sknp",
+   "$guid": 17365980031359880016
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_body_colpass_sknp",
+   "$guid": 12403430252514959352
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_body_sknp",
+   "$guid": 9842518631567254077
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_body_shadow_sknp",
+   "$guid": 3096755515772563296
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_body_prepass_sknp",
+   "$guid": 155241786769458130
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_body_vsm_sknp",
+   "$guid": 2058974991102528616
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_body_tightshadow_sknp",
+   "$guid": 16507595130990280465
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_body_colpass_sknp",
+   "$guid": 12813849040634229530
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_body_sknp",
+   "$guid": 16432528565314649482
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_body_shadow_sknp",
+   "$guid": 5721615924571270713
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_body_prepass_sknp",
+   "$guid": 11138188285121965473
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_body_vsm_sknp",
+   "$guid": 13016341300130699122
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_body_tightshadow_sknp",
+   "$guid": 7154222656567039456
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_body_colpass_sknp",
+   "$guid": 1726752848720016710
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_body_sknp",
+   "$guid": 12268544874047162221
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_body_shadow_sknp",
+   "$guid": 4922763743601124043
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_body_prepass_sknp",
+   "$guid": 14536370410731265276
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_body_vsm_sknp",
+   "$guid": 7679429395967234127
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_body_tightshadow_sknp",
+   "$guid": 231070925250037292
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_body_colpass_sknp",
+   "$guid": 6511631764419679701
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_body_sknp",
+   "$guid": 17300403507305994708
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_v_arms_shadow_sknp",
+   "$guid": 13535745497976855143
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_v_arms_prepass_sknp",
+   "$guid": 18183531030961845205
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_v_arms_vsm_sknp",
+   "$guid": 14241425738803081038
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_v_arms_tightshadow_sknp",
+   "$guid": 5030512574888179311
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/overdrive_base_v_arms_colpass_sknp",
+   "$guid": 3103068348791415749
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/overdrive_base_v_arms_sknp",
+   "$guid": 1157032498426701410
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_v_arms_shadow_sknp",
+   "$guid": 3127353630408567029
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_v_arms_prepass_sknp",
+   "$guid": 3860839758019028337
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_v_arms_vsm_sknp",
+   "$guid": 7808164135248115017
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_v_arms_tightshadow_sknp",
+   "$guid": 2568453161169842651
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_v_arms_colpass_sknp",
+   "$guid": 15284830832766681062
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_v_arms_sknp",
+   "$guid": 2062285322527961965
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_v_arms_shadow_sknp",
+   "$guid": 10930714549154048431
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_v_arms_prepass_sknp",
+   "$guid": 18155519760227151872
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_v_arms_vsm_sknp",
+   "$guid": 17053178795951682371
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_v_arms_tightshadow_sknp",
+   "$guid": 9806851996456924755
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_v_arms_colpass_sknp",
+   "$guid": 9421489556820906570
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_v_arms_sknp",
+   "$guid": 13268335087929068065
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_v_arms_shadow_sknp",
+   "$guid": 10596828734124853668
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_v_arms_prepass_sknp",
+   "$guid": 17879946535076751546
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_v_arms_vsm_sknp",
+   "$guid": 2351422421072810188
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_v_arms_tightshadow_sknp",
+   "$guid": 8069482340908308777
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_v_arms_colpass_sknp",
+   "$guid": 5212355102838249147
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic01_v_arms_sknp",
+   "$guid": 17073691114509266258
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_v_arms_shadow_sknp",
+   "$guid": 8003700312571545195
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_v_arms_prepass_sknp",
+   "$guid": 2572733314239977310
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_v_arms_vsm_sknp",
+   "$guid": 18270009475358617335
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_v_arms_tightshadow_sknp",
+   "$guid": 16920715389836488996
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_v_arms_colpass_sknp",
+   "$guid": 10124771629303100841
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic02_v_arms_sknp",
+   "$guid": 6016313535322903494
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_v_arms_shadow_sknp",
+   "$guid": 9847364868453956827
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_v_arms_prepass_sknp",
+   "$guid": 8601771518879123364
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_v_arms_vsm_sknp",
+   "$guid": 7335319380020097999
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_v_arms_tightshadow_sknp",
+   "$guid": 10038819605013910470
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_v_arms_colpass_sknp",
+   "$guid": 6492986763376857500
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic03_v_arms_sknp",
+   "$guid": 5366199003681382026
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_v_arms_shadow_sknp",
+   "$guid": 15686206538826203842
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_v_arms_prepass_sknp",
+   "$guid": 9574710714408616098
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_v_arms_vsm_sknp",
+   "$guid": 13087532513109615398
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_v_arms_tightshadow_sknp",
+   "$guid": 16860765052443732899
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_v_arms_colpass_sknp",
+   "$guid": 10184317832658880523
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic04_v_arms_sknp",
+   "$guid": 12094061791702041195
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_v_arms_shadow_sknp",
+   "$guid": 4113109554346180930
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_v_arms_prepass_sknp",
+   "$guid": 14370643683059515561
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_v_arms_vsm_sknp",
+   "$guid": 1601064064975778493
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_v_arms_tightshadow_sknp",
+   "$guid": 9819081536435617564
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_v_arms_colpass_sknp",
+   "$guid": 11498938751126179749
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epic/overdrive_epic_epic05_v_arms_sknp",
+   "$guid": 993369943458072019
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_v_arms_shadow_sknp",
+   "$guid": 11701848488891686112
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_v_arms_prepass_sknp",
+   "$guid": 15601045071827577974
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_v_arms_vsm_sknp",
+   "$guid": 9543059462766707959
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_v_arms_tightshadow_sknp",
+   "$guid": 4625285480333901142
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_v_arms_colpass_sknp",
+   "$guid": 12435594293050075533
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_v_arms_sknp",
+   "$guid": 16063324725639839575
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_head_shadow_sknp",
+   "$guid": 6441685233437288172
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_head_prepass_sknp",
+   "$guid": 9706229506721227169
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_head_vsm_sknp",
+   "$guid": 6945130691281444395
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_head_tightshadow_sknp",
+   "$guid": 3298825908044798403
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/overdrive_base_head_colpass_sknp",
+   "$guid": 8958908630672400869
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/overdrive_base_head_sknp",
+   "$guid": 716743998142673148
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_head_shadow_sknp",
+   "$guid": 5419294628773995216
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_head_prepass_sknp",
+   "$guid": 6628816048238630425
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_head_vsm_sknp",
+   "$guid": 15068129404254774870
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_head_tightshadow_sknp",
+   "$guid": 15069741345330863994
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_head_colpass_sknp",
+   "$guid": 10379474550663288023
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_head_sknp",
+   "$guid": 3492099709692790979
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_head_shadow_sknp",
+   "$guid": 15467548603150634136
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_head_prepass_sknp",
+   "$guid": 1417158000957955150
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_head_vsm_sknp",
+   "$guid": 13548560205939858963
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_head_tightshadow_sknp",
+   "$guid": 6387948876027493723
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_head_colpass_sknp",
+   "$guid": 16207491896773626940
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_head_sknp",
+   "$guid": 6307577683642831943
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_head_shadow_sknp",
+   "$guid": 11921002002855702845
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_head_prepass_sknp",
+   "$guid": 18375493888067936914
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_head_vsm_sknp",
+   "$guid": 14764296191672059337
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_head_tightshadow_sknp",
+   "$guid": 1889600321839014845
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_head_colpass_sknp",
+   "$guid": 17328847369796882326
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_head_sknp",
+   "$guid": 1996297116950774405
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_hair_shadow_sknp",
+   "$guid": 7438344361308464055
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_hair_prepass_sknp",
+   "$guid": 13845685571533303391
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_hair_vsm_sknp",
+   "$guid": 4882984603712938414
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/overdrive_base_hair_tightshadow_sknp",
+   "$guid": 13173673224268445870
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/overdrive_base_hair_colpass_sknp",
+   "$guid": 9039227648554002149
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/overdrive_base_hair_sknp",
+   "$guid": 13066911040731528758
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_hair_shadow_sknp",
+   "$guid": 9958866716364596243
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_hair_prepass_sknp",
+   "$guid": 6131389394665917456
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_hair_vsm_sknp",
+   "$guid": 990743040847285232
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_hair_tightshadow_sknp",
+   "$guid": 8960176676807526659
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_hair_colpass_sknp",
+   "$guid": 4685422963389867180
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared01_hair_sknp",
+   "$guid": 4931751388977059985
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_hair_shadow_sknp",
+   "$guid": 15971753967807903469
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_hair_prepass_sknp",
+   "$guid": 11710196697374184909
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_hair_vsm_sknp",
+   "$guid": 17937659083436332899
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_hair_tightshadow_sknp",
+   "$guid": 1041424623633096889
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_hair_colpass_sknp",
+   "$guid": 13043719080031876813
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/camomask/shared/overdrive_camomask_shared02_hair_sknp",
+   "$guid": 17697031942165291469
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_hair_shadow_sknp",
+   "$guid": 10265857294931679321
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_hair_prepass_sknp",
+   "$guid": 9588379629336702243
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_hair_vsm_sknp",
+   "$guid": 7797126074306702093
+  },
+  {
+   "_type": "matl",
+   "_path": "material/depth/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_hair_tightshadow_sknp",
+   "$guid": 11557478786902076329
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_hair_colpass_sknp",
+   "$guid": 5750871375377769089
+  },
+  {
+   "_type": "matl",
+   "_path": "material/art/mshop/characters/legends/overdrive/base/skins/epicplus/v25_clockwildbp/overdrive_epicp_v25_clockwildbp_hair_sknp",
+   "$guid": 11463312544034499042
+  }
+ ]
+}

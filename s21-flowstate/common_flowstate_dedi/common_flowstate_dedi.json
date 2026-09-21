@@ -1,0 +1,37 @@
+{
+  "version": 8,
+  "keepDevOnly": true,
+  "name": "common_flowstate",
+  "assetsDir": "./s21-flowstate/common_flowstate_dedi/assets/",
+  "outputDir": "./s21-flowstate/common_flowstate_dedi/out/",
+  "compressLevel": 6,
+  "compressWorkers": 8,
+  "files": [
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Humans/pilots/w_amogino.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/w_pete_mri.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ptpov_pete_mri.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/flowstate_custom/w_pete_mri.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/flowstate_custom/ptpov_pete_mri.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/ash_hologram/holo_ash_bust.rmdl"
+    }
+  ],
+  "dedi": true,
+  "keepClientOnly": false
+}

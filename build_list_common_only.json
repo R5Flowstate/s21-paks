@@ -1,0 +1,3 @@
+{ "version": 8, "dedi": true, "keepDevOnly": false, "keepClientOnly": false,
+  "outputDir": "./paks/Win64_server/", "showDebugInfo": false,
+  "paks": [ "s21-to-s3-server/common.json" ] }

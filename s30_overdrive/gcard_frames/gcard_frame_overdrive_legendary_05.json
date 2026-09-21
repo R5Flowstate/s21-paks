@@ -1,0 +1,215 @@
+{
+  "version": 8,
+  "name": "gcard_frame_overdrive_legendary_05",
+  "assetsDir": "./s30_overdrive\\gcard_frames\\assets\\gcard_frame_overdrive_legendary_05",
+  "outputDir": "./s30_overdrive\\gcard_frames\\out",
+  "headerFlags": 32,
+  "compressLevel": 0,
+  "files": [
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x1DE294F0AEA038CC.uiia",
+      "$guid": "0x1DE294F0AEA038CC"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2C5591C748690587.uiia",
+      "$guid": "0x2C5591C748690587"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2CB7155711F636EE.uiia",
+      "$guid": "0x2CB7155711F636EE"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2CBE29A8D0A29DB9.uiia",
+      "$guid": "0x2CBE29A8D0A29DB9"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2D1898E6BC803AA0.uiia",
+      "$guid": "0x2D1898E6BC803AA0"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2D1FAD38A6977B02.uiia",
+      "$guid": "0x2D1FAD38A6977B02"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2D7A1C769EDCC3CB.uiia",
+      "$guid": "0x2D7A1C769EDCC3CB"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2D8130C8B45EDDC4.uiia",
+      "$guid": "0x2D8130C8B45EDDC4"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2DDBA006ACA4268D.uiia",
+      "$guid": "0x2DDBA006ACA4268D"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2DE2B4588A53BB0D.uiia",
+      "$guid": "0x2DE2B4588A53BB0D"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2E3D2396763157F4.uiia",
+      "$guid": "0x2E3D2396763157F4"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2E4437E8667C6E47.uiia",
+      "$guid": "0x2E4437E8667C6E47"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2E9EA726588DE11F.uiia",
+      "$guid": "0x2E9EA726588DE11F"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2EA5BB780AD29C08.uiia",
+      "$guid": "0x2EA5BB780AD29C08"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2F002AB60317E4D1.uiia",
+      "$guid": "0x2F002AB60317E4D1"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2F073F07E0C77951.uiia",
+      "$guid": "0x2F073F07E0C77951"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2F61AE45CCA51638.uiia",
+      "$guid": "0x2F61AE45CCA51638"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2F68C297BCF02C8B.uiia",
+      "$guid": "0x2F68C297BCF02C8B"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2FCA4627C483B95C.uiia",
+      "$guid": "0x2FCA4627C483B95C"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x3F3C5A1E8CBC10E7.uiia",
+      "$guid": "0x3F3C5A1E8CBC10E7"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x47BE92CC14B3CA8.uiia",
+      "$guid": "0x47BE92CC14B3CA8"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xAB65E0A4F5A1E021.uiia",
+      "$guid": "0xAB65E0A4F5A1E021"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xABD3659FCE84B7AE.uiia",
+      "$guid": "0xABD3659FCE84B7AE"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xAC34E92F9811E915.uiia",
+      "$guid": "0xAC34E92F9811E915"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xAC966CBF5B6B448B.uiia",
+      "$guid": "0xAC966CBF5B6B448B"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xACE8EB856C0BEA12.uiia",
+      "$guid": "0xACE8EB856C0BEA12"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xACEA7193E6FDD95F.uiia",
+      "$guid": "0xACEA7193E6FDD95F"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xACF7F04F24F875F2.uiia",
+      "$guid": "0xACF7F04F24F875F2"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xAD53EEBBE928E011.uiia",
+      "$guid": "0xAD53EEBBE928E011"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xB075C104AA67EF45.uiia",
+      "$guid": "0xB075C104AA67EF45"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xB1300AE985C8D8A5.uiia",
+      "$guid": "0xB1300AE985C8D8A5"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xB451DD324707E7D9.uiia",
+      "$guid": "0xB451DD324707E7D9"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xB63FEB4908F03841.uiia",
+      "$guid": "0xB63FEB4908F03841"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xC1170863AC379FAF.uiia",
+      "$guid": "0xC1170863AC379FAF"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xCE487AE1569E95A.uiia",
+      "$guid": "0xCE487AE1569E95A"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xCE4E931CB68C775.uiia",
+      "$guid": "0xCE4E931CB68C775"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xCFCCBB7C2AF4872E.uiia",
+      "$guid": "0xCFCCBB7C2AF4872E"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xD0D3F66D5AC046AA.uiia",
+      "$guid": "0xD0D3F66D5AC046AA"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xEC1D56C426BDE796.uiia",
+      "$guid": "0xEC1D56C426BDE796"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xF06AE6E29B7CF014.uiia",
+      "$guid": "0xF06AE6E29B7CF014"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xFAB948BB07BFE64B.uiia",
+      "$guid": "0xFAB948BB07BFE64B"
+    }
+  ]
+}

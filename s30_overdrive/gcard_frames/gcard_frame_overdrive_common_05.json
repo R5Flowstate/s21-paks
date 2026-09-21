@@ -1,0 +1,15 @@
+{
+  "version": 8,
+  "name": "gcard_frame_overdrive_common_05",
+  "assetsDir": "./s30_overdrive\\gcard_frames\\assets\\gcard_frame_overdrive_common_05",
+  "outputDir": "./s30_overdrive\\gcard_frames\\out",
+  "headerFlags": 32,
+  "compressLevel": 0,
+  "files": [
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0x2632B13BDF8857E4.uiia",
+      "$guid": "0x2632B13BDF8857E4"
+    }
+  ]
+}

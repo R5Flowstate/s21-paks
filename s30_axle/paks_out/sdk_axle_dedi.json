@@ -1,0 +1,2799 @@
+{
+ "version": 8,
+ "keepDevOnly": false,
+ "name": "sdk_axle_dedi",
+ "assetsDir": "./s30_axle\\paks_out\\dedi_assets\\",
+ "outputDir": "./s30_axle\\paks_out\\dedi_out\\",
+ "compressLevel": 6,
+ "compressWorkers": 16,
+ "files": [
+  {
+   "_type": "mdl_",
+   "_path": "mdl/Weapons/overdrive_clacker/ptpov_overdrive_ult_clacker.rmdl",
+   "$animrigs": [
+    "0x5319F439C93AFB2F"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/Weapons/overdrive_tactical/overdrive_tactical_v.rmdl",
+   "$animrigs": [
+    "0x495F664FC1390044"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/Weapons/overdrive_ult_drone/axle_ult_drone_threat_indicator.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_tac_dest_ring_inner1_cell.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_tac_dest_ring_mid1_cell.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_tac_dest_ring_outer01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_tac_dest_ring_outer04.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_tac_upgrade_cyl.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_ult_drone_dest_body_back.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_ult_drone_dest_body_btm.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_ult_drone_dest_body_front.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_ult_drone_dest_ring_le_1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_ult_drone_dest_ring_le_2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_ult_drone_dest_ring_le_3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_ult_drone_dest_ring_ri_1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_ult_drone_dest_ring_ri_2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_axle_ult_drone_dest_ring_ri_3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_overdrive_tac_cobra.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_overdrive_tac_ring.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_overdrive_ult_AR.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_overdrive_ult_previewarrow_07.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_overdrive_ult_previewarrow_over.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_overdrive_ult_previewarrow_stop.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_overdrive_ult_previewarrow_under.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/abilities/fx_ability_overdrive_ult_previewarrow_w.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/axle_ult_scan_fill.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/axle_ult_scan_fill_end.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/core_energy_large.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_ability_overdrive_speed_boost.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/gauntlet_ring.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/glowing_water_ring.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/overdrive_tac_ring_streak.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/holo_spray/hspray_epic_v25_overdrive_01.rmdl",
+   "$animrigs": [
+    "0x49236D42003185C0"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/holo_spray/hspray_epic_v25_overdrive_02.rmdl",
+   "$animrigs": [
+    "0x49236D42003185C0"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/holo_spray/hspray_epic_v25_overdrive_03.rmdl",
+   "$animrigs": [
+    "0x49236D42003185C0"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/holo_spray/hspray_epic_v25_overdrive_04.rmdl",
+   "$animrigs": [
+    "0x49236D42003185C0"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/holo_spray/hspray_epic_v25_overdrive_05.rmdl",
+   "$animrigs": [
+    "0x49236D42003185C0"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/holo_spray/hspray_epic_v25_overdrive_06.rmdl",
+   "$animrigs": [
+    "0x49236D42003185C0"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/holo_spray/hspray_epic_v25_overdrive_07.rmdl",
+   "$animrigs": [
+    "0x49236D42003185C0"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/holo_spray/hspray_epic_v25_overdrive_08.rmdl",
+   "$animrigs": [
+    "0x49236D42003185C0"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/holo_spray/hspray_epic_v25_overdrive_09.rmdl",
+   "$animrigs": [
+    "0x49236D42003185C0"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/holo_spray/hspray_lgnd_v25_overdrive_01.rmdl",
+   "$animrigs": [
+    "0x49236D42003185C0"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/overdrive_clacker_01/overdrive_clacker_01.rmdl",
+   "$animrigs": [
+    "0x7260F41E184D2AEA"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/overdrive_djturntable_01/djturntable_prop_01.rmdl",
+   "$animrigs": [
+    "0xBF5E2408D6E503B5"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/overdrive_motorcycle/overdrive_motorcycle_prop.rmdl",
+   "$animrigs": [
+    "0x134647382ECE201C"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/overdrive_motorcycle_01/overdrive_motorcycle_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/overdrive_stool/overdrive_stool_01.rmdl",
+   "$animrigs": [
+    "0xA07BA2AC3104E090"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/overdrive_tactical/overdrive_tactical_w.rmdl",
+   "$animrigs": [
+    "0x4860E896AB2BABF6"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/overdrive_tactical_pad/overdrive_tactical_pad.rmdl",
+   "$animrigs": [
+    "0x62D407DE265381F1"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/overdrive_ult_drone/overdrive_ult_drone_scaled_w.rmdl",
+   "$animrigs": [
+    "0x7058701A83612FC9"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/overdrive_ult_drone/overdrive_ult_drone_w.rmdl",
+   "$animrigs": [
+    "0x80F85506B993103F"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_base_v.rmdl",
+   "$animrigs": [
+    "0xAF8CB1C8006E6A8E",
+    "0xB49D66D45AE9D0AF"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_base_w.rmdl",
+   "$animrigs": [
+    "0x92079B00D5DA2D6D",
+    "0x46F57C0892F969D4"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_icon_v25_clockup_v.rmdl",
+   "$animrigs": [
+    "0xAF8CB1C8006E6A8E",
+    "0xB49D66D45AE9D0AF"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_icon_v25_clockup_w.rmdl",
+   "$animrigs": [
+    "0x92079B00D5DA2D6D",
+    "0x46F57C0892F969D4"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_lgnd_v25_assassin_v.rmdl",
+   "$animrigs": [
+    "0xAF8CB1C8006E6A8E",
+    "0xB49D66D45AE9D0AF"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_lgnd_v25_assassin_w.rmdl",
+   "$animrigs": [
+    "0x92079B00D5DA2D6D",
+    "0x46F57C0892F969D4"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_lgnd_v25_cppa_v.rmdl",
+   "$animrigs": [
+    "0xAF8CB1C8006E6A8E",
+    "0xB49D66D45AE9D0AF"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_lgnd_v25_cppa_w.rmdl",
+   "$animrigs": [
+    "0x92079B00D5DA2D6D",
+    "0x46F57C0892F969D4"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_lgnd_v25_cppb_v.rmdl",
+   "$animrigs": [
+    "0xAF8CB1C8006E6A8E",
+    "0xB49D66D45AE9D0AF"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_lgnd_v25_cppb_w.rmdl",
+   "$animrigs": [
+    "0x92079B00D5DA2D6D",
+    "0x46F57C0892F969D4"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_lgnd_v25_nogo_v.rmdl",
+   "$animrigs": [
+    "0xAF8CB1C8006E6A8E",
+    "0xB49D66D45AE9D0AF"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/techart/mshop/characters/legends/overdrive/overdrive_lgnd_v25_nogo_w.rmdl",
+   "$animrigs": [
+    "0x92079B00D5DA2D6D",
+    "0x46F57C0892F969D4"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/empty/lights/empty_lights_overdrive.rrig",
+   "$sequences": [
+    12968370809315496554,
+    18005454193577250077,
+    12868290577723677792,
+    10946223642429198756,
+    6774486784733787148,
+    14524345066310669648,
+    5222207332776213390,
+    8595524303744044284,
+    9612432947314740860,
+    16657435356692119196,
+    2251801800050777797,
+    1904632551234976459,
+    2533540791671315201,
+    12747213429187283058,
+    7252546626594510882,
+    88447398941776470,
+    11501035049673963286,
+    5963053978856067906,
+    17289013093138008314,
+    11751032022320112934,
+    6423066165288944799,
+    17749025279570885207
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/humans/class/medium/pilot_medium_overdrive.rrig",
+   "$sequences": [
+    12530019790113728478,
+    16680308989122123588,
+    12043882702744185776,
+    7430851789455843188,
+    4277166142469792362,
+    7499496083018445254,
+    2605281400029541773,
+    439178489816677271,
+    603864849957761222,
+    12493169859827348867,
+    10523631354561026896,
+    6725457361895015531,
+    6890143722036099482,
+    9993369477299346445,
+    8023830972449266078,
+    14211980859648927580,
+    12112499550331598403,
+    9145023163463629009,
+    9309709522980350554,
+    4251474755380639478,
+    6852493274218904389,
+    11786213704924669937,
+    11950900064337331081,
+    12115586423645931824,
+    748132233281723373,
+    912818592694384517,
+    9589581526495713329,
+    9590224833409896582,
+    9590868138659113419,
+    14169991275020648516,
+    16684381257616787821,
+    15146546313479666079,
+    12502994478592452703,
+    18379657954803256948,
+    6732548248845211736,
+    6642060043260456964,
+    13300978930174323238,
+    17765949964205190760,
+    10166447955095538910,
+    1361837009860976726,
+    14470391764119885284,
+    10613289635460485996,
+    4471224470544126552,
+    13931416855804927929,
+    12565034627625748455,
+    6318865257066220404,
+    10082727397536221837,
+    10863950778298317696,
+    8096475013293110444,
+    3542765876979526238,
+    12671060697035034831,
+    10264706006925819639,
+    13274096604165131189,
+    12605769185558177606,
+    9543527483360671510,
+    16118919207101963692,
+    12693943871436761904,
+    444001493292565036,
+    9024255140143734584,
+    446835752143909781,
+    4445220175043560606,
+    10345703695749297540,
+    4910774754158367885,
+    1188639508107863891,
+    13930833958982815056,
+    13683484158395283576,
+    13609391431540728120,
+    13362041630953196640,
+    13287948903266157976,
+    13213856176411602520,
+    12966506375824071040,
+    12881585081288872377,
+    12807492354642437723,
+    12288308529192411499,
+    10640855860975270367,
+    16635066435005038110,
+    3168835010660131608,
+    756497713834714082,
+    4574668123721451999,
+    7582657177281690203,
+    2996879720521522865,
+    12270621196049714141,
+    6924968694162171872,
+    6288748051728088907,
+    12863079019174035214,
+    10509123829311171797,
+    8495771888207657686,
+    17011736577490263720,
+    1084104674392868816,
+    2758169916368128903,
+    13883969528919162917,
+    3448509194693714081,
+    2981772800347778137,
+    14266105831054375561,
+    11144099694770553452,
+    12515229079275721152,
+    17671621964797626050,
+    12337838329883440750,
+    17656375449495771504,
+    3162300302179510256,
+    9304958830615303511,
+    11771590603461868399,
+    6540633729952687707,
+    16761240170783421031,
+    4596516385590298393,
+    5489161104094018423,
+    6139322360108819515,
+    8340615031447381575,
+    10070495762277557454,
+    11447292310335102787,
+    7528352299938597074,
+    362112534119343214,
+    13103349756401764352,
+    7417681110967956327,
+    8427713235742632915,
+    9744289419220871131,
+    6353200435707020335,
+    6870609385414355103,
+    8426109660594703768,
+    1938686611449593110,
+    7996675052614382296,
+    13852920752424044618,
+    6291390054217441590,
+    11469574304099690728,
+    4963953515041709417,
+    16887690597540499676,
+    4411555318468237527,
+    6602442966303812261,
+    11889540555353911509,
+    15841008799182898282,
+    14913801570431026089,
+    6413637444472620499,
+    17073925809592437237,
+    6551348739516440549,
+    12930387756400142615,
+    11467281116841620154,
+    16654969692200727578,
+    15912610612717500890,
+    11621986537898398817,
+    9520525157228505155,
+    3852570815462404234,
+    1008226909851240602,
+    5601746070961373658,
+    16906020167303047060,
+    1923468926838559858,
+    5442792105634574355,
+    569383841013959604,
+    11148143499611469852,
+    4315768706652392293,
+    160589823071169469,
+    9651601791597921052,
+    7832936579026325129
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/overdrive_djturntable/djturntable_prop.rrig",
+   "$sequences": [
+    13907423687521905170,
+    9458006674761945555,
+    9438896760093324560
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/overdrive_clacker_01/overdrive_clacker_01.rrig",
+   "$sequences": [
+    8729308833304625179,
+    1058358626585456959,
+    10907134666601431508,
+    674026343917905923,
+    12010163503211679705
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/overdrive_motorcycle/overdrive_motorcycle_prop.rrig",
+   "$sequences": [
+    13531412655928849730,
+    12207802007046707664,
+    2130823533760782201,
+    5159425768932569260,
+    9032610958006789610,
+    11515849301712514979,
+    14631004013360095120,
+    1843809249662157967,
+    13823196953760942187,
+    13940529302751913963
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/overdrive_stool/overdrive_stool_01.rrig",
+   "$sequences": [
+    18106170106435884864
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/overdrive_tactical/overdrive_tactical_w.rrig",
+   "$sequences": [
+    16510313922956840880,
+    9926557214821790168,
+    9926986085612297132,
+    4677914018856817244,
+    9149048537304462978,
+    12894896723847473365,
+    12922344450381563422,
+    12949792177019713880,
+    12977239903553803937,
+    13004687630087893994,
+    13032135356726044452,
+    13059583083260134509,
+    17214365860861250158,
+    8075701092590805891
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/overdrive_tactical_pad/overdrive_tactical_pad.rrig",
+   "$sequences": [
+    3947021033753670273,
+    2378883955524003172,
+    4911023698093303112,
+    10394454662580375055
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/overdrive_ult_drone/overdrive_ult_drone_scaled_w.rrig",
+   "$sequences": [
+    3796986142329030796,
+    17459068744411453106,
+    5700825078073263319,
+    4482053666009240325
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/overdrive_ult_drone/overdrive_ult_drone_w.rrig",
+   "$sequences": [
+    2640051007144896368,
+    6650301697746455611,
+    7383185353188971802,
+    13227747957169561676,
+    16910867974077368999,
+    15198599170880456275,
+    7997132403912859949,
+    6904290350087151264,
+    16427824247896941807
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/weapons/arms/pov_pilot_medium_overdrive.rrig"
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker.rrig",
+   "$sequences": [
+    11122817137726011211,
+    5964046315337192708,
+    11577371313050034026,
+    2007386740135314190,
+    513650646986205807,
+    1715287157067843080,
+    17012784994058405382,
+    7395113984997788261,
+    3951675243244375938,
+    10687802573721780025,
+    7280820686458524508,
+    6995333458647195832,
+    952397572516276985,
+    7582122613522191783,
+    18017576451929695407,
+    8469249012503174767,
+    14841175737119750401,
+    7488171935572280515,
+    4563325048737926330
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/weapons/overdrive_tactical/overdrive_tactical_v.rrig",
+   "$sequences": [
+    8428155512538964818,
+    4996159575237911167,
+    9895053072712379637,
+    12289115318989066654,
+    8845676577860016737,
+    13996498565593893618,
+    3047708156646269187,
+    2892163733510310123,
+    59889576656065526,
+    1288432996777114772,
+    11207513528063134628,
+    10255532017061918598,
+    11287885086724504240
+   ]
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/heavy/mp_pilot_heavy_core/overdrive_execution_base_victim_heavy.rseq",
+   "$guid": 5977132580156338911
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/heavy/mp_pilot_heavy_core/overdrive_execution_lgnd_kneewheel_victim_heavy.rseq",
+   "$guid": 2634816824276724362
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/heavy/pilot_heavy_caustic/caustic_victim_overdrive_execution_base.rseq",
+   "$guid": 13319397940291534620
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/light/mp_pilot_light_core/overdrive_execution_base_victim_light.rseq",
+   "$guid": 18281964777731825673
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/light/mp_pilot_light_core/overdrive_execution_lgnd_kneewheel_victim_light.rseq",
+   "$guid": 2388685298759639264
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/mp_pilot_medium_core/overdrive_execution_base_victim_medium.rseq",
+   "$guid": 3024985280626985951
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/mp_pilot_medium_core/overdrive_lgnd_execution_knee_wheel_medium_victim.rseq",
+   "$guid": 4518491720055224265
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/mp_pilot_medium_core/victim_overdrive_execution_knee_wheel_loot.rseq",
+   "$guid": 7600566065046994007
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_bloodhound/bloodhound_victim_overdrive_execution_base.rseq",
+   "$guid": 3045585971378009702
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/AIM_bangalore_crouch_pistol.rseq",
+   "$guid": 12530019790113728478
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/Overdrive_slide_kick.rseq",
+   "$guid": 362112534119343214
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/TMP_bangalore_AIM_faceaim_sprint.rseq",
+   "$guid": 11621986537898398817
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/TMP_bangalore_AIM_idle_satchel.rseq",
+   "$guid": 9520525157228505155
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/TMP_mp_pt_crouch_grenade_aims.rseq",
+   "$guid": 3852570815462404234
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/TMP_mp_pt_medium_aim_crouch_pistol.rseq",
+   "$guid": 1008226909851240602
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/TMP_mp_pt_medium_aim_crouch_pistol_ADS.rseq",
+   "$guid": 5601746070961373658
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/TMP_mp_pt_medium_aim_crouchmove_pistol_ADS.rseq",
+   "$guid": 16906020167303047060
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/TMP_mp_pt_medium_crouch_high_idle_AIM.rseq",
+   "$guid": 1923468926838559858
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_crouch_UA.rseq",
+   "$guid": 7499496083018445254
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_crouch_pistol.rseq",
+   "$guid": 16680308989122123588
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_crouch_pistol_ADS.rseq",
+   "$guid": 12043882702744185776
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_crouch_rifle.rseq",
+   "$guid": 7430851789455843188
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_crouch_rifle_ADS.rseq",
+   "$guid": 4277166142469792362
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_freefall_to_anticipate.rseq",
+   "$guid": 2605281400029541773
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_quest_angry_l.rseq",
+   "$guid": 439178489816677271
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_quest_angry_r.rseq",
+   "$guid": 603864849957761222
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_quest_fearful_l.rseq",
+   "$guid": 12493169859827348867
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_quest_fearful_r.rseq",
+   "$guid": 10523631354561026896
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_quest_happy_l.rseq",
+   "$guid": 6725457361895015531
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_quest_happy_r.rseq",
+   "$guid": 6890143722036099482
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_quest_neutral_l.rseq",
+   "$guid": 9993369477299346445
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_quest_neutral_r.rseq",
+   "$guid": 8023830972449266078
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_quest_sad_l.rseq",
+   "$guid": 14211980859648927580
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_quest_sad_r.rseq",
+   "$guid": 12112499550331598403
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_quest_surprised_l.rseq",
+   "$guid": 9145023163463629009
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_quest_surprised_r.rseq",
+   "$guid": 9309709522980350554
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideEnd_UA_BL.rseq",
+   "$guid": 14169991275020648516
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideEnd_UA_BR.rseq",
+   "$guid": 16684381257616787821
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideEnd_pistol_BL.rseq",
+   "$guid": 4251474755380639478
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideEnd_pistol_BR.rseq",
+   "$guid": 6852493274218904389
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideEnd_pistol_F.rseq",
+   "$guid": 11786213704924669937
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideEnd_pistol_L.rseq",
+   "$guid": 11950900064337331081
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideEnd_pistol_R.rseq",
+   "$guid": 12115586423645931824
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideEnd_rifle_BL.rseq",
+   "$guid": 748132233281723373
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideEnd_rifle_BR.rseq",
+   "$guid": 912818592694384517
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideEnd_rifle_F.rseq",
+   "$guid": 9589581526495713329
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideEnd_rifle_L.rseq",
+   "$guid": 9590224833409896582
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideEnd_rifle_R.rseq",
+   "$guid": 9590868138659113419
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideFloat_UA.rseq",
+   "$guid": 12502994478592452703
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/bangalore_slideFloat_rifle.rseq",
+   "$guid": 15146546313479666079
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/char_select_light_custom_overdrive.bk_seq.rseq",
+   "$guid": 18005454193577250077
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/medium_crouch_artifact_dagger.rseq",
+   "$guid": 18379657954803256948
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/mp_pt_medium_AIM_bangalore_run_rifle_F.rseq",
+   "$guid": 6732548248845211736
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/mp_pt_medium_AIM_bangalore_sprint_generic.rseq",
+   "$guid": 6642060043260456964
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/mp_pt_medium_AIM_bangalore_walk_rifle_F.rseq",
+   "$guid": 13300978930174323238
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/mp_pt_medium_aim_slide_pistol.rseq",
+   "$guid": 17765949964205190760
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/mp_pt_medium_aim_slide_rifle.rseq",
+   "$guid": 10166447955095538910
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/mp_pt_medium_faceaim_sprint_temp_bangalore.rseq",
+   "$guid": 1361837009860976726
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/mp_pt_overdrive_AIM_slide_UA.rseq",
+   "$guid": 14470391764119885284
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_anticipate.rseq",
+   "$guid": 10613289635460485996
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_anticipate_to_freefall.rseq",
+   "$guid": 4471224470544126552
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_execution_base.rseq",
+   "$guid": 13931416855804927929
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_execution_lgnd_knee_wheel.rseq",
+   "$guid": 12565034627625748455
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_execution_lgnd_knee_wheel_attacker_loot.rseq",
+   "$guid": 6318865257066220404
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_freefall.rseq",
+   "$guid": 10082727397536221837
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_freefall_dive.rseq",
+   "$guid": 10863950778298317696
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_freefall_emote_backflip.rseq",
+   "$guid": 8096475013293110444
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_freefall_emote_genericFlip.rseq",
+   "$guid": 3542765876979526238
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_freefall_emote_slalom.rseq",
+   "$guid": 12671060697035034831
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_bike.rseq",
+   "$guid": 10264706006925819639
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_bike_capturemode.rseq",
+   "$guid": 13274096604165131189
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_bike_idle.rseq",
+   "$guid": 12605769185558177606
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_bike_idle_light.rseq",
+   "$guid": 12868290577723677792
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_bike_light.rseq",
+   "$guid": 10946223642429198756
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_disc.rseq",
+   "$guid": 9543527483360671510
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_disc_idle.rseq",
+   "$guid": 16118919207101963692
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_disc_idle_light.rseq",
+   "$guid": 6774486784733787148
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_disc_light.rseq",
+   "$guid": 14524345066310669648
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_dj.rseq",
+   "$guid": 12693943871436761904
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_dj_idle.rseq",
+   "$guid": 444001493292565036
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_dj_idle_light.rseq",
+   "$guid": 5222207332776213390
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_dj_light.rseq",
+   "$guid": 8595524303744044284
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_pullups.rseq",
+   "$guid": 9024255140143734584
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_pullups_idle.rseq",
+   "$guid": 446835752143909781
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_pullups_idle_light.rseq",
+   "$guid": 9612432947314740860
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_pullups_light.rseq",
+   "$guid": 16657435356692119196
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_slide.rseq",
+   "$guid": 4445220175043560606
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_slide_capturemode.rseq",
+   "$guid": 10345703695749297540
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_slide_idle.rseq",
+   "$guid": 4910774754158367885
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_slide_idle_light.rseq",
+   "$guid": 2251801800050777797
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_animated_slide_light.rseq",
+   "$guid": 1904632551234976459
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_common_01.rseq",
+   "$guid": 1188639508107863891
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_common_01_light.rseq",
+   "$guid": 2533540791671315201
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose01.rseq",
+   "$guid": 13930833958982815056
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose01_light.rseq",
+   "$guid": 12747213429187283058
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose02.rseq",
+   "$guid": 13683484158395283576
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose02_light.rseq",
+   "$guid": 7252546626594510882
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose03.rseq",
+   "$guid": 13609391431540728120
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose03_light.rseq",
+   "$guid": 88447398941776470
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose04.rseq",
+   "$guid": 13362041630953196640
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose04_light.rseq",
+   "$guid": 11501035049673963286
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose05.rseq",
+   "$guid": 13287948903266157976
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose05_light.rseq",
+   "$guid": 5963053978856067906
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose06.rseq",
+   "$guid": 13213856176411602520
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose06_light.rseq",
+   "$guid": 17289013093138008314
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose07.rseq",
+   "$guid": 12966506375824071040
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose07_light.rseq",
+   "$guid": 11751032022320112934
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose08.rseq",
+   "$guid": 12881585081288872377
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose08_light.rseq",
+   "$guid": 6423066165288944799
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose09.rseq",
+   "$guid": 12807492354642437723
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_gladcard_static_pose09_light.rseq",
+   "$guid": 17749025279570885207
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_ground_emote_epic_sit.rseq",
+   "$guid": 12288308529192411499
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_ground_emote_epic_sit/overdrive_ground_emote_epic_sit_stool.rseq",
+   "$guid": 18106170106435884864
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_ground_emote_epic_sit_capturemode.rseq",
+   "$guid": 10640855860975270367
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_ground_emote_lgnd_motorcycle.rseq",
+   "$guid": 16635066435005038110
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_ground_emote_one_arm_handstand_pushup.rseq",
+   "$guid": 3168835010660131608
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_idle_UA_loot.rseq",
+   "$guid": 8495771888207657686
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_idle_UA_stretching.rseq",
+   "$guid": 17011736577490263720
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_idle_neckcrack.rseq",
+   "$guid": 756497713834714082
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_idle_pistol.rseq",
+   "$guid": 4574668123721451999
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_idle_pistol_ADS.rseq",
+   "$guid": 7582657177281690203
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_idle_pistol_ADS_AIM.rseq",
+   "$guid": 2996879720521522865
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_idle_pistol_AIM.rseq",
+   "$guid": 12270621196049714141
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_idle_rifle.rseq",
+   "$guid": 6924968694162171872
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_idle_rifle_ADS.rseq",
+   "$guid": 6288748051728088907
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_idle_rifle_ADS_AIM.rseq",
+   "$guid": 12863079019174035214
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_idle_rifle_AIM.rseq",
+   "$guid": 10509123829311171797
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_jump_crouchslide_UA.rseq",
+   "$guid": 1084104674392868816
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_jump_float_UA.rseq",
+   "$guid": 2758169916368128903
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_lobby_center_idle.rseq",
+   "$guid": 13883969528919162917
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_lobby_center_idle_twitch_squatstretch.rseq",
+   "$guid": 3448509194693714081
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_lobby_center_idle_twitch_warmup.rseq",
+   "$guid": 2981772800347778137
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_lobby_left_pose.rseq",
+   "$guid": 14266105831054375561
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_lobby_right_pose.rseq",
+   "$guid": 11144099694770553452
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_lobby_select_idle.rseq",
+   "$guid": 12515229079275721152
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_loot_ceremony.rseq",
+   "$guid": 17671621964797626050
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_select.rseq",
+   "$guid": 12337838329883440750
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_select_idle.rseq",
+   "$guid": 17656375449495771504
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_select_idle_motorcycle.rseq",
+   "$guid": 3162300302179510256
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_select_motorcycle.rseq",
+   "$guid": 9304958830615303511
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_select_ready_up.rseq",
+   "$guid": 11771590603461868399
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_select_ready_up_idle.rseq",
+   "$guid": 6540633729952687707
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_select_ready_up_idle_motorcycle.rseq",
+   "$guid": 16761240170783421031
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_select_ready_up_motorcycle.rseq",
+   "$guid": 4596516385590298393
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_menu_select_ready_up_motorcycle_capturemode.rseq",
+   "$guid": 5489161104094018423
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_run_UA_F.rseq",
+   "$guid": 7528352299938597074
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_run_pistol_F.rseq",
+   "$guid": 6139322360108819515
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_run_pistol_F_ADS.rseq",
+   "$guid": 8340615031447381575
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_run_rifle_F.rseq",
+   "$guid": 10070495762277557454
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_run_rifle_F_ADS.rseq",
+   "$guid": 11447292310335102787
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_slide_UA.rseq",
+   "$guid": 8427713235742632915
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_slide_pistol.rseq",
+   "$guid": 13103349756401764352
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_slide_rifle.rseq",
+   "$guid": 7417681110967956327
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_sprint_UA_F.rseq",
+   "$guid": 8426109660594703768
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_sprint_pistol_F.rseq",
+   "$guid": 6353200435707020335
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_sprint_pistol_akimbo_F.rseq",
+   "$guid": 9744289419220871131
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_sprint_rifle_F.rseq",
+   "$guid": 6870609385414355103
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_superglide.rseq",
+   "$guid": 1938686611449593110
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_tactical_pullout.rseq",
+   "$guid": 7996675052614382296
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_tactical_pullout_sliding.rseq",
+   "$guid": 13852920752424044618
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_tactical_toss.rseq",
+   "$guid": 6291390054217441590
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_tactical_toss_sliding.rseq",
+   "$guid": 11469574304099690728
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_ultimate_pullout.rseq",
+   "$guid": 4963953515041709417
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_ultimate_pullout_sliding.rseq",
+   "$guid": 16887690597540499676
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_ultimate_toss.rseq",
+   "$guid": 4411555318468237527
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_ultimate_toss_sliding.rseq",
+   "$guid": 6602442966303812261
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_updraft.rseq",
+   "$guid": 11889540555353911509
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_updraft_downed.rseq",
+   "$guid": 15841008799182898282
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_walk_UA_F.rseq",
+   "$guid": 12930387756400142615
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_walk_pistol_F.rseq",
+   "$guid": 14913801570431026089
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_walk_pistol_F_ADS.rseq",
+   "$guid": 6413637444472620499
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_walk_rifle_F.rseq",
+   "$guid": 17073925809592437237
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_walk_rifle_F_ADS.rseq",
+   "$guid": 6551348739516440549
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_wheel_layer.rseq",
+   "$guid": 11467281116841620154
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/overdrve_idle_UA.rseq",
+   "$guid": 16654969692200727578
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdrive/ragold_sword_sprint_carry.rseq",
+   "$guid": 15912610612717500890
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/class/medium/pilot_medium_overdriveoverdrive_run_UA_AIM.rseq",
+   "$guid": 5442792105634574355
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/humans/pete/ai_npc_core/npc_victim_overdrive_base_execution_medium.rseq",
+   "$guid": 11689977666329088068
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/bottle/bottle/prop_bottle_overdrive_gladcard_animated_bike.rseq",
+   "$guid": 7896601727035442667
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/bottle/bottle/prop_bottle_overdrive_gladcard_animated_bike_idle.rseq",
+   "$guid": 5091134658724042585
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/caustic_chair/caustic_chair/prop_causticchair_gcard_stance_overdrive_rare_05.rseq",
+   "$guid": 15170180501767510511
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/flagpole_01/flagepole_01/prop_flagpole_overdrive_gladcard_animated_pullups.rseq",
+   "$guid": 5353124134697497047
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/flagpole_01/flagepole_01/prop_flagpole_overdrive_gladcard_animated_pullups_idle.rseq",
+   "$guid": 16491897896201386373
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/muzzle_flash/muzzleflash_overdrive_gladcard_animated_slide.rseq",
+   "$guid": 12904321410281198903
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_clacker_01/overdrive_clacker_menu_select_idle_test.rseq",
+   "$guid": 8729308833304625179
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_clacker_01/overdrive_clacker_menu_select_ready_up_idle_test.rseq",
+   "$guid": 1058358626585456959
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_clacker_01/overdrive_clacker_menu_select_ready_up_test.rseq",
+   "$guid": 10907134666601431508
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_clacker_01/overdrive_clacker_menu_select_test.rseq",
+   "$guid": 674026343917905923
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_clacker_01/prop_clacker_gcard_stance_overdrive_rare_02.rseq",
+   "$guid": 12010163503211679705
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_disc/prop_disc_gcard_stance_overdrive_common_01.rseq",
+   "$guid": 16510313922956840880
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_disc/prop_disc_gcard_stance_overdrive_rare_04.rseq",
+   "$guid": 9926557214821790168
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_disc/prop_disc_gcard_stance_overdrive_rare_08.rseq",
+   "$guid": 9926986085612297132
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_disc/prop_disc_overdrive_gladcard_animated_disc.rseq",
+   "$guid": 4677914018856817244
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_disc/prop_disc_overdrive_gladcard_animated_disc_idle.rseq",
+   "$guid": 9149048537304462978
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_djturntable/prop_djturntable_overdrive_gladcard_animated_dj.rseq",
+   "$guid": 13907423687521905170
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_djturntable/prop_djturntable_overdrive_gladcard_animated_dj_idle.rseq",
+   "$guid": 9458006674761945555
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_djturntable/prop_djturntable_overdrive_gladcard_rare_07.rseq",
+   "$guid": 9438896760093324560
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_dumbbell/prop_dumbbell_gcard_stance_overdrive_rare_06.rseq",
+   "$guid": 3783006042336796903
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_motorcycle/overdrive_motorcycle_prop/overdrive_ground_emote_lgnd_motorcycle_prop.rseq",
+   "$guid": 13531412655928849730
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_motorcycle/overdrive_motorcycle_prop/overdrive_menu_select_idle_motorcycle_prop.rseq",
+   "$guid": 12207802007046707664
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_motorcycle/overdrive_motorcycle_prop/overdrive_menu_select_motorcycle_prop.rseq",
+   "$guid": 2130823533760782201
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_motorcycle/overdrive_motorcycle_prop/overdrive_menu_select_ready_up_idle_motorcycle_prop.rseq",
+   "$guid": 5159425768932569260
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_motorcycle/overdrive_motorcycle_prop/overdrive_menu_select_ready_up_motorcycle_prop.rseq",
+   "$guid": 9032610958006789610
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_motorcycle/prop_motorcycle_gcard_stance_overdrive_rare_01.rseq",
+   "$guid": 11515849301712514979
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_motorcycle/prop_motorcycle_overdrive_gladcard_animated_bike.rseq",
+   "$guid": 14631004013360095120
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_motorcycle/prop_motorcycle_overdrive_gladcard_animated_bike_idle.rseq",
+   "$guid": 1843809249662157967
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_motorcycle/prop_motorcycle_overdrive_gladcard_animated_disc.rseq",
+   "$guid": 13823196953760942187
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_motorcycle/prop_motorcycle_overdrive_gladcard_animated_disc_idle.rseq",
+   "$guid": 13940529302751913963
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical/overdrive_tactical_w/tactical_overdrive_skydive_slalom_01.rseq",
+   "$guid": 12894896723847473365
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical/overdrive_tactical_w/tactical_overdrive_skydive_slalom_02.rseq",
+   "$guid": 12922344450381563422
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical/overdrive_tactical_w/tactical_overdrive_skydive_slalom_03.rseq",
+   "$guid": 12949792177019713880
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical/overdrive_tactical_w/tactical_overdrive_skydive_slalom_04.rseq",
+   "$guid": 12977239903553803937
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical/overdrive_tactical_w/tactical_overdrive_skydive_slalom_05.rseq",
+   "$guid": 13004687630087893994
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical/overdrive_tactical_w/tactical_overdrive_skydive_slalom_06.rseq",
+   "$guid": 13032135356726044452
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical/overdrive_tactical_w/tactical_overdrive_skydive_slalom_07.rseq",
+   "$guid": 13059583083260134509
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical/tactical_overdrive_confirmation_select.rseq",
+   "$guid": 17214365860861250158
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical/tactical_overdrive_confirmation_select_idle.rseq",
+   "$guid": 8075701092590805891
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical_pad/overdrive_tactical_pad/overdrive_tac_pad_deploy.rseq",
+   "$guid": 3947021033753670273
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical_pad/overdrive_tactical_pad/overdrive_tac_pad_idle.rseq",
+   "$guid": 2378883955524003172
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical_pad/overdrive_tactical_pad/overdrive_tac_pad_trigger.rseq",
+   "$guid": 4911023698093303112
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_tactical_pad/overdrive_tactical_pad/prop_tactpad_gcard_stance_overdrive_rare_08.rseq",
+   "$guid": 10394454662580375055
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone/killswitch_transition_LockON_to_idle.rseq",
+   "$guid": 6650301697746455611
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone/killswitch_transition_idle_to_lockON.rseq",
+   "$guid": 2640051007144896368
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone/overdrive_killswitch_deploy.rseq",
+   "$guid": 7383185353188971802
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone/overdrive_killswitch_idle.rseq",
+   "$guid": 13227747957169561676
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone/overdrive_killswitch_idle_HitReaction.rseq",
+   "$guid": 16910867974077368999
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone/overdrive_killswitch_idle_LockOn.rseq",
+   "$guid": 15198599170880456275
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone_w/overdrive_killswitch_dive.rseq",
+   "$guid": 7997132403912859949
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone_w/overdrive_killswitch_dive_02.rseq",
+   "$guid": 6904290350087151264
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone_w/overdrive_ult_drone_menu_select.rseq",
+   "$guid": 3796986142329030796
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone_w/overdrive_ult_drone_menu_select_idle.rseq",
+   "$guid": 17459068744411453106
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone_w/overdrive_ult_drone_menu_select_ready_up.rseq",
+   "$guid": 5700825078073263319
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone_w/overdrive_ult_drone_menu_select_ready_up_idle.rseq",
+   "$guid": 4482053666009240325
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/overdrive_ult_drone/overdrive_ult_drone_w/prop_ultdrone_gcard_stance_overdrive_rare_02.rseq",
+   "$guid": 16427824247896941807
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/pariah_drone_cluster/pariah_drone_cluster/sparks01_overdrive_gladcard_animated_slide.rseq",
+   "$guid": 10521600356398840122
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/pariah_drone_cluster/pariah_drone_cluster/sparks02_overdrive_gladcard_animated_slide.rseq",
+   "$guid": 13844094812019751119
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/pariah_drone_cluster/pariah_drone_cluster/sparks03_overdrive_gladcard_animated_slide.rseq",
+   "$guid": 12005594738246509002
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/pariah_drone_cluster/pariah_drone_cluster/sparks04_overdrive_gladcard_animated_slide.rseq",
+   "$guid": 14481864603644078419
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/props/pariah_drone_cluster/pariah_drone_cluster/sparks05_overdrive_gladcard_animated_slide.rseq",
+   "$guid": 9656945291356359635
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/robots/spectre/ai_spectre_core/prop_spector_gcard_stance_overdrive_rare_03.rseq",
+   "$guid": 2608619294172717481
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/robots/spectre/ai_spectre_core/spectre01_overdrive_gladcard_animated_slide.rseq",
+   "$guid": 2158771806499349774
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/robots/spectre/ai_spectre_core/spectre02_overdrive_gladcard_animated_slide.rseq",
+   "$guid": 10441077317446114521
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/robots/spectre/ai_spectre_core/spectre03_overdrive_gladcard_animated_slide.rseq",
+   "$guid": 14222076859653918115
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/robots/spectre/ai_spectre_core/spectre04_overdrive_gladcard_animated_slide.rseq",
+   "$guid": 5155087650511499117
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/robots/spectre/ai_spectre_core/spectre05_overdrive_gladcard_animated_slide.rseq",
+   "$guid": 17521365288042986095
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/draw.rseq",
+   "$guid": 11122817137726011211
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/draw_to_idle.rseq",
+   "$guid": 5964046315337192708
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/draw_to_slide.rseq",
+   "$guid": 11577371313050034026
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/draw_to_sprint.rseq",
+   "$guid": 2007386740135314190
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/holster.rseq",
+   "$guid": 513650646986205807
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/idle.rseq",
+   "$guid": 1715287157067843080
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/idle_sliding.rseq",
+   "$guid": 17012784994058405382
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/jump.rseq",
+   "$guid": 7395113984997788261
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/land.rseq",
+   "$guid": 3951675243244375938
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/land_high.rseq",
+   "$guid": 10687802573721780025
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/land_low.rseq",
+   "$guid": 7280820686458524508
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/land_med.rseq",
+   "$guid": 6995333458647195832
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/lower.rseq",
+   "$guid": 952397572516276985
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/raise.rseq",
+   "$guid": 7582122613522191783
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/slide.rseq",
+   "$guid": 18017576451929695407
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/sprint.rseq",
+   "$guid": 8469249012503174767
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/toss.rseq",
+   "$guid": 14841175737119750401
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/toss_lower.rseq",
+   "$guid": 7488171935572280515
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_clacker/ptpov_overdrive_ult_clacker/toss_overhead.rseq",
+   "$guid": 4563325048737926330
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/draw_to_idle.rseq",
+   "$guid": 8428155512538964818
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/draw_to_sprint.rseq",
+   "$guid": 4996159575237911167
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/idle_to_sprint.rseq",
+   "$guid": 9895053072712379637
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/jump.rseq",
+   "$guid": 12289115318989066654
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/land.rseq",
+   "$guid": 8845676577860016737
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/land_high.rseq",
+   "$guid": 13996498565593893618
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/land_low.rseq",
+   "$guid": 3047708156646269187
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/land_med.rseq",
+   "$guid": 2892163733510310123
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/sprint_to_idle.rseq",
+   "$guid": 59889576656065526
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/toss.rseq",
+   "$guid": 1288432996777114772
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/toss_hold.rseq",
+   "$guid": 11207513528063134628
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/toss_hold_sprinting.rseq",
+   "$guid": 10255532017061918598
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/overdrive_tactical/overdrive_tactical/toss_prep_pullout.rseq",
+   "$guid": 11287885086724504240
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq/weapons/prowler_smg/ptpov_prowler_smg/drawfirst_overdrive.rseq",
+   "$guid": 7507040197371672143
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq_derived/humans/class/medium/pilot_medium_overdrive/confirmation_camera_hover_light.rseq",
+   "$guid": 569383841013959604
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq_derived/humans/class/medium/pilot_medium_overdrive/confirmation_camera_select.rseq",
+   "$guid": 11148143499611469852
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq_derived/humans/class/medium/pilot_medium_overdrive/confirmation_camera_select_idle.rseq",
+   "$guid": 4315768706652392293
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq_derived/humans/class/medium/pilot_medium_overdrive/overdrive_confirmation_hover.rseq",
+   "$guid": 160589823071169469
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq_derived/humans/class/medium/pilot_medium_overdrive/overdrive_confirmation_select.rseq",
+   "$guid": 9651601791597921052
+  },
+  {
+   "_type": "aseq",
+   "_path": "animseq_derived/humans/class/medium/pilot_medium_overdrive/overdrive_confirmation_select_idle.rseq",
+   "$guid": 7832936579026325129
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/ability/overdrive_pas_drift.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/ability/overdrive_tac_slide_gate.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/ability/overdrive_ultimate.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/ability/overdrive_upgrade_pas_slide_shot.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/ability/overdrive_upgrade_tac_slide_jump.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/ability/overdrive_upgrade_tactical_cooldown_reduction.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/ability/overdrive_upgrade_tactical_duration.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character/overdrive.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_emote/overdrive/epic_sit.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_emote/overdrive/lgnd_motorcycle.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_emote/overdrive/rare_pushup.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_execution/overdrive/base.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_execution/overdrive/lgnd_knee_wheel.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_01.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_02.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_03.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_04.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_05.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_06.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_07.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_08.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_09.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_10.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_11.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_12.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_13.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_14.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_15.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/common_16.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/rare_01.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/rare_02.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/rare_03.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/rare_04.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_intro_quip/overdrive/rare_05.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_01.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_02.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_03.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_04.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_05.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_06.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_07.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_08.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_09.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_10.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_11.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_12.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_13.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_14.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_15.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_16.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_17.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_18.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_19.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_20.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_21.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_22.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_23.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_24.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_25.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_26.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_27.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_28.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_29.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_30.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_31.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_32.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_33.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_34.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_35.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_36.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_37.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_38.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_39.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_40.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_kill_quip/overdrive/common_41.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/character_skin/overdrive/classic.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/emote_icon/overdrive/epic_v25_overdrive_01.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/emote_icon/overdrive/epic_v25_overdrive_02.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/emote_icon/overdrive/epic_v25_overdrive_03.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/emote_icon/overdrive/epic_v25_overdrive_04.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/emote_icon/overdrive/epic_v25_overdrive_05.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/emote_icon/overdrive/epic_v25_overdrive_06.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/emote_icon/overdrive/epic_v25_overdrive_07.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/emote_icon/overdrive/epic_v25_overdrive_08.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/emote_icon/overdrive/epic_v25_overdrive_09.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/emote_icon/overdrive/lgnd_v25_overdrive_01.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/apex_character.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/apex_predator.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/assassin.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/character_wake.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/character_wrath.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/deadeye.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/double_duty.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/flawless_victory_1.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/flawless_victory_2.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/headshot_hotshot.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/hot_streak.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/no_one_left_behind.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/rapid_elimination.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/reinforcement_recall.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/shot_caller.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/squad_wipe.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/the_legacy_continues.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_badge/overdrive/triple_triple.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/common_01.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/common_02.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/common_03.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/common_04.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/common_05.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/legendary_01.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/legendary_02.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/legendary_03.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/legendary_04.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/legendary_05.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/rare_01.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/rare_02.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/rare_03.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/rare_04.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_frame/overdrive/rare_05.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/common_01.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/epic_01.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/epic_02.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/epic_03.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/epic_04.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/epic_05.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/rare_01.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/rare_02.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/rare_03.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/rare_04.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/rare_05.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/rare_06.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/rare_07.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/rare_08.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_stance/overdrive/rare_09.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/br_wins.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/damage_done.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/executions.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/games_played.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/headshots.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/kills.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/kills_while_killleader.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/overdrive_kickstart_height.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/overdrive_nitro_gates_used.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/overdrive_slide_knocks.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/placements_top_3.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/placements_win_with_squad_alive.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/revives.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/weaponcat_ar_kills.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/weaponcat_crate_unique_kills.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/weaponcat_lmg_kills.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/weaponcat_marksman_kills.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/weaponcat_pistol_kills.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/weaponcat_shotgun_kills.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/weaponcat_smg_kills.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/weaponcat_sniper_kills.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/gcard_tracker/overdrive/winning_kills.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/lore/character/lore_overdrive.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/skydive_emote/overdrive/epic_overdrive_backflip.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/itemflav/skydive_emote/overdrive/epic_overdrive_slalom.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/player/mp/pilot_survival_overdrive.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/fx_axle_charsel_clicker_light.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/fx_axle_charsel_clicker_light_idle.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/fx_axle_charsel_moto_tailLight.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/fx_axle_charsel_moto_tire.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/fx_axle_charsel_moto_tire_RevUp.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/fx_axle_charsel_tac_gate_trail.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/prop_axle_tactical_confirmation_select.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/prop_axle_tactical_confirmation_select_idle.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/rpak_roots/lgnd_skins/overdrive/classic.rpak"
+  }
+ ]
+}

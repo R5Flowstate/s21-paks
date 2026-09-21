@@ -1,0 +1,3909 @@
+{
+ "version": 8,
+ "keepDevOnly": true,
+ "name": "common_mp",
+ "assetsDir": "s21-to-s3-server/common_mp/",
+ "outputDir": "./build/",
+ "compressLevel": 6,
+ "compressWorkers": 16,
+ "files": [
+  {
+   "_type": "mdl_",
+   "_path": "mdl/barriers/fence_wire_holder_double.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/barriers/shooting_range_target_01_animated.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/barriers/shooting_range_target_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/barriers/shooting_range_target_02_stand.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/beacon/beacon_construction_flag_animated.rmdl",
+   "$sequences": [
+    "animseq/beacon/beacon_construction_flag_animated/left.rseq",
+    "animseq/beacon/beacon_construction_flag_animated/left2.rseq",
+    "animseq/beacon/beacon_construction_flag_animated/left3.rseq",
+    "animseq/beacon/beacon_construction_flag_animated/right.rseq",
+    "animseq/beacon/beacon_construction_flag_animated/right2.rseq",
+    "animseq/beacon/beacon_construction_flag_animated/right3.rseq"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/beacon/charge_generator_01_destroyed.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/beacon/charge_generator_01_glass.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/beacon/construction_scaff_post_256_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/beacon/crane_room_monitor_console_static.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/beacon/crane_room_monitor_console_static_off.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/canyonlands/firingrange_perimetermarker_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/canyonlands/firingrange_perimetermarker_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/canyonlands/firing_range_mu1_targets_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/canyonlands/firing_range_mu1_targets_01_stand.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/celebration/celebration_blimp/celebration_blimp_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/celebration/float_balloons/nessie_float_balloon_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/communication/radar_tower_imc_01_animated.rmdl",
+   "$sequences": [
+    "animseq/communication/radar_tower_imc_01_animated/idle_spinning.rseq",
+    "animseq/communication/radar_tower_imc_01_animated/idle_stopped.rseq",
+    "animseq/communication/radar_tower_imc_01_animated/starting.rseq",
+    "animseq/communication/radar_tower_imc_01_animated/stopping.rseq"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/communication/terminal_usable_imc_01.rmdl",
+   "$sequences": [
+    "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_end.rseq",
+    "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_end_ALT.rseq",
+    "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_idle.rseq",
+    "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_idle_ALT.rseq",
+    "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_remoteturret_start.rseq",
+    "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_start.rseq",
+    "animseq/communication/terminal_usable_imc_01/tm_data_knife_console_leech_start_ALT.rseq",
+    "animseq/communication/terminal_usable_imc_01/tm_hovertank_grenade.rseq",
+    "animseq/communication/terminal_usable_imc_01/tm_Playback_SOS_console_hack.rseq",
+    "animseq/communication/terminal_usable_imc_01/tm_Playback_SOS_console_hack_idle.rseq",
+    "animseq/communication/terminal_usable_imc_01/tm_Playback_SOS_console_hack_start.rseq"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/containers/barrel.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/containers/portable_holding_cell_massive_open.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/Creatures/flyer/flyer_kingscanyon_animated.rmdl",
+   "$animrigs": [
+    "animrig/creatures/flyer/flyer_kingscanyon_animated.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/Creatures/spider/spider.rmdl",
+   "$animrigs": [
+    "animrig/creatures/spider/ai_spider_core/ai_spider_core.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/Creatures/spider/spider_jungle.rmdl",
+   "$animrigs": [
+    "animrig/creatures/spider/ai_spider_core/ai_spider_jungle_core.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/currency/crafting/currency_crafting_common.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/currency/crafting/currency_crafting_legendary.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/desertlands/flare_emerg_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/desertlands/mirage_tt_lootcap_off.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/dev/editor_ref.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/divided_moon/common/zip_rail_01/fx_rail_jump_thruster.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/domestic/nessy_doll.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/canyonlands_door_single_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/canyonlands_door_single_02_damaged.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/canyonlands_door_vfx_bl.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/canyonlands_door_vfx_br.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/canyonlands_door_vfx_c.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/canyonlands_door_vfx_l.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/canyonlands_door_vfx_uc.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/canyonlands_door_vfx_ul.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/canyonlands_door_vfx_ur.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/door_104x64x8_elevatorstyle01_left_static.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/door_104x64x8_elevatorstyle01_right_animated.rmdl",
+   "$animrigs": [
+    "animrig/door/door_104x64x8_elevatorstyle01_right_animated.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/door_104x64x8_elevatorstyle01_right_static.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/door_108x60x4_generic_r_static.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/door/metal_swinging_door_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_breach_base_elec_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_breach_base_front_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_crack_blsh_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_crack_blsh_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_crack_blsh_03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_crack_blsh_04.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_crack_blsh_05.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_crack_refrac_04.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_crack_refrac_edges_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_crack_refrac_p3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_pentagon_core_bg_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_tac_crack_holo_p1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_tac_crack_holo_p2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_tac_crack_holo_p3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_tac_crack_holo_p4.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_tac_crack_holo_p5.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_tac_crack_holo_p6.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_tac_preview_arrow.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_tac_space_funnel.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_ulti_prop_piece_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_ulti_prop_piece_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_ulti_prop_piece_03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/alter_ulti_prop_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/arcbolt_proj_active.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/arcbolt_proj_blur.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/arcbolt_proj_radius_detect.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/arcbolt_proj_radius_edge.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/arcbolt_proj_radius_elec.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/Artifact_hisoc_deathbox_ray_color_VFX.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/Artifact_hisoc_deathbox_ray_VFX.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_artillerypulse.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_artillerypulse_scan.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_crypto_emp_radius.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_edge_cylinder_512.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_hazard_ring_1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_hazard_ring_z.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_holopulse.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_marker_arrow_down_btm.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_marker_big_arrow_down.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_marker_ringwobble.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_radiusmarker.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_radius_cylinder_1x1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_radius_cylinder_1x1_mid.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_radius_simple_fade_1xpt5.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_sonar_pulse_ground.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_survival_cylinder.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_survival_radius_1k_x_100k.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_survival_radius_1k_x_1k.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_survival_radius_1k_x_5k.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_survival_radius_1x1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_survival_radius_1x100.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_survival_radius_1x5.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_warp_radius_1x5.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ar_zipline_range.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ash_glaive_hit_fx.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ash_tether_radius_edgeDetect.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ash_tether_radius_edgeDetect_mid.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/atmo_debris_trail.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/atmo_debris_trail_fire.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ballistic_backpack_shockwave_init.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ballistic_backpack_shockwave_init_edge.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ballistic_screen_visor_ar.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ballistic_tac_aoe_holo_grid_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ballistic_tac_aoe_holo_projector_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ballistic_tac_aoe_scan_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ballistic_tac_sensor.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ballistic_ulti_body_btm_ar.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/bb_shield.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/bb_shield_p1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/bb_shield_p2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/bb_shield_p3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/bb_shield_p4.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/bb_shield_p5.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/bb_shield_small.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/bb_shield_small_p1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/bb_shield_small_p2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/bb_shield_small_p3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/bb_shield_small_p4.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/bb_shield_small_p5.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/beacon_survey_sat_glow_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/beacon_survey_sat_glow_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/beacon_survey_sat_glow_03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/beam_spiral_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/campfire_radius_alt.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/campfire_swirl.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/caustic_gas_tank_lid.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/cloud_fill_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/controller_console_elec.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/crypto_boot_holo.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/crypto_heirloom_exhaust_energy.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/dataknife_holo_3p_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/dataknife_holo_3p_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/deathbox_mob_fx_v2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/deathbox_steampunk_fx_shell.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/deathbox_stech_fx_shell.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/death_totem_init_spire.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/decoy_grenade_ping.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/drone_frag_hex_glow_fx.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/drone_tube_dark.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/eggsplosion_shell_piece.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/eye_glow.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_orb_active.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_pas_rebuild_blend.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_pas_spike_blend.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_pas_tech_web.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_pas_tech_web_blend.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_slab_charged.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_tac_calm_core_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_tac_calm_side_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_tac_calm_side_L.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_tac_calm_side_R.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_tac_core_column_add.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_tac_field_lines_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_tac_spike_core_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_tac_spike_side_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_tac_spike_side_L.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_tac_spike_side_R.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_tech_mesh.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_tech_preview.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_ar.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_base_puddle.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_base_tech.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_cover_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_cover_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_cover_03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_finish_fill.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_slope_01_3x.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_wall_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_wall_01_2x.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_wall_01_3x.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_wall_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_wall_02_2x.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_wall_02_3x.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_wall_03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_wall_03_2x.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferrofluid_ult_wall_03_3x.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ferro_veil_sphere.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/firewall_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fire_oval_fx.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/forged_shadows_shield.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/forged_shadows_shield_backv2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/forged_shadows_shield_glitch.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/forged_shadows_shield_physX.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/forged_shadows_shield_pt_1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/forged_shadows_shield_pt_2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/forged_shadows_shield_pt_3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/forged_shadows_shield_pt_4.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/frag_grenade_glow_fx.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fuse_intersection_cone.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fuse_tac_donut_aoe.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fuse_tac_half_sphere_aoe.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_conduit_buff_ring.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_conduit_buff_screen_1p.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_conduit_jammer_cap.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_conduit_jammer_core.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_conduit_jammer_gib_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_conduit_jammer_nodes.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_conduit_jammer_panel.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_conduit_ult_arc.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_conduit_ult_edge.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_conduit_ult_holo_panels.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_conduit_ult_sphere_aoe.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_cont_console_bot.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_cont_console_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_rev_passive_mdl.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_ss_closet_door_piece_12.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_summon_ring.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/fx_summon_ring_flat.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ghurka_plasma.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/harvester_beam_mu1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/heatwave_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/heatwave_top_dmg.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/hologram_chevrex.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/hologram_gravity_launcher.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/hologram_health_icon.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/hologram_workbench_hex.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/hologram_workbench_icon.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/hologram_workbench_pieces_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/hologram_workbench_pieces_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/hologram_workbench_pieces_03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/lifeline_drone_eye_red.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loba_staff_des_pc_A.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loba_staff_des_pc_B.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loba_staff_des_pc_C.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loba_staff_des_pc_D.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loba_staff_holo_stand.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loot_ball_panel_1point.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loot_ball_panel_3point.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loot_ball_panel_3point_brk.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loot_ball_panel_5point.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loot_ball_panel_5point_brk.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loot_bin_secret_glow.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loot_candy_debris_blue.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loot_candy_debris_green.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loot_candy_debris_pink.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loot_drone_exhaust.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/loot_tick_spotlight.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/markdeath_deathbox_v002.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/medic_shield_wall.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/mm_ball_explode_main.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/mm_ball_fireout.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/mm_puck_energy.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/mm_wall_attach_FX.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/mobile_respawn_ar_holo.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/nemesis_magnet_02_fx.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/nemesis_magnet_fx.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/nemesis_wing_fx.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_ar_shield.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_ar_wall.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_leap_arc.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_leap_splash_radius.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_tac_drone_thrusters.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_tac_hex_shield.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_tac_shield_hex1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_tac_shield_hex2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_tac_shield_hex3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_dest_sml_dark_bot.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_dest_sml_dark_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_dest_sml_L_bot.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_dest_sml_L_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_dest_sml_R_bot.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_dest_sml_R_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_emissive_lg_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_emissive_lg_L.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_emissive_lg_R.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_emissive_low_L_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_emissive_low_L_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_emissive_low_L_03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_emissive_low_R_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_emissive_low_R_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newcastle_wall_emissive_low_R_03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newt_debris_base.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newt_debris_brace.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newt_debris_lid.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newt_debris_panel.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/newt_debris_piston.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/nova_elevator_shield.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/nova_intersection_ring.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/nova_intersection_sphere.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/nova_space_elevator_beam.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/nova_storm_sphere.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/nova_wind_ring.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/oly_sphere_ring_nrg.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_ability_sonic_tube.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_ability_sonic_tube_enemy.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_ability_sonic_web.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_ar_steps_cluster.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_ar_steps_cluster_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_ar_steps_cluster_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_ar_steps_flat.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_ar_steps_glow.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_ar_steps_pin.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_heart_doorfront_t.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_heart_door_back.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_heart_gem.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_heart_piece_base.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_hud_filler.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_web_branches.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pariah_killroom_web_cluster_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/phase_gate_edge_rnd.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/phase_tower_nrg_battery_active.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/phase_tower_nrg_ring_conduit.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/phase_tower_nrg_start_pulse.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/phase_tower_portal_dark.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/phase_tunnel_ash_geo.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pilot_dash_streaks_FX.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/portal_ring_warn_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/portal_ring_warn_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pylon_point_elec.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/pylon_point_glow.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_amp_edge.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_amp_fill_mid.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_amp_fill_near.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_amp_start_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_amp_start_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_amp_start_03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_amp_start_04.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_amp_start_05.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_health_ticks.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_shield_border_far.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_shield_border_mid.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_shield_cell.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_shield_edge.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/rampart_shield_wire.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ring_console_edge.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ring_console_scan.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/ring_dmg_geo.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/Screen_fx_rev_hex_fill_bottom.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/Screen_fx_rev_hex_fill_left.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/Screen_fx_rev_hex_fill_right.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/Screen_fx_rev_hex_fill_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/Screen_fx_rev_hex_lines_bottom.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/Screen_fx_rev_hex_lines_left.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/Screen_fx_rev_hex_lines_right.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/Screen_fx_rev_hex_lines_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/screen_heal_fx.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/seer_fistblade_blade_glow.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/seer_tactical_segment.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/seer_tactical_tube_drones.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/seer_tactical_web.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/seer_tactical_web_enemy.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/sensor_pulse.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/sentry_turret_shield.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/shellshock_screen_vignette.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/shield_edge_charged_fx.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/shield_edge_fx.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/sonar_pulse_cone.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/sonar_pulse_wave.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/spider_gibs.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/spider_web_cone.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/strikeout_shield01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/td2_drone_exhaust.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/trophy_system_imp.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/turret_shield_wall.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/turret_shield_wall_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/turret_shield_wall_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/turret_shield_wall_03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/valk_spear_swirl.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/vignette_mesh_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/vignette_mesh_02_thin.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/void_ring_beam.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/void_ring_beam_dmg.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/void_ring_fury_top_dmg.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/void_ring_preview.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/void_ring_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/void_ring_top_cap.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/void_ring_top_dmg.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/watt_trophy_des_base.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/watt_trophy_des_body.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/watt_trophy_des_coil.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/watt_trophy_des_panel_1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/watt_trophy_des_panel_2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/wraith_holo_fx_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/wraith_Kunai_w_all.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/wraith_portal_center_LG.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/xo_shield_wall.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/xo_shield_wall_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/xo_shield_wall_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/xo_shield_wall_03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/fx/xo_sword_block_hit.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/gibs/human_gibs.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/gibs/titan_gibs/at_gib8_l_thigh2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/gibs/titan_gibs/og_gib_r_forarm_d.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/hud/grenade_indicator/bang_indicator.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/hud/grenade_indicator/grenade_indicator_alter_portal.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/hud/grenade_indicator/grenade_indicator_arrow.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/hud/grenade_indicator/grenade_indicator_bomb.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/hud/grenade_indicator/grenade_indicator_frag.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/hud/grenade_indicator/grenade_indicator_frag_sentry.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/hud/grenade_indicator/grenade_indicator_fuse_tactical_grenade.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/hud/grenade_indicator/grenade_indicator_shuriken.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/hud/grenade_indicator/grenade_indicator_skull.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/hud/grenade_indicator/grenade_indicator_sonar.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans/class/light/pilot_light_lifeline.rmdl",
+   "$animrigs": [
+    "0xC492CF324E91A3AC",
+    "0xAE35942185B93B3D"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans/class/medium/dummie_medium_combat.rmdl",
+   "$animrigs": [
+    "animrig/humans/class/medium/ai_combat_dummie_core.rrig",
+    "0xB0092E2F6234E376",
+    "0xC7A57FCE8A61A4B6"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans/class/medium/dummie_medium_training.rmdl",
+   "$animrigs": [
+    "animrig/humans/class/medium/ai_combat_dummie_core.rrig",
+    "0xB0092E2F6234E376"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans/class/medium/pilot_medium_bloodhound.rmdl",
+   "$animrigs": [
+    "0x92079B00D5DA2D6D",
+    "0x453481A1536FAD9E"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans/class/medium/pilot_medium_empty.rmdl",
+   "$animrigs": [
+    "animrig/humans/class/medium/mp_pilot_medium_empty.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans/class/medium/pilot_medium_loba.rmdl",
+   "$animrigs": [
+    "0x92079B00D5DA2D6D",
+    "0x2E93D7794EBF6F4D"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans/class/medium/pilot_medium_valkyrie.rmdl",
+   "$animrigs": [
+    "0x92079B00D5DA2D6D",
+    "0xE239BCA24987306D"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans/class/medium/spectre_v20_orange_ai.rmdl",
+   "$animrigs": [
+    "0xC7A57FCE8A61A4B6",
+    "0xB0092E2F6234E376"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans/class/medium/spectre/v20_orange_staticSpectre_boxidle_bay.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans/class/medium/spectre/v20_orange_staticSpectre_idle_bay.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans/grunts/imc_grunt_lmg_corpse.rmdl",
+   "$animrigs": [
+    "animrig/humans/grunts/grunts_corpse_poses.rrig",
+    "animrig/humans/pete/ai_infected_core.rrig",
+    "0xB0092E2F6234E376"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans/pilots/pilot_light_ged_m_head_gib.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans_r5/pilots_r5/pilot_valkyrie/invisible_prop.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_rocket_cannister_bottom.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans_r5/pilots_r5/pilot_valkyrie/valkyrie_rocket_cannister_side.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/humans_r5/pilots_r5/pilot_valkyrie/w_valkyrie_rocket_projectile.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/imc_base/door_lock_large_IMC_01_gib01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/imc_base/door_lock_large_IMC_01_gib02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/imc_base/door_lock_large_IMC_01_gib03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/imc_base/door_lock_small_IMC_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/imc_base/scaffold_tech_horz_rail_c.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/industrial/gun_rack_arm_down.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/industrial/gun_rack_arm_down_new_off.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/industrial/zipline_arm.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/lamps/office_lights_hanging_wire.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/levels_terrain/mp_lobby/holospray_backdrop_godray_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_bundle_store_bg.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_bundle_store_smoke.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/menu/generic_1570_740_bg.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/menu/generic_1920_1080_bg.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/menu/loot_ceremony_quip_bg.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/menu/loot_ceremony_stat_tracker_bg.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/metal_scraps/scrap_metal03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/metal_scraps/scrap_metal04.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/ola/sewer_grate_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/ola/sewer_railing_01_128.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/ola/sewer_staircase_quad.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/pipes/pipe_modular_grey_bracket_cap.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/alter_teleporter/alter_teleporter_portal.rmdl",
+   "$animrigs": [
+    "0x7CBCCE26D1A8FD06"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/caustic_gas_tank/caustic_gas_tank_big.rmdl",
+   "$animrigs": [
+    "0x64D6F5F92125F766"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/charge_pylon/charge_pylon_01_cells.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/controller_console/controller_console.rmdl",
+   "$animrigs": [
+    "animrig/props/controller_console/controller_console.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/crafting_replicator/crafting_replicator.rmdl",
+   "$animrigs": [
+    "animrig/props/crafting_replicator/crafting_replicator.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/crafting_replicator/crafting_replicator_afterburners.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/crafting_replicator/crafting_replicator_doorGlow.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/crafting_replicator/crafting_replicator_no_engine.rmdl",
+   "$animrigs": [
+    "animrig/props/crafting_replicator/crafting_replicator.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/crystal_shard_01/crystal_shard_broken_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/crystal_shard_01/crystal_shard_broken_damaged_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/crystal_shard_01/crystal_shard_intact_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/crystal_shard_01/crystal_shard_intact_bottom_damaged_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/crystal_shard_01/crystal_shard_intact_damaged_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/crystal_shard_01/crystal_shard_intact_full_damaged_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/death_box/death_box_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/death_box/death_box_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/editor_ref_camera/editor_ref_camera.rmdl",
+   "$sequences": [
+    "animseq/props/editor_ref_camera/editor_ref_camera/CC_ccStart_cam0.rseq",
+    "animseq/props/editor_ref_camera/editor_ref_camera/CC_ccStart_cam1.rseq",
+    "animseq/props/editor_ref_camera/editor_ref_camera/CC_ccStart_cam2.rseq",
+    "animseq/props/editor_ref_camera/editor_ref_camera/CC_ccStart_cam3.rseq",
+    "animseq/props/editor_ref_camera/editor_ref_camera/mp_cam_victory.rseq"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/evac_tower_balloon/evac_tower_balloon.rmdl",
+   "$animrigs": [
+    "animrig/props/evac_tower_balloon/evac_tower_balloon.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/evac_tower_rocket/evac_tower_rocket.rmdl",
+   "$animrigs": [
+    "animrig/props/evac_tower_rocket/evac_tower_rocket.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/evac_tower_weight/evac_tower_weight.rmdl",
+   "$animrigs": [
+    "animrig/props/evac_tower_weight/evac_tower_weight.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/explosivehold_container_01/explosivehold_container_01_proxy.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/explosivehold_container_01/explosivehold_gunrackcap_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/flower_hibiscus_prop/flower_hibiscus_prop.rmdl",
+   "$animrigs": [
+    "animrig/props/flower_hibiscus_prop/flower_hibiscus_prop_animrig.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/generator_coop/generator_coop_rings_animated.rmdl",
+   "$sequences": [
+    "animseq/props/generator_coop/generator_coop_rings_animated/generator_cycle_fast.rseq",
+    "animseq/props/generator_coop/generator_coop_rings_animated/generator_cycle_slow.rseq",
+    "animseq/props/generator_coop/generator_coop_rings_animated/generator_fall.rseq",
+    "animseq/props/generator_coop/generator_coop_rings_animated/generator_idle.rseq",
+    "animseq/props/generator_coop/generator_coop_rings_animated/generator_rise.rseq"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/global_access_panel_button/global_access_panel_button_console.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/global_access_panel_button/global_access_panel_button_console_w_stand.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/global_access_panel_button/global_access_panel_button_wall.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/goblin_interior/goblin_door_broken_w.rmdl",
+   "$animrigs": [
+    "animrig/props/goblin_interior/goblin_interior_01_w_doors.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/goblin_interior/goblin_door_intact_w.rmdl",
+   "$animrigs": [
+    "animrig/props/goblin_interior/goblin_interior_01_w_doors.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/goblin_interior/goblin_interior_w.rmdl",
+   "$animrigs": [
+    "animrig/props/goblin_interior/goblin_interior_01_w.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/gravity_cannon/gravity_cannon_v21_base_w.rmdl",
+   "$animrigs": [
+    "animrig/props/gravity_cannon/gravity_cannon.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/holo_spray/holo_spray_base.rmdl",
+   "$animrigs": [
+    "0x49236D42003185C0"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/lobby_revenant_prop1/lobby_revenant_prop1.rmdl",
+   "$animrigs": [
+    "animrig/props/lobby_revenant_prop1/lobby_revenant_prop1.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/loot_bin/loot_bin_01_animated.rmdl",
+   "$sequences": [
+    "animseq/props/loot_bin/loot_bin_01_loba_close_all.rseq",
+    "animseq/props/loot_bin/loot_bin_01_loba_close_top.rseq",
+    "animseq/props/loot_bin/loot_bin_01_loba_open_all.rseq",
+    "animseq/props/loot_bin/loot_bin_01_loba_open_bottom.rseq",
+    "animseq/props/loot_bin/loot_bin_01_loba_open_top.rseq",
+    "animseq/props/loot_bin/loot_bin_01_loba_openidle_all.rseq",
+    "animseq/props/loot_bin/loot_bin_01_loba_openidle_top.rseq"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/loot_bin/loot_bin_01_loba.rmdl",
+   "$sequences": [
+    "animseq/props/loot_bin/loot_bin_01_loba_close_all.rseq",
+    "animseq/props/loot_bin/loot_bin_01_loba_close_top.rseq",
+    "animseq/props/loot_bin/loot_bin_01_loba_open_all.rseq",
+    "animseq/props/loot_bin/loot_bin_01_loba_open_bottom.rseq",
+    "animseq/props/loot_bin/loot_bin_01_loba_open_top.rseq",
+    "animseq/props/loot_bin/loot_bin_01_loba_openidle_all.rseq",
+    "animseq/props/loot_bin/loot_bin_01_loba_openidle_top.rseq"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/loot_drone/loot_drone.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/loot_projector/loot_projector.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/loot_sphere/loot_sphere.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/madmaggie_ultimate_ball_static/madmaggie_ultimate_ball_static.rmdl",
+   "$animrigs": [
+    "animrig/props/madmaggie_ultimate_ball_static/madmaggie_ultimate_ball_static.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/madmaggie_ultimate_mine/madmaggie_ultimate_mine.rmdl",
+   "$animrigs": [
+    "animrig/props/madmaggie_ultimate_mine/madmaggie_ultimate_mine.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/mobile_respawn_beacon/mobile_respawn_beacon_animated.rmdl",
+   "$sequences": [
+    "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_closed.rseq",
+    "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_destruction.rseq",
+    "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_idle.rseq",
+    "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_land.rseq",
+    "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_slope_destruction.rseq",
+    "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_slope_idle.rseq",
+    "animseq/props/mobile_respawn_beacon/mobile_respawn_beacon_animated/mobile_respawn_beacon_slope_land.rseq"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/nessie/nessie_ragold_w.rmdl",
+   "$animrigs": [
+    "animrig/props/nessie/nessie_ragold.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/newcastle_shield_wall/newcastle_wall_v22_left_compact_w.rmdl",
+   "$animrigs": [
+    "0xE2ADEE72586D2BAC"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/newcastle_shield_wall/newcastle_wall_v22_left_small_w.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/newcastle_shield_wall/newcastle_wall_v22_right_compact_w.rmdl",
+   "$animrigs": [
+    "0xE2ADEE72586D2BAC"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/newcastle_shield_wall/newcastle_wall_v22_right_small_w.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/pariah_heart/pariah_heart.rmdl",
+   "$animrigs": [
+    "animrig/props/pariah_heart/pariah_heart.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/prowler_mound/prowler_mound_proxy_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/raisable_wall_hydraulic_arms/hydraulic_arm.rmdl",
+   "$animrigs": [
+    "animrig/props/raisable_wall_hydraulic_arms/hydraulic_arm.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/rampart_cover_wall_replacement/rampart_cover_wall_invisible_collision_120x10_phys.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/rampart_cover_wall_replacement/rampart_cover_wall_invisible_collision_40x15_phys.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/rampart_turret_vehicle_clip/rampart_turret_vehicle_clip_static.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/recon_beacon_dish/recon_beacon_dish.rmdl",
+   "$animrigs": [
+    "animrig/props/recon_beacon_dish/recon_beacon_dish.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/skull_mech_grenade/skull_mech_grenade.rmdl",
+   "$animrigs": [
+    "animrig/props/skull_mech_grenade/skull_mech_grenade_animrig.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/stickers/flat_sticker.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/treasurehunt_platform_01/treasure_hunt_platform_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/treasure_hunt_drill/treasure_hunt_drill.rmdl",
+   "$animrigs": [
+    "animrig/props/treasure_hunt_drill/treasure_hunt_drill.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/treasure_hunt_drill_box/treasure_hunt_drill_box.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/props/void_ring/void_ring.rmdl",
+   "$animrigs": [
+    "animrig/props/void_ring/void_ring.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robotics_r2/turret_plasma/plasma_turret_pc_1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robotics_r2/turret_plasma/plasma_turret_pc_2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robotics_r2/turret_plasma/plasma_turret_pc_3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robotics_r5/spectre/spectre_shack_head_gib.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robotics_r5/tick_loot/tick_loot_pcs_body_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robotics_r5/tick_loot/tick_loot_pcs_leg_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robotics_r5/tick_loot/tick_loot_pcs_panel_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/drone_air_attack/drone_attack_pc_1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/drone_air_attack/drone_attack_pc_2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/drone_air_attack/drone_attack_pc_3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/drone_air_attack/drone_attack_pc_4.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/drone_air_attack/drone_attack_pc_5.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/marvin_v2/marvin_v2_head_gib.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/marvin_v2/marvin_v2_l_arm_gib.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/marvin_v2/marvin_v2_l_leg_gib.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/marvin_v2/marvin_v2_r_arm_gib.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/marvin_v2/marvin_v2_r_leg_gib.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/mobile_hardpoint/mobile_hardpoint_static.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/spectre/spectre_assault_d_gib_arm_L.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/spectre/spectre_assault_d_gib_arm_R.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/spectre/spectre_assault_d_gib_leg_L.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/robots/spectre/spectre_assault_d_gib_leg_R.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/rocks/rock_desert_04.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/rocks/rock_jagged_granite_small_01_phys.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/s2s/s2s_hullhatch_tube_lift.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/s2s/s2s_stair_railing_quad_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/sandtrap/sandtrap_wall_bracket.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/signs/billboard_brands/billboard_chevrex.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/signs/billboard_brands/billboard_chicken.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/signs/billboard_brands/billboard_hammond.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/signs/billboard_brands/billboard_koalakola.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/signs/billboard_brands/billboard_paradinha.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/signs/billboard_brands/billboard_powerizer.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/signs/billboard_brands/billboard_silva.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/signs/billboard_brands/billboard_ziptec.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/td2/td2_drone_broadcasting_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/test/davis_test/charge_pylong_ping_proxy.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/test/roger_test/grapple_swtich_large_lever_dev.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/test/roger_test/grapple_swtich_lever_dev.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/tropics/fx_ss_closet_door_bot.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/tropics/fx_ss_closet_door_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/tropics/gravity_launcher_mini_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/tropics/spectre_shack_01_proxy.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/tropics/tropics_spider_eggs_broken_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/tropics/tropics_spider_eggs_whole_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/capital_ship_annapolis/annapolis_fleetScale_1000x.rmdl",
+   "$sequences": [
+    "animseq/vehicle/capital_ship_annapolis/annapolis_fleetScale_1000x/cb_space_flyby_anna.rseq",
+    "animseq/vehicle/capital_ship_annapolis/annapolis_fleetScale_1000x/cb_space_scramble_anna.rseq",
+    "animseq/vehicle/capital_ship_annapolis/annapolis_fleetScale_1000x/idle.rseq",
+    "animseq/vehicle/capital_ship_annapolis/annapolis_fleetScale_1000x/idle_fixed.rseq"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/droppod_fireteam/droppod_fireteam.rmdl",
+   "$animrigs": [
+    "animrig/vehicle/droppod_fireteam/droppod_fireteam.rrig"
+   ],
+   "$sequences": [
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/body_aimmatrix.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/dp_droppod_briefing.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/dp_droppod_drop.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/dp_droppod_idle.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/dp_droppod_ready.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/dp_embark.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/dp_menu_countdown.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/dp_O2_IMC_hotdrop.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/idle_door_open.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/pod_testpath.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/pod_testpath_camera.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/pod_testpath_fast.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/pod_testpath_loop.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/turret_aimmatrix.rseq"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/droppod_fireteam/droppod_fireteam_door.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/droppod_loot/droppod_loot_afterburners.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/droppod_loot/droppod_loot_animated.rmdl",
+   "$animrigs": [
+    "animrig/vehicle/droppod_loot/droppod_loot.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/droppod_loot/droppod_loot_LL_holo.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/droppod_loot/droppod_loot_LL_holo1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/droppod_loot/droppod_loot_LL_holo2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/droppod_loot/droppod_loot_LL_holo3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/droppod_loot/droppod_loot_LL_holo4.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/droppod_loot/droppod_loot_LL_holo5.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/droppod_loot/droppod_loot_LL_holo6.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/droppod_loot/droppod_loot_LL_holo7.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/dropship/dropship_afterburner.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/goblin_dropship/goblin_dropship.rmdl",
+   "$animrigs": [
+    "animrig/vehicle/dropship/dropship_common.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/goblin_dropship/goblin_dropship_debris_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/goblin_dropship/goblin_dropship_dest_cockpit.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/goblin_dropship/goblin_dropship_dest_wing_l.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/goblin_dropship/goblin_dropship_dest_wing_r.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/goblin_dropship/goblin_dropship_holo.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/hovership/hovership_afterburner_main.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/hovership/hovership_platform_mp.rmdl",
+   "$animrigs": [
+    "animrig/vehicle/hovership/hovership_platform.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/hovership/hovership_platform_mp_body_static.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/hovership/hovership_turret.rmdl",
+   "$animrigs": [
+    "animrig/vehicle/hovership/hovership_turret.rrig"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicle/olympus_hovercraft/olympus_hovercraft_v2_two_passengers.rmdl",
+   "$animrigs": [
+    "0x5C3A4040C65F9785"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicles_r2/aircraft/widow/veh_air_widow.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicles_r2/aircraft/widow/veh_air_widow_revenant_decal_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicles_r2/aircraft/widow/veh_air_widow_thruster_fx.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_dest_front.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_dest_left.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_dest_rear.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_dest_right.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vistas/Node_X.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vistas/olympus_blip1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vistas/olympus_blip2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/vistas/olympus_blip3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons/ammoboxes/backpack_single.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons/attachments/attach_cq_hcog_classic_v.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons/attachments/attach_cq_hcog_classic_w.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons/ballistic_pistol/w_ballistic_bullet.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons/bullets/damage_arrow.rmdl",
+   "$sequences": [
+    "animseq/weapons/bullets/damage_arrow/damage_fade.rseq",
+    "animseq/weapons/bullets/damage_arrow/damage_fade_slow.rseq",
+    "animseq/weapons/bullets/damage_arrow/damage_incoming.rseq",
+    "animseq/weapons/bullets/damage_arrow/damage_incoming_large.rseq",
+    "animseq/weapons/bullets/damage_arrow/damage_incoming_small.rseq",
+    "animseq/weapons/bullets/damage_arrow/whizby_incoming_small.rseq"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons/bullets/projectile_rocket_launcher_sram.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons/kraber_ap_r1/w_kraber_ap_r1.rmdl",
+   "$sequences": [
+    "animseq/weapons/kraber_ap_r1/w_kraber_ap_r1/attack_seq.rseq",
+    "animseq/weapons/kraber_ap_r1/w_kraber_ap_r1/idle_seq.rseq"
+   ]
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/ability_mark_recall/ability_mark_recall_ar_radius.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/evac_tower/evac_tower_debris_balloon.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/evac_tower/evac_tower_debris_bot.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/evac_tower/evac_tower_debris_handle.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/evac_tower/evac_tower_debris_hook.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/evac_tower/evac_tower_debris_mid.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/evac_tower/evac_tower_debris_rope.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/evac_tower/evac_tower_debris_top1.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/evac_tower/evac_tower_debris_top2.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/evac_tower/evac_tower_debris_top3.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/evac_tower/evac_tower_debris_weight.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/loot/loot_drone_destruction_body.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/loot/loot_drone_destruction_tail.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/loot/loot_drone_destruction_wing.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/loot/_master/w_loot_wep_arrow_single.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_ash_glaive/ash_glaive_solo_fx.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_turret_ar_spread.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_dmg_panel_01.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_dmg_panel_02.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_dmg_panel_03.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_dmg_panel_04.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_bot.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_bot_l.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_bot_r.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_emitter.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_emitter_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_side_l.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_side_rb.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_side_rt.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_top_l.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_top_r.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_turret/rampart_tur_dest_ammo.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_turret/rampart_tur_dest_barrel.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_turret/rampart_tur_dest_body.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_turret_base/rampart_base_des_base.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_turret_base/rampart_base_des_pedal.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_turret_base/rampart_base_des_pivot.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/misc_rampart_turret_base/rampart_base_des_top.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/weapon_tesla_trap/mp_weapon_tesla_trap_ar_link_radius.rmdl"
+  },
+  {
+   "_type": "mdl_",
+   "_path": "mdl/weapons_r5/weapon_tesla_trap/mp_weapon_tesla_trap_ar_trigger_radius.rmdl"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/fx_mobile_respawn_destruction.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/sound_infected_idle_05_alert.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/sound_infected_idle_05_lootbin.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/sound_infected_lootbox_creepy_spawn.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/sound_infected_lootbox_inbox_spawn.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/sound_infected_lootbox_leap_spawn.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/sound_infected_lootbox_rollout_spawn.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/sound_spider_casual_idle.rpak"
+  },
+  {
+   "_type": "stgs",
+   "_path": "settings/scriptAnimWindow/sound_spider_melee_mouth_dart_jump_02.rpak"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x11A08189508E8EE8.rpak",
+   "$guid": "0x11A08189508E8EE8"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x1241C1823667FDBB.rpak",
+   "$guid": "0x1241C1823667FDBB"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x1286FC0683EC4E40.rpak",
+   "$guid": "0x1286FC0683EC4E40"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x13835543B0E710D7.rpak",
+   "$guid": "0x13835543B0E710D7"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x14826F351A2AB1D1.rpak",
+   "$guid": "0x14826F351A2AB1D1"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x1FB2DD18B6C73B81.rpak",
+   "$guid": "0x1FB2DD18B6C73B81"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x305490D4D1760B9F.rpak",
+   "$guid": "0x305490D4D1760B9F"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x3343FFE240EECACB.rpak",
+   "$guid": "0x3343FFE240EECACB"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x379221161888568F.rpak",
+   "$guid": "0x379221161888568F"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x39BAE1647694648.rpak",
+   "$guid": "0x39BAE1647694648"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x40D320065238A671.rpak",
+   "$guid": "0x40D320065238A671"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x41F05053123FAD9B.rpak",
+   "$guid": "0x41F05053123FAD9B"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x441A8EE9617CBA87.rpak",
+   "$guid": "0x441A8EE9617CBA87"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x4BE18E18A21F2E57.rpak",
+   "$guid": "0x4BE18E18A21F2E57"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x512A13A1D8334F6D.rpak",
+   "$guid": "0x512A13A1D8334F6D"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x55DCF463BEFC8365.rpak",
+   "$guid": "0x55DCF463BEFC8365"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x5A774E4462DA1260.rpak",
+   "$guid": "0x5A774E4462DA1260"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x5C76185215A96729.rpak",
+   "$guid": "0x5C76185215A96729"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x66207A7F781BE8E4.rpak",
+   "$guid": "0x66207A7F781BE8E4"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x6E2EBD1576771CA9.rpak",
+   "$guid": "0x6E2EBD1576771CA9"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x70B225DA26C7873B.rpak",
+   "$guid": "0x70B225DA26C7873B"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x716D0DDF9EBBD87C.rpak",
+   "$guid": "0x716D0DDF9EBBD87C"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x77950BB6FF0C168D.rpak",
+   "$guid": "0x77950BB6FF0C168D"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x78F8CE822A149547.rpak",
+   "$guid": "0x78F8CE822A149547"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x7A53B01CFE7667C9.rpak",
+   "$guid": "0x7A53B01CFE7667C9"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x7F4A59F316781465.rpak",
+   "$guid": "0x7F4A59F316781465"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x81B3E832281326F5.rpak",
+   "$guid": "0x81B3E832281326F5"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x86F9032160FCCB1.rpak",
+   "$guid": "0x86F9032160FCCB1"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x87BA5227DCAFAA46.rpak",
+   "$guid": "0x87BA5227DCAFAA46"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x9648FA7488F40DA0.rpak",
+   "$guid": "0x9648FA7488F40DA0"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x980967C891E276E0.rpak",
+   "$guid": "0x980967C891E276E0"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0x9DAFAF15663F80DC.rpak",
+   "$guid": "0x9DAFAF15663F80DC"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xAEB34FB37D94334B.rpak",
+   "$guid": "0xAEB34FB37D94334B"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xB9850D684E981F45.rpak",
+   "$guid": "0xB9850D684E981F45"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xBFB17C757760FE08.rpak",
+   "$guid": "0xBFB17C757760FE08"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xC1BBF85DD1B6C0C2.rpak",
+   "$guid": "0xC1BBF85DD1B6C0C2"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xD31AC7DB75F56555.rpak",
+   "$guid": "0xD31AC7DB75F56555"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xD62A52009E99D53.rpak",
+   "$guid": "0xD62A52009E99D53"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xDAAAD4B115BDD2D6.rpak",
+   "$guid": "0xDAAAD4B115BDD2D6"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xDB52D5E7F6E6931F.rpak",
+   "$guid": "0xDB52D5E7F6E6931F"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xE19674A878FDE872.rpak",
+   "$guid": "0xE19674A878FDE872"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xE415E211A51B07D.rpak",
+   "$guid": "0xE415E211A51B07D"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xE44D570454D9B067.rpak",
+   "$guid": "0xE44D570454D9B067"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xE5A1403931CFD482.rpak",
+   "$guid": "0xE5A1403931CFD482"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xE7259887FB2DF726.rpak",
+   "$guid": "0xE7259887FB2DF726"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xE7C3CC7CFFC408F2.rpak",
+   "$guid": "0xE7C3CC7CFFC408F2"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xE861B7C77949555A.rpak",
+   "$guid": "0xE861B7C77949555A"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xEA4CDD981EEFC049.rpak",
+   "$guid": "0xEA4CDD981EEFC049"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xF93E7CB008A4F8EC.rpak",
+   "$guid": "0xF93E7CB008A4F8EC"
+  },
+  {
+   "_type": "dtbl",
+   "_path": "datatable/0xFB29D03DF2EF6F26.rpak",
+   "$guid": "0xFB29D03DF2EF6F26"
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/creatures/flyer/flyer_kingscanyon_animated.rrig",
+   "$sequences": [
+    "0x773A97450D3D1087",
+    "0xEF96A6500085F026",
+    "0x3C43BBA5F865C09C",
+    "0xF8153FC9CBB281D6",
+    "0x2BE57F878DB099F8",
+    "0x93C6F8347A0D10F6",
+    "0x7C6D4771513D4DD4",
+    "0xA73693CE714FB685",
+    "0x61D38B8A77757323",
+    "0x2328B2A8C7D04837",
+    "0xE7DE997CCAE1FD09",
+    "0x99C35562AB1E845B",
+    "0x227B39FE21A10323",
+    "0xA6B9D758A6691332",
+    "0xD3AF1C7487DAC226",
+    "0x00BC82B4BB13A4F3",
+    "0x6079D13D2D333F71",
+    "0x285D0660178CF201",
+    "0x045B90EFEF0253E2",
+    "0x39B4F0B1CEF22F40",
+    "0xF4E55C148CC95166",
+    "0xE8C6AA1D03B3B15A",
+    "0x800A146A4997EEC1",
+    "0x800A75EDFF96CCDC",
+    "0x800AD771BBC980E8",
+    "0x800B38F50E8AFFF3",
+    "0x229AA335B0317494",
+    "0x229B04B902F2F39F",
+    "0x9777BB785F8A094A",
+    "0x97D93F0829173AB1",
+    "0x983AC297EC709627",
+    "0x989C4627E79C7716",
+    "0x89714003DC4C2BC6",
+    "0x3890E6E790A06F14",
+    "0x3789ABF6480557D4",
+    "0x35E88EEBDA87DD88",
+    "0xEF6A51C9DF39BC0E",
+    "0x7363BEE45F61053F",
+    "0x6D9A64C345D24F7F",
+    "0x1ADE7F6A19E8E247"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/creatures/spider/ai_spider_core/ai_spider_core.rrig",
+   "$sequences": [
+    "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_back_and_forth_idle.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_casual_idle.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_death_flop.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_jump_melee_flail.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_jump_melee_short.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_melee_close_strike.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_melee_mouth_dart_jump_02.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_pain_small.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_ranged_spit.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_death_knockback_backward.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_dodge_back.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_dodge_forward.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_dodge_L_far.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_dodge_left.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_dodge_R_far.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_dodge_right.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_dodge_run_L.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_dodge_run_R.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_idle_alert.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_idle_casual.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_idle_combat.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_idle_scan.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_idle_to_run_180_left.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_idle_to_run_180_right.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_idle_to_run_forward.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_idle_wait.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_idle_wait_threatA.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_idle_wait_threatB.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_jump_frozen_frame10.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_jump_frozen_frame12.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_jump_frozen_frame17.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_jump_frozen_frame24.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_jump_frozen_frame4.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_jump_frozen_frame7.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_swipe.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_melee_mouth_dart_crouch.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_melee_mouth_dart_jump.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_pain_knockback_backward.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_pain_knockback_backward_copy.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_pain_knockback_backward_frozen_frame11.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_pain_knockback_backward_frozen_frame29.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_pain_knockback_backward_frozen_frame9.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_run_combat.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_run_combat_forward.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_run_combat_frozen_frame53.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_run_combat_frozen_frame57.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_run_combat_frozen_frame64.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_run_to_idle_forward.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_search_look_around.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_sprint_combat.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_sprint_combat_forward.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_sprint_runaway.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_sprint_unarmed.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_1024.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_1024_down_256.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_1024_reverse.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_1024_up_256.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_128_frozen_frame13.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_128_reverse.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_256.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_256_down_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_256_reverse.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_256_up_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_512.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_512_down_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_512_reverse.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_512_up_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_down_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_down_256.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_down_40.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_down_64.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_down_640.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_over_40.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_up_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_up_256.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_up_40.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_up_64.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_up_640.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_window_down_192.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_window_down_256.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_window_up_192.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_traverse_window_up_256.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_turn_180_L.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_turn_180_R.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_turn_90_L.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_turn_90_R.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_walk_casual.rseq",
+    "animseq/creatures/spider/ai_spider_core/spdr_walk_combat.rseq",
+    "animseq/humans/pete/ai_grunt_core/spdr_traverse_up_256_climb.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/creatures/spider/ai_spider_core/ai_spider_jungle_core.rrig",
+   "$sequences": [
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_death_flop.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_death_gas_bleedout.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_death_gas_twitch.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_death_knockback_backward.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_back.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_forward.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_L_far.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_left.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_R_far.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_right.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_run_L.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_run_R.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_flinch_arc_stunned.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_freefall_loop.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_alert.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_casual.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_combat.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_fall.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_hungry.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_look.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_panic.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_threatA.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_threatA_noloop.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_threatB.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_threatC.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_scan.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_to_run_180_left.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_to_run_180_right.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_to_run_forward.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_wait.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_wait_threatA.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_wait_threatB.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_jump_melee_flail.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_jump_melee_short.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_melee_claw_swipe.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_melee_close_strike.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_melee_mouth_dart_crouch.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_pain_knockback_backward.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_pain_knockback_backward_copy.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_pain_small.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_ranged_spit.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_ranged_spit_alt.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_run_combat.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_run_combat_forward.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_run_to_idle_forward.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_search_look_around.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spawner_ceiling_A.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spawner_ceiling_B.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spawner_ceiling_C.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spawner_sidewall_A.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spawner_sidewall_B.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spawner_sidewall_C.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spitattack_aim.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_sprint_combat.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_sprint_combat_forward.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_sprint_runaway.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_sprint_unarmed.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_128_reverse.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_256.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_256_down_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_256_reverse.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_256_up_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_512.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_512_down_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_512_reverse.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_512_up_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_down_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_down_256.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_down_40.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_down_64.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_down_640.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_over_40.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_up_128.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_up_256.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_up_256_climb.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_up_40.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_up_64.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_up_640.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_turn_180_L.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_turn_180_R.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_turn_90_L.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_turn_90_R.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_walk_casual.rseq",
+    "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_walk_combat.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/door/door_104x64x8_elevatorstyle01_right_animated.rrig",
+   "$sequences": [
+    "animseq/door/door_104x64x8_elevatorstyle01_right_animated/close.rseq",
+    "animseq/door/door_104x64x8_elevatorstyle01_right_animated/open.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/humans/class/medium/ai_combat_dummie_core.rrig",
+   "$sequences": [
+    "animseq/humans/class/medium/ai_combat_dummie_core/AIM_dummie_crouch.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/AIM_dummie_sprint.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/AIM_static.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/Aim_static_pistol.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_addFlinch_big.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_addFlinch_small.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_addFlinch_small_02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_addFlinch_small_air.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_addflinch_small_wallrun_L.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_addFlinch_small_wallrun_R.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_crouch.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_crouch_to_idle.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_crouchWalk_L.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_crouchWalk_L_AIM.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_crouchWalk_R.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_crouchWalk_R_AIM.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_air.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_chestshot.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_chestshot_fallForward.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_chestshot_flail.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_grapple.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_grapple_02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_gutshot.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_gutshot_02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_flop.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_grabface.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_headSnap.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_kneeFall.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_leftFall.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_twitch.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_wobble.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_instant.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_instant_flopback.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_instant_neckFall.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_instant_neckSlam.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_instant_spinRight.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_simple.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_wallrun_L.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_wallrun_R.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_B.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_B_02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_B_03.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_B_flop.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_B_shoulderRight.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_B.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_B_flop.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_B_grabSide.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F_deathFlop.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F_grabSide.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F_headshot.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F_shoulder.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F_side.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F_spin.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_instant.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_instant_02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_F.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_F_legHop.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_F_shoulderLeft.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_F_slowFall.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_B.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_B_02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_B_armsUp.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_B_chest.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_B_flail.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_F.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_L.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_R.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_L.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_L_stumble.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_R.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_R_02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_R_neckFlop.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_fallKnees.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_flip.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_instant.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_roll.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_slide.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_stumble.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_stumbleLeft.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_stumbleRight.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_swerve.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodge_L_hop.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodge_L_spin.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodge_R_hop.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodge_R_spin.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodgeFar_L_spin.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodgeFar_R_hop.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodgeRun_L_jump.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodgeRun_L_slide.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodgeRun_R_jump.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodgeRun_R_slide.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_doublejump.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_doublejump_02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fall.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fall_recovery.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fall_wallrun_L.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fall_wallrun_R.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fire.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fire_pistol.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fireCrouch.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_big_kickup.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_big_wobble.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_big_wobble02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_chest_fall.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_chest_fall02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_chest_pound.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_chest_pushback.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_chest_wobble.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_chest_wobble02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_crouch_B.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_crouch_F.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_crouch_F_02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_crouch_L.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_crouch_R.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_head_frustrated.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_head_shake.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_head_shake02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_head_shake03.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_B.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_B_02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_B_03.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_F.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_F_02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_L.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_R.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftArm_handShake.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftArm_stumble.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftArm_stumble02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftLeg_fall.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftLeg_fall02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftLeg_stumble.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftLeg_stumble02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftLeg_stumble03.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightArm_stumble.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightArm_stumble02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightArm_stumble03.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightLeg_fall.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightLeg_fall02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightLeg_stumble.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightLeg_stumble02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightLeg_stumble_03.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_running.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_running_stumble.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_stomach_fall.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_stomach_fall02.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_stomach_pushback.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_float.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_casual.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_combat.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_combat_pistol.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_pistol.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_to_crouch.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_to_strafe_L.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_to_strafe_R.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_jump.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_land.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_run_B.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_run_B_AIM.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_run_F.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_run_F_AIM.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_sprint_B.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_sprint_F.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_sprint_L.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_sprint_R.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_strafe_to_idle_L.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_strafe_to_idle_R.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_walk.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_walk_ads_L.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/dummie_walk_ads_R.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/head_rot_x.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/head_rot_y.rseq",
+    "animseq/humans/class/medium/ai_combat_dummie_core/head_rot_z.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/humans/class/medium/mp_pilot_medium_empty.rrig",
+   "$sequences": [
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_death_idle.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_burncard_idle.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_faction_idle.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_loadout_edit_idle_01.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_loadout_idle_01.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_main_idle_01.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_noseart_idle.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_settings_idle.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_weapon_idle.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_titan_menu_frontierdefense_idle.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_titan_menu_frontierdefense_idle_selected.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_titan_menu_loadout_edit.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/camera_titan_menu_loadout_idle.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/pt_menu_main_idle_01.rseq",
+    "animseq/humans/class/medium/mp_pilot_medium_empty/pt_menu_main_idle_02.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/humans/grunts/grunts_corpse_poses.rrig"
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/humans/pete/ai_infected_core.rrig",
+   "$sequences": [
+    "animseq/humans/pete/ai_grunt_core/ai_grunt_skyfall.rseq",
+    "animseq/humans/pete/ai_grunt_core/Classic_MP_flyin_exit_playerA_idle.rseq",
+    "animseq/humans/pete/ai_grunt_core/Classic_MP_flyin_exit_playerA_jump.rseq",
+    "animseq/humans/pete/ai_grunt_core/Classic_MP_flyin_exit_playerC_idle.rseq",
+    "animseq/humans/pete/ai_grunt_core/Classic_MP_flyin_exit_playerC_jump.rseq",
+    "animseq/humans/pete/ai_infected_core/ai_infected_death_dieSimple.rseq",
+    "animseq/humans/pete/ai_infected_core/ai_infected_death_dieSimple_forced_death.rseq",
+    "animseq/humans/pete/ai_infected_core/ai_infected_death_dieSimple_frozen_frame13.rseq",
+    "animseq/humans/pete/ai_infected_core/ai_infected_death_dieSimple_frozen_frame20.rseq",
+    "animseq/humans/pete/ai_infected_core/ai_infected_death_dieSimple_frozen_frame6.rseq",
+    "animseq/humans/pete/ai_infected_core/phase_traverse_across_128.rseq",
+    "animseq/humans/pete/ai_infected_core/phase_traverse_across_128_back.rseq",
+    "animseq/humans/pete/ai_infected_core/phase_traverse_down_40.rseq",
+    "animseq/humans/pete/ai_infected_core/phase_traverse_down_64.rseq",
+    "animseq/humans/pete/ai_infected_core/phase_traverse_up_40.rseq",
+    "animseq/humans/pete/ai_infected_core/phase_traverse_up_512_climb.rseq",
+    "animseq/humans/pete/ai_infected_core/phase_traverse_up_64.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_cloak_react_app_far_point.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_cloak_react_app_near_dropgun.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_cloak_react_dis_far_short.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_cloak_react_dis_near_freakout.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_backward_jump.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_forward_jump.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_forward_roll.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_far_spin.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_hop.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_hop_temp.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_run_hop.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_run_jump.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_spin.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_spin_temp.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_far_hop.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_hop.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_hop_temp.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_run_hop.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_run_jump.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_spin.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_spin_temp.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_exo_window_03_idle_calm.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_exo_window_03_idle_calm_frozen_frame0.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_exo_window_03_idle_calm_frozen_frame9.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_02_alert.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_05_alert.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_05_combat.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_05_lootbin.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_06_alert.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_06_combat.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_casual_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_casual_02.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_casual_03.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_casual_04.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_casual_05.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_casual_06.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_idle_scan_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_lootbox_creepy.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_lootbox_inbox.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_lootbox_leap.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_lootbox_rollout.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_02.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_hit_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_hit_02.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_miss_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_miss_02.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_miss_03.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_miss_04.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_miss_05.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_miss_05_frozen_frame15.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_swipe_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_swipe_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_swipe_01_frozen_frame27.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_swipe_02.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_swipe_03.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_melee_swipe_04.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_pain_wobble_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_pain_wobble_01_copy.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_react_search_around_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_behind_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_behind_02.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_front_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_front_02.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_front_02_meleeWait.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_left.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_right.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_spawn_creepy.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_spawn_creepy_frozen_frame0.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_spawn_creepy_frozen_frame11.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_01_frozen_frame0.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_01_frozen_frame34.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_01_frozen_frame55.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_01_frozen_frame9.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_02.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_02_frozen_frame25.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_03.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_04.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_stun_reaction_01.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_stun_reaction_02.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_stun_reaction_03.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_stun_reaction_04.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_infected_stun_reaction_05.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_react_arc_fall.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_react_crouch_arc_fall.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_react_jumped_over_wildfire.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_react_run_arc_fall.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_traverse_jump_over_fast.rseq",
+    "animseq/humans/pete/ai_infected_core/pt_traverse_jump_over_spin.rseq",
+    "animseq/humans/pete/ai_infected_core/React_point1.rseq",
+    "animseq/humans/pete/ai_infected_core/React_radiocall_listen_A.rseq",
+    "animseq/humans/pete/ai_infected_core/React_signal_group.rseq",
+    "animseq/humans/pete/ai_infected_core/React_wallslam.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_suicide_spectre_fastwalk_infected.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_suicide_spectre_fastwalk_infected_frozen_frame12.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_across_256.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_across_256_back.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_across_256_down_128.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_across_256_frozen_frame21.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_across_256_frozen_frame28.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_across_256_up_128.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_across_512.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_across_512_back.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_across_512_down_128.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_across_512_up_128.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_climb_up_128.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_climb_up_256.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_down_128.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_down_256.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_down_512.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_up_256.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_traverse_up_512.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_window_traverse_down_192.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_window_traverse_down_256.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_window_traverse_up_192.rseq",
+    "animseq/humans/pete/ai_infected_core/sp_window_traverse_up_256.rseq",
+    "animseq/humans/pete/ai_infected_core/turn_180L.rseq",
+    "animseq/humans/pete/ai_infected_core/turn_180R.rseq",
+    "animseq/humans/pete/ai_infected_core/turn_90L.rseq",
+    "animseq/humans/pete/ai_infected_core/turn_90R.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/controller_console/controller_console.rrig",
+   "$sequences": [
+    "animseq/props/controller_console/controller_console/controller_console_hack_end.rseq",
+    "animseq/props/controller_console/controller_console/controller_console_hack_mid.rseq",
+    "animseq/props/controller_console/controller_console/controller_console_hack_start.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/crafting_replicator/crafting_replicator.rrig",
+   "$sequences": [
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_auto_A.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_auto_B.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_auto_C.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_close.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_close_sideA.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_close_sideB.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_close_sideC.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_drop.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_open.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_open_sideA.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_open_sideB.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_open_sideC.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_openidle.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_openidle_sideA.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_openidle_sideB.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_openidle_sideC.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_ready_groundidle.rseq",
+    "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_ready_idle.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/evac_tower_balloon/evac_tower_balloon.rrig",
+   "$sequences": [
+    "animseq/props/evac_tower_balloon/evac_tower_balloon/evac_balloon_deploy.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/evac_tower_rocket/evac_tower_rocket.rrig"
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/evac_tower_weight/evac_tower_weight.rrig"
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/flower_hibiscus_prop/flower_hibiscus_prop_animrig.rrig"
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/goblin_interior/goblin_interior_01_w.rrig",
+   "$sequences": [
+    "animseq/props/goblin_interior/goblin_interior_01_w/goblin_interior_cine_yos1_dropship.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/goblin_interior/goblin_interior_01_w_doors.rrig",
+   "$sequences": [
+    "animseq/props/goblin_interior/goblin_door_broken_w/goblin_door_broken_w_cine_yos1_dropship.rseq",
+    "animseq/props/goblin_interior/goblin_door_intact_w/goblin_door_intact_w_cine_yos1_dropship.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/gravity_cannon/gravity_cannon.rrig",
+   "$sequences": [
+    "animseq/props/gravity_cannon/gravity_cannon/gravity_cannon_fireA.rseq",
+    "animseq/props/gravity_cannon/gravity_cannon/gravity_cannon_fireB.rseq",
+    "animseq/props/gravity_cannon/gravity_cannon/gravity_cannon_fireC.rseq",
+    "animseq/props/gravity_cannon/gravity_cannon/gravity_cannon_idle_hum.rseq",
+    "animseq/props/gravity_cannon/gravity_cannon/gravity_cannon_idle_static.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/lobby_revenant_prop1/lobby_revenant_prop1.rrig",
+   "$sequences": [
+    "animseq/props/lobby_revenant_prop1/lobby_revenant_prop1/revenant_teaser_lobby_hanging_torso.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/madmaggie_ultimate_ball_static/madmaggie_ultimate_ball_static.rrig"
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/madmaggie_ultimate_mine/madmaggie_ultimate_mine.rrig"
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/nessie/nessie_ragold.rrig"
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/pariah_heart/pariah_heart.rrig",
+   "$sequences": [
+    "animseq/props/pariah_heart/pariah_heart/prop_pariah_heart_deploy.rseq",
+    "animseq/props/pariah_heart/pariah_heart/prop_pariah_heart_deploy_idle.rseq",
+    "animseq/props/pariah_heart/pariah_heart/prop_pariah_heart_deploy_trans.rseq",
+    "animseq/props/pariah_heart/pariah_heart/prop_pariah_heart_idle.rseq",
+    "animseq/props/pariah_heart/pariah_heart/prop_pariah_heart_shutdown.rseq",
+    "animseq/props/pariah_heart/pariah_heart/prop_pariah_heart_shutdown_idle.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/raisable_wall_hydraulic_arms/hydraulic_arm.rrig",
+   "$sequences": [
+    "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_idle.rseq",
+    "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_idle1.rseq",
+    "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_idle2.rseq",
+    "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_raise.rseq",
+    "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_raise1.rseq",
+    "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_raise2.rseq",
+    "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_raise_idle.rseq",
+    "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_raise_idle1.rseq",
+    "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_raise_idle2.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/recon_beacon_dish/recon_beacon_dish.rrig",
+   "$sequences": [
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_antenna_hack_end.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_antenna_hack_mid.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_antenna_hack_start.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_crypto_heirloom_antenna_hack_end.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_crypto_heirloom_antenna_hack_mid.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_crypto_heirloom_antenna_hack_start.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_pathfinder_antenna_hack_end.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_pathfinder_antenna_hack_mid.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_pathfinder_antenna_hack_start.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_seer_heirloom_antenna_hack_end.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_seer_heirloom_antenna_hack_mid.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_seer_heirloom_antenna_hack_start.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_vantage_antenna_hack_end.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_vantage_antenna_hack_mid.rseq",
+    "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_vantage_antenna_hack_start.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/skull_mech_grenade/skull_mech_grenade_animrig.rrig"
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/treasure_hunt_drill/treasure_hunt_drill.rrig"
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/props/void_ring/void_ring.rrig",
+   "$sequences": [
+    "animseq/props/void_ring/void_ring/idle.rseq",
+    "animseq/props/void_ring/void_ring/prop_void_ring_deploy.rseq",
+    "animseq/props/void_ring/void_ring/prop_void_ring_deploy_idle.rseq",
+    "animseq/props/void_ring/void_ring/prop_void_ring_deploy_idle_alt.rseq",
+    "animseq/props/void_ring/void_ring/prop_void_ring_deploy_idle_warning.rseq",
+    "animseq/props/void_ring/void_ring/prop_void_ring_deploy_trans.rseq",
+    "animseq/props/void_ring/void_ring/prop_void_ring_shutdown.rseq",
+    "animseq/props/void_ring/void_ring/prop_void_ring_shutdown_idle.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/vehicle/droppod_fireteam/droppod_fireteam.rrig",
+   "$sequences": [
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/Aim_body.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/Aim_body.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/exit.rseq",
+    "animseq/vehicle/droppod_fireteam/droppod_fireteam/idle.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/vehicle/droppod_loot/droppod_loot.rrig",
+   "$sequences": [
+    "animseq/vehicle/droppod_loot/droppod_loot/droppod_loot_drop_lifeline_fast.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_animated/droppod_loot_closed_idle.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_animated/droppod_loot_drop.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_animated/droppod_loot_drop_lifeline.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_animated/droppod_loot_drop_multi.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_animated/droppod_loot_open_idle.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_animated/droppod_loot_opening.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_c_door_close.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_c_door_open.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_doors_close.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_doors_open.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_idle.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_l_door_close.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_l_door_open.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_r_door_close.rseq",
+    "animseq/vehicle/droppod_loot/droppod_loot_r_door_open.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/vehicle/dropship/dropship_common.rrig",
+   "$sequences": [
+    "animseq/vehicle/dropship/dropship_common/cd_dropship_rescue_idle.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_cine_yos1_endbattle.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_classic_mp_flyin.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_classic_mp_flyin_close.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_classic_mp_flyin_close_empty.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_classic_mp_flyin_idle.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_classic_mp_flyin_open.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_closed_idle_alt.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_flyer_attack_vertical_successful.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s12_chase_salvo.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s12_chase_syndicate.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_1_desertlands.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_1_desertlands_bg.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_1_dividedmoon.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_1_dividedmoon_bg.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_1_tropics.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_1_tropics_bg.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_2_desertlands.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_2_desertlands_bg.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_2_dividedmoon.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_2_dividedmoon_bg.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_2_tropics.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_2_tropics_bg.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_3_desertlands.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_3_desertlands_bg.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_3_dividedmoon.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_3_dividedmoon_bg.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_3_tropics.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_3_tropics_bg.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_end.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_end_high.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_end_nodoors.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_idle.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_idle_no_motion.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_start.rseq",
+    "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_start_high.rseq",
+    "animseq/vehicle/dropship/dropship_common/gd_goblin_zipline_dive.rseq",
+    "animseq/vehicle/dropship/dropship_common/gd_goblin_zipline_strafe.rseq",
+    "animseq/vehicle/dropship/dropship_common/gd_goblin_zipline_strafe_loop.rseq",
+    "animseq/vehicle/dropship/dropship_common/idle.rseq",
+    "animseq/vehicle/dropship/dropship_common/s2s_rampdown_idle.rseq",
+    "animseq/vehicle/dropship/dropship_common/test_fly_idle.rseq",
+    "animseq/vehicle/dropship/dropship_common/test_fly_idle_act.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/vehicle/hovership/hovership_platform.rrig",
+   "$sequences": [
+    "animseq/vehicle/hovership/hovership_platform/CC_tank_1.rseq",
+    "animseq/vehicle/hovership/hovership_platform/CC_tank_2.rseq",
+    "animseq/vehicle/hovership/hovership_platform/CC_tank_3.rseq",
+    "animseq/vehicle/hovership/hovership_platform/CC_tank_4.rseq",
+    "animseq/vehicle/hovership/hovership_platform/ht_cc_tank_intro_TankA.rseq",
+    "animseq/vehicle/hovership/hovership_platform/ht_cc_tank_intro_TankA_pose.rseq",
+    "animseq/vehicle/hovership/hovership_platform/ht_cc_tank_intro_TankB.rseq",
+    "animseq/vehicle/hovership/hovership_platform/ht_cc_tank_intro_TankB_pose.rseq",
+    "animseq/vehicle/hovership/hovership_platform/pose_strafe_back.rseq",
+    "animseq/vehicle/hovership/hovership_platform/pose_strafe_forward.rseq",
+    "animseq/vehicle/hovership/hovership_platform/pose_strafe_left.rseq",
+    "animseq/vehicle/hovership/hovership_platform/pose_strafe_right.rseq",
+    "animseq/vehicle/hovership/hovership_platform/test.rseq"
+   ]
+  },
+  {
+   "_type": "arig",
+   "_path": "animrig/vehicle/hovership/hovership_turret.rrig",
+   "$sequences": [
+    "animseq/vehicle/hovership/hovership_turret/aim_pitch.rseq",
+    "animseq/vehicle/hovership/hovership_turret/aim_yaw.rseq",
+    "animseq/vehicle/hovership/hovership_turret/attack.rseq",
+    "animseq/vehicle/hovership/hovership_turret/deploy.rseq",
+    "animseq/vehicle/hovership/hovership_turret/deploy_idle.rseq",
+    "animseq/vehicle/hovership/hovership_turret/idle.rseq",
+    "animseq/vehicle/hovership/hovership_turret/undeploy.rseq"
+   ]
+  }
+ ]
+}

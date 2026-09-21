@@ -1,0 +1,43 @@
+{
+  "version": 8,
+  "keepDevOnly": false,
+  "name": "common_early",
+  "assetsDir": "s21-to-s3-server/common_early/",
+  "outputDir": "./build/",
+  "compressLevel": 6,
+  "compressWorkers": 16,
+  "files": [
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_player_layout.rpak"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/0x54BE00F09B8EA0F.rpak",
+      "$guid": "0x54BE00F09B8EA0F"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/0xC803BD35ABD0972B.rpak",
+      "$guid": "0xC803BD35ABD0972B"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/0xD73FB4C376D81902.rpak",
+      "$guid": "0xD73FB4C376D81902"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/0xFB963C03D907C191.rpak",
+      "$guid": "0xFB963C03D907C191"
+    },
+    {
+      "_type": "txls",
+      "_path": "texture_list/camo_skins.rpak"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/error.rmdl"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+ 
+
+{
+    "version": 8,
+    "dedi": true,
+    "keepDevOnly": false,
+    "keepClientOnly": false,
+
+    "outputDir": "./paks/Win64_server/",
+
+    "showDebugInfo": false,
+    "paks": [
+        //DEDI ONLY PAKS, CONVERTED FROM S21.1 TO S3 FOR DEDI
+        "s21-to-s3-server/mp_rr_district.json",
+        "s21-to-s3-server/mp_rr_thunderdome.json",
+        "s21-to-s3-server/mp_rr_canyonlands_staging_mu1.json",
+        "s21-to-s3-server/patch_master.json",
+        "s21-to-s3-server/common_early.json",
+        "s21-to-s3-server/common.json",
+        "s21-to-s3-server/common_mp.json",
+        "s21-to-s3-server/mp_lobby.json",
+        "s21-to-s3-server/root_lgnd_skins.json",
+        "s21-to-s3-server/mp_rr_olympus_mu2.json",
+        "s21-to-s3-server/mp_rr_divided_moon_mu1.json",
+        "s21-to-s3-server/mp_rr_tropic_island_mu2.json",
+        "s21-to-s3-server/mp_rr_canyonlands_hu.json",
+        "s21-to-s3-server/mp_rr_party_crasher.json",
+        "s30_axle/paks_out/sdk_axle_dedi.json"
+    ]
+}

@@ -1,0 +1,247 @@
+{
+  "version": 8,
+  "keepDevOnly": true,
+  "name": "common_flowstate",
+  "streamFileMandatory": "paks/Win64/pc_fs.starpak",
+  "streamFileOptional": "paks/Win64/pc_fs.opt.starpak",
+  "assetsDir": "./s21-flowstate/common_flowstate/assets/",
+  "outputDir": "./s21-flowstate/common_flowstate/out/",
+  "compressLevel": 0,
+  "compressWorkers": 8,
+  "files": [
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Humans/pilots/w_amogino.rmdl",
+      "$animrigs": [
+        "0xC492CF324E91A3AC",
+        "0xAE35942185B93B3D"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/w_pete_mri.rmdl",
+      "$animrigs": [
+        "0x92079B00D5DA2D6D",
+        "0xEE84AC829245122D"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ptpov_pete_mri.rmdl",
+      "$animrigs": [
+        "0xAF8CB1C8006E6A8E"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/flowstate_custom/w_pete_mri.rmdl",
+      "$animrigs": [
+        "0x92079B00D5DA2D6D",
+        "0xEE84AC829245122D"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/flowstate_custom/ptpov_pete_mri.rmdl",
+      "$animrigs": [
+        "0xAF8CB1C8006E6A8E"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/ash_hologram/holo_ash_bust.rmdl"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/flowstate_custom/needler/amogus_body_0.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/flowstate_custom/needler/amogus_body_1.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/flowstate_custom/needler/amogus_body_2.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/flowstate_custom/needler/amogus_body_3.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/flowstate_custom/needler/amogus_body_4.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/flowstate_custom/needler/amogus_body_5.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/flowstate_custom/mri_male_v1_0.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/flowstate_custom/mri_male_v1_1.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/flowstate_custom/mri_male_v1_2.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/flowstate_custom/mri_male_v1_3.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/flowstate_custom/mri_male_v1_4.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/flowstate_custom/mri_male_v1_5.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/props/ash_hologram/ash_hologram_col.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/effects/tvscreen_noise001b_opa.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/effects/distort_line_02_vxd.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/effects/swipe_grad_02.rpak",
+      "$strmMips": 0,
+      "$optMips": 0
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/flowstate_custom/needler/amogus_body_colpass_sknp.rpak",
+      "$guid": "0xBA1F28DB60EEEEAA"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/flowstate_custom/needler/amogus_body_sknp.rpak",
+      "$guid": "0x43EC7988CB1987E5"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/flowstate_custom/mri_male_v1_colpass_sknp.rpak",
+      "$guid": "0x7FFA081B08E2E159"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/flowstate_custom/mri_male_v1_sknp.rpak",
+      "$guid": "0x97F43F147F3C9721"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/ash_hologram/ash_hologram_rgdp.rpak",
+      "$guid": "0xEF8CDDD8EDA7764D"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/ash_hologram/ash_hologram_white_rgdp.rpak",
+      "$guid": "0x0E8DC8DECF8D16CF"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/ash_hologram/ash_hologram_small_rgdp.rpak",
+      "$guid": "0x9776616A73C1E3FA"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/props/ash_hologram/ash_hologram_white_small_rgdp.rpak",
+      "$guid": "0xD317E2DDA219B3F6"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/uberUnlitVcolaEmiEmlEntcolmeEntcolmdAefAddUv1m1tUv2stUV41123Samp222_ps",
+      "$guid": "0x22D8036F51A3885F"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/uberUnlitVcoltVcolaEmiEmlEntcolmeEntcolmdAefAddUv1m1Uv2stUV41123Samp222_ps",
+      "$guid": "0x48BE908A05A62DE7"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/uberUnlitVcoltalbVcolaEmiOpmDetEmlEntcolmeEntcolmdAefEefTransUv0m0Uv1m1tUv2m1tUv3m1tUV5001234Samp22222_ps",
+      "$guid": "0xF411DD2377B6DD8B"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/uberUnlitVcolVcoltalbVxdUV4DirUv4m0tm0Interpm1InterpSamp3Inst_rgdp_vs",
+      "$guid": "0x245F5835D0D16ED9"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/uberUnlitVcolVcoltalbVxdUV4DirUv4m1tm0Interpm1InterpSamp3Inst_rgdp_vs",
+      "$guid": "0x6A283F1DC6C03293"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/uberUnlitVcolVcoltVxdUV3DirUv3m1tm1InterpSamp3Inst_rgdp_vs",
+      "$guid": "0x462924E3BFCF6F28"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/uberUnlitVcolVxdUV3DirUv3m1tm1InterpSamp3Inst_rgdp_vs",
+      "$guid": "0x722EA04B727C5FCF"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberUnlitVcoltalbVcolaEmiOpmDetEmlEntcolmeEntcolmdAefEefTransVxdUV4DirUv0m0Uv1m1tUv2m1tUv3m1tUv4m1tm0Interpm1InterpUV5001234PSSamp22222VSSamp3_rgdp",
+      "$guid": "0x393C388D961ADB0A"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberUnlitVcoltalbVcolaEmiOpmDetEmlEntcolmeEntcolmdAefEefTransVxdUV4DirUv0m0Uv1m1tUv2m1tUv3m1tUv4m0tm0Interpm1InterpUV5001234PSSamp22222VSSamp3_rgdp",
+      "$guid": "0x078B16E089CB1426"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberUnlitVcolaEmiEmlEntcolmeEntcolmdAefAddVxdUV3DirUv1m1tUv2stUv3m1tm1InterpUV41123PSSamp222VSSamp3_rgdp",
+      "$guid": "0x10FCD0713BB4E0D1"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberUnlitVcoltVcolaEmiEmlEntcolmeEntcolmdAefAddVxdUV3DirUv1m1Uv2stUv3m1tm1InterpUV41123PSSamp222VSSamp3_rgdp",
+      "$guid": "0xFB61CE859630EDA3"
+    }
+  ],
+  "headerFlags": 32
+}

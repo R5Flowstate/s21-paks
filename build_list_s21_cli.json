@@ -1,0 +1,18 @@
+ 
+
+{
+    "version": 9,
+    "keepDevOnly": false,
+    "keepClientOnly": true,
+    "streamFileMandatory": "paks/Win64/pc_all_sdk.starpak",
+    "streamFileOptional": "paks/Win64/pc_all_sdk.opt.starpak",
+    "outputDir": "./paks/Win64/",
+
+    "showDebugInfo": false,
+    "paks": [
+        //CLI ONLY PAKS
+        "s21-to-s3-server/mp_rr_district/mp_rr_district_perm.json",
+        "s21-to-s3-server/mp_rr_district/mp_rr_district_temp.json",
+        "s21-to-s3-server/mp_rr_district/mp_rr_district.json"
+    ]
+}

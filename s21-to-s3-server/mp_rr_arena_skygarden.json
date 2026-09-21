@@ -1,0 +1,1947 @@
+{
+    "version": 8,
+    "keepDevOnly": true,
+    "name": "mp_rr_arena_skygarden",
+    "assetsDir": "s21-to-s3-server/mp_rr_arena_skygarden/",
+    "outputDir": "./build/",
+    "compressLevel": 6,
+    "compressWorkers": 16,
+    "files": [
+        {
+            "_type": "mdl_",
+            "_path": "mdl/angel_city/box_small_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/angel_city/box_small_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/angel_city/ground_pile_trash_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/angel_city/ground_pile_trash_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/angel_city/tarp_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/angel_city/vending_machine_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/beacon_small_screen_03_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/beacon_small_screen_03_b_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/beacon_wire_cluster_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/beacon_wire_cluster_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/beacon_wire_cluster_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/beacon_wire_cluster_06_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/beacon_wire_cluster_07_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/beacon_wire_ground_coils_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/beacon_wire_ground_coils_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/beacon_wire_ground_coils_04_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/mendoko_wire_cluster_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/mendoko_wire_cluster_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/mendoko_wire_ground_coils_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/beacon/screen_03_blank_d.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/black_water_canal/mp_blk_water_canal_wire_128_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/black_water_canal/mp_blk_water_canal_wire_128_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/black_water_canal/mp_blk_water_canal_wire_64_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/canyonlands/canyonlands_scaffolding_ramp_small_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/canyonlands/canyonlands_scaffolding_tarp_ground_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/canyonlands/clands_wall_vent_round_01_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/canyonlands/concrete_broken_chunk_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/canyonlands/concrete_broken_chunk_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/celebration/modes_victory_podium_01/TDM_podium_background_godray_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/celebration/modes_victory_podium_01/TDM_podium_spotlight_godray_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/celebration/modes_victory_podium_01/modes_podium_background_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/celebration/modes_victory_podium_01/modes_podium_banner_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/celebration/modes_victory_podium_01/modes_podium_lights_on_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/celebration/modes_victory_podium_01/modes_podium_pillar_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/celebration/modes_victory_podium_01/modes_podium_pillar_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/celebration/modes_victory_podium_01/modes_podium_sign_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/celebration/modes_victory_podium_01/modes_victory_podium_base_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/celebration/modes_victory_podium_01/tdm_podium_stairs_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/city_modern/citymodern_vent_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/cockpit/console_ship_center_tower_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/cockpit/mounted_ceiling_server_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/cockpit/ship_console_control_med_v1_off_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/colony/antenna_01_colony_electricalboxes_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/colony/antenna_05_colony_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/colony/farmland_fence_rusted_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/colony/farmland_fence_rusted_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/colony/farmland_fence_rusted_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/colony/farmland_fence_rusted_03_large_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/colony/generator_large_02_white_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/barrel_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/box_med_cardboard_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/box_med_cardboard_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/box_metal_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/can_blue_horizontal_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/can_red_horizontal_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/can_red_soda_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/container_medium_tanks_blue_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/crate_orange_plastic_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/pelican_case_large_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/slumcity_oxygen_tank_blue_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/slumcity_oxygen_tank_red_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/slums_plastic_container_green_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/slums_plastic_crate_blue_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/slums_plastic_crate_blue_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/underbelly_cargo_container_128_audio_equipment_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/underbelly_cargo_container_128_red_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/underbelly_cargo_container_80x46x42_audio_equipment_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/decals/grime_dirty_floor_decal_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/decals/puddle_floor_decal_flat_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/decals/puddle_floor_decal_flat_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/decals/puddle_floor_decal_flat_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/decals/puddle_floor_decal_flat_04_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/construction_bldg_wood_board_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/desertlands_Ice_decal_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/desertlands_bloodhoundBolt_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/desertlands_snow_heavy_decal_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/desertlands_snow_heavy_decal_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/desertlands_snow_heavy_decal_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/desertlands_snow_heavy_decal_04.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/fx_fuel_nozzle_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/icelandic_moss_mod_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/rampart_tt_koala_kola_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/rampart_tt_vendit_01_sticker_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/rampart_tt_vendit_01_sticker_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/rampart_tt_vendit_01_sticker_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/rampart_tt_vendit_01_sticker_05.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/rampart_tt_vendit_01_sticker_10.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/rampart_tt_vendit_01_sticker_13.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/desertlands/research_station_server_wire_canopy_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/dev/editor_ambient_generic_node.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/dev/editor_cube_w_arrow.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/dev/mp_spawn.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/dev/mp_spawn_start.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/ac_unit_dirty_32x64_01_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/ac_unit_dirty_32x64_02_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/ac_unit_dirty_32x64_fan_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/atm_city_interior_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/bottle_sake_blue_short_rt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/cash_register_touchscreen.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/domestic_mattress_small.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/floor_mat_black_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/ladel_restaurant_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/magazine_pile_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/magazine_pile_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/magazine_pile_04_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/mirage_speaker_subwoofer_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/nessy_blue_doll.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/nessy_doll_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/pa_system_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/papers_ground01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/papers_ground02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/plastic_cup_small_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/restaurant_counter_32x40_dirty.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/restaurant_cupboard01_32x40_dirty_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/restaurant_cupboard02_32x40_dirty_b.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/restaurant_cupboard06_16x40_dirty_b.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/vent_rack_restaurant_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/whiteboard_restaurant_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/door/canyonlands_door_single_02_hinges_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/electricalboxes/fusebox_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/electricalboxes/fusebox_green_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/electricalboxes/fusebox_rusty_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/electricalboxes/fusebox_small_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/electricalboxes/fuseboxnodoor_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/firstgen/firstgen_barrel_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/firstgen/firstgen_pipe_128_darkcloth_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/firstgen/firstgen_pipe_32_darkcloth_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/firstgen/firstgen_pipe_curve_darkcloth_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/fixtures/stasis_light_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/fern_ground_05.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/grass_brown_long_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/grass_desert_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/grass_desert_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/grass_green_long_03_animated_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/grassblades_water_dark_animated_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/green_ground_leaves_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/plant_birds_nest_fern_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/plant_birds_nest_fern_01_wind.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/plant_lauae_fern_01_wind.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/tree_bamboo_clump_01_snow.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/tree_bamboo_clump_01_wind.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/tree_palm_leafy_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/tree_palm_tropics_02_wind.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/tree_palm_tropics_03_wind.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/tropics_pukiawe_shrub_01_wind_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/fx/arena_vic_ground_fog.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/garbage/dumpster_dirty_open_a_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/garbage/garbage_bag_plastic_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/garbage/garbage_bag_plastic_b_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/garbage/trash_bin_single_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/garbage/trash_bin_single_wtrash_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/homestead/homestead_floor_panel_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/ceiling_plugs_IMC_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/chair_imc_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/conduit_bend_16_IMC_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/conduit_bend_16_IMC_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/conduit_bracket_IMC_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/conduit_bracket_IMC_04_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/conduit_str_16_IMC_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/conduit_str_16_IMC_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/conduit_str_32_IMC_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/conduit_str_32_IMC_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/conduit_str_64_IMC_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/conduit_str_64_IMC_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/generator_IMC_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_antenna_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_antenna_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_antenna_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_fan_large_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_fan_large_case_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_fan_large_case_01_short_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_portable_ext_double_door_frame_red_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_portable_int_wall_pipe_128_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_portable_int_wall_pipe_32_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_portable_int_wall_pipe_32_valve_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_portable_int_wall_pipe_64_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_portable_int_wall_pipe_64_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_portable_int_wall_pipe_8_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_portable_int_wall_pipe_corner_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_tech_panel_64_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_tech_smallpanel_48_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/imc_tech_tallpanel_48_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/light_wall_IMC_01_on_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/monitor_command_imc_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/monitor_command_small_imc_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/siren_wall_IMC_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/thumper_generator_set_b_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_base/toilet_barracks_IMC_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_interior/imc_int_fusebox_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_interior/ripped_pipe_128.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_interior/ripped_pipe_64_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_interior/wrapped_pipe_128_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_interior/wrapped_pipe_256_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_interior/wrapped_pipe_64_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/imc_interior/wrapped_pipe_bent_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/UTG_spire_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/bottle_wine.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/fan_blade_alpha_metal_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/gas_generator_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/landing_mat_metal_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/landing_mat_metal_02_large_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/landing_mat_metal_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/landing_mat_metal_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/modular_railing_trim_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/modular_railing_trim_long_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/modular_railing_trim_mid_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/modular_railing_trim_short_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/pallet_wood_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/traffic_cone_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/tripod_cone_v1_high_on_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/welding_push_unit.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/kodai/kodai_projector_floor_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/halogen_light_ceiling_subtle_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/industrial_construction_lights_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/industrial_wall_light_02_on_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/industrial_wall_light_on_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/interior_can_light_on.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/light_panel_building_blue_128.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/light_panel_building_blue_256.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/light_panel_building_blue_64.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/light_panel_building_blue_off_128.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/search_light_off_stand_only_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/search_light_on_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/search_light_on_godray_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/search_light_on_light_only_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/track_light_on.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/warning_light_ON_red_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/warning_light_red.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_canyonlands/canyonland_pipe_ring_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_canyonlands/clands_roof_bars_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_canyonlands/clands_roof_bars_01_fglass_blue_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_canyonlands/clands_roof_bars_01_fglass_orange_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_canyonlands/clands_roof_door_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_apex_sign_mu2_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/concession_interior_decals_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/concession_interior_pillar_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/concession_rockwall_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/concession_storefront_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rock_desert_jagged_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rock_desert_jagged_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rock_desert_jagged_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rock_white_chalk_skygarden_modular_01_half_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rock_white_chalk_skygarden_modular_01_half_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_concession_exterior_pillar_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_concession_exterior_pillar_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_concession_exterior_pillar_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_concession_exterior_pillar_04.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_concession_large_rollupdoor_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_concession_large_rollupdoor_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_concession_large_rollupdoor_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_exterior_planter_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_exterior_planter_decal_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_exterior_planter_decal_01_mu3.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_exterior_planter_decal_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_exterior_planter_decal_02_mu3.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_terrain_centerplatform_section_01_fakelights_mu3.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/rr_skygarden_terrain_centerplatform_section_01_lights_mu3.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_banners_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_banners_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_concession_bench_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_concession_planter_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_concession_planter_04.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_console_dj_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_cover_speaker_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_doorframe_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_generator_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_godray.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_godray_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_godray_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_godray_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_godray_04.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_light_128x128x242_art_installation_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_light_post_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_menu_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_parking_stall_framework_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_parking_stall_framework_wall_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_parking_stall_structure_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_04.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_01_ripped.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_02_ripped.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_03_ripped.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_04.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_sign_koala_04_ripped.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_stage_building_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_stage_decor_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_stage_decor_04.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_stall_doorframe_128_closed_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_stall_doorframe_128_half_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_stall_doorframe_32_closed_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_store_sign_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_store_sign_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_tv_mount_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_vista_godrays_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_baseboard_heater_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_hand_dryer_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_interior_decals_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_interior_decals_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_screen_tripple_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_sink_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_soap_dispenser_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_stall_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_stall_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_urinal_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_wall_pannel_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_rr_skygarden/skygarden_washroom_wall_pannel_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/pve_test/spiderweb_hanging_large_04.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/pve_test/spiderweb_hanging_large_08_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/mendoko/mendoko_wire_ground_coils_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/menu/menu_cubemap_char_select_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/ola/sewer_railing_01_64_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/ola/sewer_staircase_32_double_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/ola/sewer_staircase_96_double_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/ola/sewer_staircase_short_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/olympus/flexscreen_frame_olympus.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/olympus/olympus_docks_edge_barrier_128_open_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/olympus/olympus_docks_edge_barrier_end_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/olympus/olympus_furniture_patio_umbrella_orange.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/olympus/olympus_modern_light_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/airduct_xl_vent.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_grey_32_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_grey_8_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_red_02_64_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_red_02_8_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_white_256_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_white_32_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_white_32_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_white_64_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_white_8.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_white_corner_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_yellow_128_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_yellow_256_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_yellow_32_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_yellow_32_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_yellow_32_04_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_yellow_32_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_yellow_32_valve_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_yellow_64_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_yellow_8_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_modular_painted_yellow_corner_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_small_metal_cluster_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_small_metal_cluster_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_small_metal_ground_ring_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/pipe_small_metal_rust_elbow.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/slum_pipe_large_bracket_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/slum_pipe_large_yellow_256_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/pipes/slum_pipe_large_yellow_angle_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_hanging_wire_single_32x64_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_hanging_wire_single_32x64_02_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/props/district_horizontal_launcher/district_horizontal_launcher_base_cover.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/props/zip_rail/zip_rail_cord_end_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/props/zip_rail/zip_rail_ground_base_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/props/zip_rail/zip_rail_ground_post_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/props/zip_rail/zip_rail_ground_post_top_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/relic/hanging_relic_light_on_2_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/relic/relic_yellow_wire_128_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/relic/relic_yellow_wire_128_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rise/catwalk_hanging_wires_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/robots/marvin/marvin_death6_moss_static.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/robots/marvin/rbt_marvin_uniform_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/desert_rock_cluster_small_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/desert_rock_cluster_small_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/rock_desert_04_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/rock_desert_05_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/rock_desert_06_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/rock_white_chalk_modular_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/rock_white_chalk_modular_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/rock_white_chalk_modular_flat_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/rock_white_chalk_sand_modular_01_half_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/rock_white_chalk_sand_modular_flat_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/rockcluster_light_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rubble/rebar_cluster_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rubble/rebar_cluster_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rubble/rebar_cluster_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/runoff/light_wall_IMC_01_red_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/signs/arenas_big_screen_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/signs/market/angel_city_market_signs2.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/signs/sign_construction_03.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/signs/sign_service_shaft_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/signs/sign_service_shaft_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_column01_40x128_dirty_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_girdering_256x16_dirty_b_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_industrial_scaffolding_128x128_tarp_c_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_industrial_scaffolding_32x128_tarp_c_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_industrial_scaffolding_64x128_tarp_d_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipe_128_corrugated_metal_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipemetal_128_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipemetal_16_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipemetal_16_junc_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipemetal_16_junc_b_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipemetal_32_walljunc_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipemetal_64_c_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipemetal_8_junc_b_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipemetal_8_walljunc_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/survival_modular_flexscreens_04.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/survival_modular_flexscreens_frame_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_barrier_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_128x128_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_128x128_06.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x128_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x128_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x128_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x128_04_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x128_05_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x128_06_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x256_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x256_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x256_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x256_04_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x256_06_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x64_04_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x64_05.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_256x64_06.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_512x128_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_512x128_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_512x128_04_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_ceiling_64x64_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_floor_128x128_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_04_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_128_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_128x32_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_16x128_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_16x32_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_16x32_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_16x352_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_256_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_32_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_32x32_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_64_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_64x144_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_64x32_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_frame_64x352_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_wall_128x352_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_wall_128x352_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_wall_128x352_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_wall_128x352_04_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_wall_256x128_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_wall_256x128_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_wall_256x352_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_wall_256x352_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_wall_512x240_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_wall_512x352_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_wall_sand_256x128_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_cage_wall_sand_256x128_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_gantry_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_pipe_set_01_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_pipe_set_01_b_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_pipe_set_03_a_128_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_pipe_set_03_a_64_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_pipe_set_03_a_corner_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_pipe_set_bracket_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_pipe_set_corner_01_a_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_screen_tower_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_screen_tower_arm_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_stands_awning_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_stands_girder_32x128_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_stands_girder_32x256_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_stands_girder_32x512_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/thunderdome/thunderdome_stands_girder_brace_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/timeshift/hanging_speaker_stack_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/timeshift/speaker_single_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/utilities/ceiling_vent_metal_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/utilities/modular_wire_cluster_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/utilities/modular_wire_cluster_02_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/utilities/modular_wire_cluster_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/utilities/modular_wire_cluster_06.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/utilities/power_gen1_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/utilities/wire_hanging_cluster_03_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/utilities/wires_ground_coils_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/utilities/wires_hanging_64_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/vehicle/moped/moped_static.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/vehicles_r5/land/msc_truck_mod_lrg/veh_land_msc_truck_mod_military_lrg_01_closed_static_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/vistas/encore_moon_destoyed_se.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/water/water_puddle_decal_01_avt.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/props/crafting_siphon/crafting_siphon.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/props/district_horizontal_launcher/district_horizontal_launcher_base_w.rmdl"
+        }
+    ]
+}

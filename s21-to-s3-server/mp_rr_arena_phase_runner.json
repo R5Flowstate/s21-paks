@@ -1,0 +1,1191 @@
+{
+  "version": 8,
+  "keepDevOnly": true,
+  "name": "mp_rr_arena_phase_runner",
+  "assetsDir": "s21-to-s3-server/mp_rr_arena_phase_runner/",
+  "outputDir": "./build/",
+  "compressLevel": 6,
+  "compressWorkers": 16,
+  "files": [
+    {
+      "_type": "mdl_",
+      "_path": "mdl/barriers/concrete/concrete_barrier_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/barriers/concrete/concrete_barrier_fence.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/barriers/concrete/concrete_barrier_fence_128.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/barriers/concrete/concrete_barrier_fence_tarp_128.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/barriers/guard_rail_01_128.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_crane_wall_panel_corner_256_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_railing_lrg_24h_128_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_wire_cluster_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_wire_cluster_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_wire_cluster_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_wire_cluster_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_wire_cluster_06.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_wire_cluster_08_l.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_wire_ground_coils_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_wire_ground_coils_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/beacon_wire_ground_coils_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/construction_plastic_mat_black_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/construction_plastic_mat_white_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/construction_scaff_128_64_128.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/construction_scaff_128_64_64.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/construction_scaff_segment_128_128.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/construction_scaff_segment_128_128_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/construction_scaff_segment_128_64_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/construction_scaff_tarp_floor_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/generator_fan_house_cap_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/kodai_fb_hose_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/mendoko_wire_cluster_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/mendoko_wire_ground_coils_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/modular_hose_yellow_128_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/modular_hose_yellow_128_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/beacon/modular_hose_yellow_128_bend_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/black_water_canal/mp_blk_water_canal_wire_128_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/black_water_canal/mp_blk_water_canal_wire_128_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/black_water_canal/mp_blk_water_canal_wire_64.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/boomtown/btown_whouse_prop_rack_arm_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/boomtown/btown_whouse_rack_motor_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/canyonlands/canyonlands_scaffolding_ramp_small_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/canyonlands/wraith_tt_portal_large.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/celebration/modes_victory_podium_01/modes_podium_background_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/celebration/modes_victory_podium_01/modes_podium_banner_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/celebration/modes_victory_podium_01/modes_podium_lights_on.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/celebration/modes_victory_podium_01/modes_podium_pillar_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/celebration/modes_victory_podium_01/modes_podium_pillar_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/celebration/modes_victory_podium_01/modes_podium_sign_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/celebration/modes_victory_podium_01/modes_victory_podium_base_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/celebration/modes_victory_podium_01/TDM_podium_background_godray_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/celebration/modes_victory_podium_01/TDM_podium_spotlight_godray_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/celebration/modes_victory_podium_01/tdm_podium_stairs_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/city_modern/citymodern_vent_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/cockpit/console_ship_center_tower_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/cockpit/mounted_ceiling_server_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/cockpit/ship_console_control_med_v1_off.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/colony/farmland_crate_plastic_01_red.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/colony/farmland_crate_plastic_yellow_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/colony/solar_panel_angled_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/containers/barrel.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/containers/box_med_cardboard_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/containers/box_metal.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/containers/container_medium_tanks_blue.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/containers/pelican_case_large.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/containers/plastic_pallet_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/containers/plastic_pallet_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/containers/slumcity_oxygen_tank_blue.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/containers/slumcity_oxygen_tank_red.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/containers/underbelly_cargo_container_128_blue_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/containers/underbelly_cargo_container_128_red_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/containers/underbelly_cargo_container_256_red_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/decals/grime_dirty_floor_decal_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/construction_bldg_column_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/construction_bldg_tarp_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/construction_bldg_wood_board_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/construction_bldg_wood_debris_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/curb_parking_concrete_destroyed_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/desertlands_large_liquid_tank_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/desertlands_portable_int_floor_108x256_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/fx_fuel_nozzle.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/icelandic_moss_mod_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/icelandic_moss_mod_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/industrial_cargo_container_320_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/industrial_cargo_container_small_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/industrial_crane_yellow_01_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/industrial_crane_yellow_01_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/industrial_crane_yellow_01_c.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/industrial_metal_base_support_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/industrial_metal_base_support_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/industrial_metal_frame_256x144_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/research_station_server_wire_canopy_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/desertlands/road_plate_metal_128_single_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/dev/editor_ambient_generic_node.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/dev/editor_cube_w_arrow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/dev/mp_spawn.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/dev/mp_spawn_start.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/domestic/floor_mat_black_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/domestic/nessy_mech_doll.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/domestic/papers_ground01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/electricalboxes/fusebox.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/electricalboxes/fusebox_small_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/firstgen/firstgen_barrel_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fixtures/stasis_light_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fixtures/stasis_light_01_warm.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/flowers_ground_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/foliage_ground_plants.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/grass_burnt_yellow_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/ground_plant_beacon_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/ground_plant_desertlands_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/ground_plant_desertlands_01_group_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/icelandic_ground_plant_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/icelandic_moss_grass_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/moss_green_hanging_large_01_dark.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/moss_green_hanging_large_02_dark.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/moss_green_hanging_large_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/moss_green_hanging_large_04_dark.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/plant_icelandic_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/tree_acacia_small_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/tree_acacia_small_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/tree_brush_yellow_large_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/tree_fir_large_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/foliage/tree_fir_large_arenas_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/arena_vic_ground_fog.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/cloud_fill_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/confetti_white_bs.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/portal_ring_warn_inner_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/wraith_portal_edge_LG.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/harmony_mines/halogen_light_ceiling_64.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/homestead/homestead_floor_panel_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/ceiling_plugs_IMC_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/chair_imc_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/conduit_bend_16_IMC_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/conduit_bend_16_IMC_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/conduit_bracket_IMC_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/conduit_bracket_IMC_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/conduit_str_16_IMC_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/conduit_str_32_IMC_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/conduit_str_32_IMC_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/conduit_str_64_IMC_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/conduit_str_64_IMC_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_antenna_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_antenna_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_fan_large_case_01_short.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_128_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_32_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_32_valve_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_64_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_64_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_8_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_portable_int_wall_pipe_corner_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_tech_panel_64_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_tech_smallpanel_48_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/imc_tech_tallpanel_48_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/light_wall_IMC_01_on.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/monitor_command_imc_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/monitor_command_small_imc_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/thumper_generator_set_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_interior/imc_int_fusebox_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/electrical_box_green.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/fan_blade_alpha_metal_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/landing_mat_metal_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/landing_mat_metal_02_large.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/landing_mat_metal_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/landing_mat_metal_03_large.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/light_pole_bforce_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/modular_railing_trim_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/modular_railing_trim_long.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/modular_railing_trim_mid.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/traffic_barrel_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/traffic_cone_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/tripod_cone_v1_high_on.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/underbelly_support_beam_128_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/industrial/underbelly_support_beam_256_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/kodai/kodai_projector_floor_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/kodai_live_fire/live_fire_yellframe.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/lamps/halogen_light_ceiling_off.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/lamps/search_light_on_light_only_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/lamps/security_light_01_on.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/lamps/warning_light_ON_red.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/lamps/warning_light_red.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_marvin_hanging1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_canyonlands/rig_frame_wall_med_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_canyonlands/rig_frame_wall_sml_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_desertlands/desertlands_godrays_apex_sign_mu2_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_phase_runner/mp_phase_r_ring_large_frame_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_phase_runner/mp_phase_r_ring_large_frame_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_phase_runner/mp_phase_r_ring_large_panel_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_phase_runner/mp_phase_r_ring_large_panel_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_phase_runner/mp_phase_r_ring_large_sec_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_phase_runner/mp_rr_phase_runner_godrays_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_phase_runner/phase_runner_tunnel.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_rr_phase_runner/phase_runner_tunnel_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/mendoko/mendoko_wire_ground_coils_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/menu/menu_cubemap_char_select.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_grate_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_grate_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_railing_01_128.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_railing_01_16.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_railing_01_64.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_railing_01_corner_in.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_railing_01_corner_out.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_stair_railing_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_stair_railing_01_inv.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_staircase_32_double.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_staircase_96_double.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_staircase_end_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/ola/sewer_staircase_quad.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_battery_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_battery_base_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_battery_wires_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_docks_edge_barrier_128x40_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_docks_edge_barrier_64x40_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_docks_edge_barrier_end_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_wall_cover_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_wall_cover_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_wall_panel_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/olympus/olympus_wall_pillar_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/hollow_pipe_modular_painted_red_128.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/hollow_pipe_modular_painted_red_16.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/hollow_pipe_modular_painted_red_256.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/hollow_pipe_modular_painted_red_32.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/hollow_pipe_modular_painted_red_64.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/hollow_pipe_modular_painted_red_8.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/hollow_pipe_modular_painted_red_corner.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_large_128_01_red.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_large_256_01_red.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_large_32_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_large_512_01_red.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_large_64_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_large_angle_01_red.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_modular_painted_grey_32_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_modular_painted_grey_32_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_modular_painted_grey_32_valve.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_modular_painted_grey_8.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_modular_painted_grey_corner.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_modular_painted_red_02_64.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_modular_painted_red_02_8.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_modular_painted_red_8.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_modular_painted_yellow_128.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_modular_painted_yellow_32_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_modular_painted_yellow_32_valve.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/pipes/pipe_modular_painted_yellow_64.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/battery_port/battery_port.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/titan_battery_static/titan_battery_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/relic/relic_yellow_wire_128_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/relic/relic_yellow_wire_128_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rise/catwalk_hanging_wires_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/robots/marvin/marvin_death3_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/robots/marvin/marvin_death5_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/icelandic_moss_rock_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/icelandic_rockcluster_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/icelandic_rockcluster_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/icelandic_rockcluster_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/icelandic_snow_rockcluster_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_lava_cluster_desertlands_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_lava_moss_desertlands_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_lava_moss_desertlands_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_lava_moss_desertlands_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_lava_small_moss_desertlands_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_lava_small_moss_desertlands_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_sharp_lava_moss_desertlands_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_sharp_lava_moss_desertlands_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/rocks/rock_sharp_lava_moss_desertlands_06.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/signs/arenas_big_screen_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/signs/sign_caution_chemical.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/signs/sign_caution_pump_warning.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/signs/sign_service_shaft_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/signs/sign_service_shaft_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/signs/signage_plates_metal/sign_plate_c.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/signs/street_sign_arrow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/slum_city/slumcity_column01_40x128_dirty_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/slum_city/slumcity_fencewall_128x72_dirty.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/slum_city/slumcity_industrial_scaffolding_128x128_tarp_a.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/slum_city/slumcity_industrial_scaffolding_128x128_tarp_b.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/slum_city/slumcity_industrial_scaffolding_128x128_tarp_d.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/slum_city/slumcity_industrial_scaffolding_32x128_tarp_c.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/test/josh_test/farmland_crate_plastic_test_yellow_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/thunderdome/survival_modular_flexscreens_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/thunderdome/survival_modular_flexscreens_frame_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/thunderdome/thunderdome_screen_tower_arm_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/utilities/ceiling_vent_metal.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/utilities/power_cell_64.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/utilities/power_cell_64_single_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/utilities/power_gen1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/utilities/wall_Waterpipe.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/utilities/wire_ceiling_mounts_straight.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/utilities/wire_ground_coils_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/utilities/wires_hanging_64.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicles_r5/land/msc_forklift_imc_v2/veh_land_msc_forklift_imc_v2_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicles_r5/land/msc_truck_mod_lrg/veh_land_msc_truck_mod_police_lrg_01_closed_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicles_r5/land_med/msc_freight_tortus_mod/veh_land_msc_freight_tortus_mod_attach_hitch_v1_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicles_r5/land_med/msc_freight_tortus_mod/veh_land_msc_freight_tortus_mod_attach_nav_v1_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicles_r5/land_med/msc_freight_tortus_mod/veh_land_msc_freight_tortus_mod_cargo_holder_v1_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vehicles_r5/land_med/msc_freight_tortus_mod/veh_land_msc_freight_tortus_mod_wheeled_v1_static.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/vistas/phase_runner_se.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/water/water_puddle_decal_01.rmdl"
+    }
+  ]
+}

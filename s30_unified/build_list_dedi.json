@@ -1,0 +1,11 @@
+{
+ "version": 8,
+ "dedi": true,
+ "keepDevOnly": false,
+ "keepClientOnly": false,
+ "outputDir": "./s30_unified\\dedi_out\\",
+ "showDebugInfo": false,
+ "paks": [
+  "./s30_unified\\sdk_s30_dedi.json"
+ ]
+}

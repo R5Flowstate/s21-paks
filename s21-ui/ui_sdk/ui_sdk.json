@@ -1,0 +1,295 @@
+{
+  "version": 8,
+  "name": "ui_sdk",
+  "assetsDir": "./s21-ui/ui_sdk/extract/uiia/",
+  "outputDir": "./s21-ui/ui_sdk/out/",
+  "headerFlags": 32,
+  "compressLevel": 0,
+  "files": [
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/hud/smart_ammo_bracket.uiia",
+      "$guid": "0x38A9F409842519A7"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/r2_ui/menus/loadout_icons/primary_weapon/primary_r101_aog.uiia",
+      "$guid": "0xA2E2DA1ECB3675BF"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/r2_ui/menus/loadout_icons/primary_weapon/weapon_car.uiia",
+      "$guid": "0x30902C7B751EB208"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/r2_ui/menus/loadout_icons/anti_titan/at_arcball.uiia",
+      "$guid": "0x328440492BE0A27C"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/r2_ui/menus/loadout_icons/anti_titan/at_mgl.uiia",
+      "$guid": "0xEF7109601953CC5C"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/r2_ui/menus/loadout_icons/primary_weapon/primary_coldwar.uiia",
+      "$guid": "0xA0563A291FA2E75F"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/r2_ui/menus/loadout_icons/anti_titan/at_sidewinder.uiia",
+      "$guid": "0xC00C0A240E472A04"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/r2_ui/menus/loadout_icons/primary_weapon/primary_arc_tool.uiia",
+      "$guid": "0xBFA81B0CABC2E69A"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/r2_ui/menus/loadout_icons/anti_titan/at_archer.uiia",
+      "$guid": "0x912B969DFAE7DB3D"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/r2_ui/menus/loadout_icons/primary_weapon/primary_epg1.uiia",
+      "$guid": "0x42F3ACD7E4802FC7"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/weapon_icons/r5/weapon_smart_pistol.uiia",
+      "$guid": "0x880D0C5D9179DC43"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/r2_ui/menus/loadout_icons/primary_weapon/primary_softball.uiia",
+      "$guid": "0xEEBC147E85AF6A2C"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/hud/tactical_icons/pilot_tactical_3dash.uiia",
+      "$guid": "0xE4EB9BAE8769C612"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/hud/tactical_icons/pilot_tactical_particle_wall.uiia",
+      "$guid": "0xCEA96855CAD09E3B"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/pilot_loadout/ordnance/satchel.uiia",
+      "$guid": "0x1AC01425127E4B31"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/hud/charge_rifle/charge_rifle_meter_bg.uiia",
+      "$guid": "0x05CE43501CC99972"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/hud/charge_rifle/charge_rifle_meter.uiia",
+      "$guid": "0x34F2C631F6FF555B"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/CafeFPS.uiia",
+      "$guid": "0x4B3138AC218734BA"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/amos.uiia",
+      "$guid": "0xAEA03F7DF718135D"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/humansas.uiia",
+      "$guid": "0x74C6D9E8FD7BF08A"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/icepixel.uiia",
+      "$guid": "0x847384D5B5347E42"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/julefox.uiia",
+      "$guid": "0x5643832E357B3AFB"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/kralrindo.uiia",
+      "$guid": "0x28061C8F9E32FC6C"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/macktheboatman.uiia",
+      "$guid": "0xA013EF9D9E6E8245"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/mkos.uiia",
+      "$guid": "0xC08FF42194CC0A2E"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/mostlyfireproof.uiia",
+      "$guid": "0x9E82692F5D592EC4"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/neeflow.uiia",
+      "$guid": "0xAF398F9D25ED8E22"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/orobotic.uiia",
+      "$guid": "0x41871FAA978CDF36"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/reglitched.uiia",
+      "$guid": "0xB24A9F160D04ACD7"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/rexx.uiia",
+      "$guid": "0x0389F200D07DC81C"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/sal.uiia",
+      "$guid": "0xC1FE8091D11A3C74"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/samlsop.uiia",
+      "$guid": "0x6F67D4306075BC00"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/contributors/zee.uiia",
+      "$guid": "0x92DC8C2C190347AD"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/death_recap/icon_deathrecap_specialcase_prowler.uiia",
+      "$guid": "0xAAD9C820AACFD223"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/death_recap/icon_deathrecap_specialcase_spider_melee.uiia",
+      "$guid": "0x5E5A194A4B433E66"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/death_recap/icon_deathrecap_specialcase_spider_ranged.uiia",
+      "$guid": "0xC0AFF102B589E388"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/death_recap/icon_deathrecap_specialcase_toxin.uiia",
+      "$guid": "0x9FFC2E9DEB83C105"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/death_recap/icon_deathrecap_specialcases_vault_defences.uiia",
+      "$guid": "0xAA2D29310DEE61F1"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/gamemodes/shadow_squad/player_info_custom_treatment.uiia",
+      "$guid": "0xEB0BE70F4BD064BF"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/gamemodes/shadow_squad/generic_shadow_character.uiia",
+      "$guid": "0x93C99273952885BD"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/gamemodes/shadow_squad/shadow_icon_orange.uiia",
+      "$guid": "0x7FEB01042962B1BA"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/gamemodes/shadow_squad/shadow_icon_spawn.uiia",
+      "$guid": "0xB1A405E28F5B9E40"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/gamemodes/shadow_squad/shadow_icon_spawn_temp.uiia",
+      "$guid": "0x81F3E6035118D068"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/gamemodes/shadow_squad/legend_icon.uiia",
+      "$guid": "0x145F9CBFC5370CA1"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/hud/gametype_icons/ltm/deathpos_skull_legend.uiia",
+      "$guid": "0x308F6D4EB4C03983"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/hud/gametype_icons/ltm/enemy_nemesis.uiia",
+      "$guid": "0xD9FB4E3CA0A4B198"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/hud/gametype_icons/ltm/enemy_nemesis_color.uiia",
+      "$guid": "0xC54FAAD9520B96ED"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/gamemodes/shadow_squad/shadow_icon_small.uiia",
+      "$guid": "0xE16B0676FD7BD3B0"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/gamemodes/shadow_squad/evac_countdown.uiia",
+      "$guid": "0x7AB3A5DE0436784B"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/gamemodes/shadow_squad/icon_direction_pointer_outline.uiia",
+      "$guid": "0xBD87505B652DE63A"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/hud/gametype_icons/ltm/deathpos_skull_default.uiia",
+      "$guid": "0x3CB6B7A780B4A296"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/hud/gametype_icons/ltm/deathpos_skull_default_color.uiia",
+      "$guid": "0x95222A6AB4F2A0F7"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/gamemodes/shadow_squad/shadow_fire_glow_tile.uiia",
+      "$guid": "0x6C338B0792987291"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/gamemodes/shadow_squad/legend_icon_small_shadow.uiia",
+      "$guid": "0xFB6AB0D23C58A6A9"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/gamemodes/shadow_squad/legend_icon_small.uiia",
+      "$guid": "0x6456D25949EF2661"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/hud/unitframes/shadow_squad/unitframe_shadow_squad_border.uiia",
+      "$guid": "0xEA4158A766E30373"
+    },
+    {
+      "_type": "uiia",
+      "_path": "ui_image/rui/hud/unitframes/shadow_squad/unitframe_shadow_squad_mask.uiia",
+      "$guid": "0x92080878CFE770F4"
+    }
+  ]
+}

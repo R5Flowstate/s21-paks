@@ -1,0 +1,15 @@
+{
+  "version": 8,
+  "keepDevOnly": true,
+  "name": "patch_master",
+  "assetsDir": "s21-to-s3-server/mp_lobby/",
+  "outputDir": "./build/",
+  "files": [
+    {
+      "_type": "Ptch",
+      "_path": "patch_master",
+      "entries": [
+      ]
+    }
+  ]
+}

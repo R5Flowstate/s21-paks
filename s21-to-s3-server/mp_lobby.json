@@ -1,0 +1,367 @@
+{
+    "version": 8,
+    "keepDevOnly": true,
+    "name": "mp_lobby",
+    "assetsDir": "s21-to-s3-server/mp_lobby/",
+    "outputDir": "./build/",
+    "compressLevel": 6,
+    "compressWorkers": 16,
+    "files": [
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/box_shrinkwrapped.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/can_blue_soda.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/can_green_cola.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/can_red_soda.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/slums_plastic_crate_blue_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/containers/slums_plastic_crate_orange_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/divided_moon/divided_moon_ferrofluid_spikes_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/divided_moon/residential/divided_res_towels_01/divided_res_towel_floor_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/cigarettes_and_ashtray.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/cigarettes_red.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/magazine_pile_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/mug_coffee_white.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/domestic/papers_ground01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/electricalboxes/fuseboxnodoor.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/electricalboxes/fusebox_small_b.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/fixtures/stasis_light_01_warm.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/divided_barren_grass_01_mu1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/grass_lily_shrub_02_wind.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/mushroom_latticed_01_mu1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/fungi_red_tendril_01/fungi_red_tendril_01_mu1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/fungi_red_tendril_01/fungi_red_tendril_02_mu1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/foliage/tree_weeping_willow_01/tree_weeping_willow_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/furniture/office_desk_accessories_papers.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/furniture/office_desk_accessories_pen.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/furniture/office_laptop.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/homestead/homestead_floor_panel_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/bottle_gin.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/bottle_rocket_shot.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/bottle_rum.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/dart_board.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/dart_green.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/dart_red.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/dart_yellow.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/dive_bar_beer_bottle_green_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/dive_bar_beer_glass_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/dive_bar_beer_mug_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/industrial/keg_large.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lamps/floor_standing_ambient_light.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/lava_land/volcanic_dry_flow_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_lobby/bar_godrays.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_lobby/mp_customize_geo.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_banners_s21_1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_bg_cards_bp_s21.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_bg_cards_s21_1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_bg_card_bldg_s21_1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_bg_clouds_bp_s21_1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_bg_clouds_s21_1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_skybox_bp_s21.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_skybox_s21.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_vignette_s21_1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/levels_terrain/mp_lobby/s21_lobby_ferrofluid_spread_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/menu/loot_ceremony_cubemap.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/menu/menu_cubemap.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/menu/menu_cubemap_char_select.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/brewery_tank_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/brewery_tank_02.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_barstool_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_bar_beer_tap_40x64_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_bar_inner_32x64x16_01_b.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_bar_railing_16x40_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_bar_railing_64x40_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_bar_railing_end_cap_01_b.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_bar_railing_support_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_bar_table_40x16_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_bar_table_40x32_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_bar_table_40x32_corner_round_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_bar_table_40x64_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_bar_table_40x64_01_b.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_bar_table_40x8_01_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_girdering_128x128_angled_01_dirty.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_girdering_32x64_angled_01_dirty.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_girdering_64x64_angled_01_dirty.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_girdering_joint_4way_01_dirty.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/playback_hanging_keg_lights_01_on.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/playback/table_wood_on_keg_128x40_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rise/catwalk_hanging_wires_01.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/divided_rocks_eroded_cluster_01_mu1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/divided_rocks_eroded_small_02_mu1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/divided_rock_cliffs_01_mu1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/rocks/divided_rock_ledge_01_mu1.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_girdering_128x16_dirty_b.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipe_128_corrugated_metal_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipe_16_corrugated_metal_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipe_256_corrugated_metal_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipe_32_corrugated_metal_b.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipe_64_corrugated_metal_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipe_64_corrugated_metal_b.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipe_90junc_corrugated_metal_a.rmdl"
+        },
+        {
+            "_type": "mdl_",
+            "_path": "mdl/slum_city/slumcity_pipe_bracket_corrugated_metal_a.rmdl"
+        }
+    ]
+}
