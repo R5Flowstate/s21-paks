@@ -70,3 +70,10 @@ rewrites its pair.
 ## Regenerating the index
 
     py -3 tools/manifest_index.py
+
+## License
+
+MIT for the manifests, build lists, tools, docs and authored assets
+(`LICENSE.txt`). Game-derived assets converted from Apex Legends remain the
+property of Electronic Arts / Respawn and are included for interoperability
+only; no license is granted for them.

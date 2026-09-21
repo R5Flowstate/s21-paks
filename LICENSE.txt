@@ -1,3 +1,14 @@
+Scope
+
+The MIT License below covers the Repak manifests, build lists, tools,
+documentation and the assets authored by the R5Flowstate contributors.
+
+It does not cover game-derived assets: models, textures, animations,
+effects, settings and other files converted from Apex Legends. Those remain
+the property of Electronic Arts Inc. and Respawn Entertainment, are included
+solely for interoperability with the game, and no license is granted for
+them by this repository.
+
 MIT License
 
 Copyright (c) 2026 R5Flowstate contributors
