@@ -1,0 +1,3 @@
+fieldName,dataType,layoutIndex,helpText
+assetName,string,0,
+roots,array_dynamic,0,The root assets that are included in this pak file.

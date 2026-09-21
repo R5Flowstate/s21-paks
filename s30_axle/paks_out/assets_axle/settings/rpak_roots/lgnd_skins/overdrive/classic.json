@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/overdrive/classic.rpak",
+		"roots": [
+			{
+				"asset": "mdl/techart/mshop/characters/legends/overdrive/overdrive_base_w.rmdl",
+				"featureFlag": ""
+			},
+			{
+				"asset": "mdl/techart/mshop/characters/legends/overdrive/overdrive_base_v.rmdl",
+				"featureFlag": ""
+			}
+		]
+	}
+}

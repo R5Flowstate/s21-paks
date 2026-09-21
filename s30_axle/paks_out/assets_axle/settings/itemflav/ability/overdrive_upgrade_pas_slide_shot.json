@@ -1,0 +1,26 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+  "uniqueId": 1327864767,
+  "settings": {
+    "assetName": "settings/itemflav/ability/overdrive_upgrade_pas_slide_shot.rpak",
+    "itemType": "ability",
+    "parentItemFlavor": "",
+    "settingsAssetID": "SAID01327864767",
+    "__featureFlag": "HAS_OVERDRIVE",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "#UPGRADE_PAS_SLIDE_SHOT_NAME",
+    "localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+    "localizationKey_DESCRIPTION_LONG": "#UPGRADE_PAS_SLIDE_SHOT_LONG_DESC",
+    "localizationKey_DESCRIPTION_SHORT": "#UPGRADE_PAS_SLIDE_SHOT_SHORT_DESC",
+    "quality": "NONE",
+    "icon": "rui/hud/legend_upgrades/upgrade_overdrive_sliding_shooter_icon",
+    "tagIcon": "",
+    "grxMode": "NONE",
+    "weaponClassname": "",
+    "passiveScriptRef": "PAS_PAS_UPGRADE_ONE",
+    "passiveWeaponMod": "",
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "showDetails": true
+  }
+}

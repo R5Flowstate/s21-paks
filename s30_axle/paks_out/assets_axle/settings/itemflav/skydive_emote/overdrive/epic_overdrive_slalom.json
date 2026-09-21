@@ -1,0 +1,30 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+  "uniqueId": 352901960,
+  "settings": {
+    "assetName": "settings/itemflav/skydive_emote/overdrive/epic_overdrive_slalom.rpak",
+    "itemType": "skydive_emote",
+    "parentItemFlavor": "settings/itemflav/character/overdrive.rpak",
+    "settingsAssetID": "SAID00352901960",
+    "__featureFlag": "HAS_OVERDRIVE",
+    "devDescription": "Character flies through obstacle course",
+    "localizationKey_NAME": "#skydive_emote_overdrive_slalom",
+    "localizationKey_NAME_SHORT": "#skydive_emote_overdrive_slalom",
+    "localizationKey_DESCRIPTION_LONG": "#skydive_emote_overdrive_slalom",
+    "localizationKey_DESCRIPTION_SHORT": "#skydive_emote_overdrive_slalom",
+    "quality": "EPIC",
+    "icon": "rui/menu/buttons/battlepass/skydive_emote_axel_slalom",
+    "tagIcon": "",
+    "grxMode": "REGULAR",
+    "grxMode": "REGULAR",
+    "grxRef": "skydive_emote_overdrive_slalom",
+    "ownershipTarget": "",
+    "animSequence": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_freefall_emote_slalom.rseq",
+    "video": "media/skydive_emotes/axle_slalom",
+    "bcEvent": "",
+    "multipleOwnershipTargets": [],
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "isTheEmpty": false
+  }
+}

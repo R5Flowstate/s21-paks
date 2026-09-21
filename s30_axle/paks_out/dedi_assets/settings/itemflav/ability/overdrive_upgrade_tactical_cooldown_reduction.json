@@ -1,0 +1,26 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+  "uniqueId": 38651013,
+  "settings": {
+    "assetName": "settings/itemflav/ability/overdrive_upgrade_tactical_cooldown_reduction.rpak",
+    "itemType": "ability",
+    "parentItemFlavor": "",
+    "settingsAssetID": "SAID00038651013",
+    "__featureFlag": "HAS_OVERDRIVE",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "#UPGRADE_OVERDRIVE_TAC_COOLDOWN_REDUCTION_NAME",
+    "localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+    "localizationKey_DESCRIPTION_LONG": "#UPGRADE_OVERDRIVE_TAC_COOLDOWN_REDUCTION_LONG_DESC",
+    "localizationKey_DESCRIPTION_SHORT": "#UPGRADE_OVERDRIVE_TAC_COOLDOWN_REDUCTION_SHORT_DESC",
+    "quality": "NONE",
+    "icon": "rui/hud/legend_upgrades/upgrade_overdrive_tactical_cooldown_icon",
+    "tagIcon": "",
+    "grxMode": "NONE",
+    "weaponClassname": "",
+    "passiveScriptRef": "PAS_TAC_UPGRADE_TWO",
+    "passiveWeaponMod": "upgrade_core_tac_cooldown_reduction",
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "showDetails": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+  "uniqueId": 121085335,
+  "settings": {
+    "assetName": "settings/itemflav/ability/overdrive_upgrade_tactical_duration.rpak",
+    "itemType": "ability",
+    "parentItemFlavor": "",
+    "settingsAssetID": "SAID00121085335",
+    "__featureFlag": "HAS_OVERDRIVE",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "#UPGRADE_OVERDRIVE_TAC_DURATION_NAME",
+    "localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+    "localizationKey_DESCRIPTION_LONG": "#UPGRADE_OVERDRIVE_TAC_DURATION_LONG_DESC",
+    "localizationKey_DESCRIPTION_SHORT": "#UPGRADE_OVERDRIVE_TAC_DURATION_SHORT_DESC",
+    "quality": "NONE",
+    "icon": "rui/hud/legend_upgrades/overdrive_upgrade_tactical_duration",
+    "tagIcon": "",
+    "grxMode": "NONE",
+    "weaponClassname": "",
+    "passiveScriptRef": "PAS_TAC_UPGRADE_THREE",
+    "passiveWeaponMod": "",
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "showDetails": true
+  }
+}

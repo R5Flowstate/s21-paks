@@ -1,0 +1,26 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+  "uniqueId": 259641230,
+  "settings": {
+    "assetName": "settings/itemflav/ability/overdrive_tac_slide_gate.rpak",
+    "itemType": "ability",
+    "parentItemFlavor": "",
+    "settingsAssetID": "SAID00259641230",
+    "__featureFlag": "",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "#ABL_TAC_SLIDE_GATE",
+    "localizationKey_NAME_SHORT": "#ABL_TAC_SLIDE_GATE_SHORT",
+    "localizationKey_DESCRIPTION_LONG": "#ABL_TAC_SLIDE_GATE_LONGDESC",
+    "localizationKey_DESCRIPTION_SHORT": "#ABL_TAC_SLIDE_GATE_DESC",
+    "quality": "NONE",
+    "icon": "rui/hud/tactical_icons/tactical_overdrive",
+    "tagIcon": "",
+    "grxMode": "NONE",
+    "weaponClassname": "mp_ability_overdrive_tac_slide_gate",
+    "passiveScriptRef": "",
+    "passiveWeaponMod": "",
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "showDetails": true
+  }
+}

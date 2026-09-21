@@ -1,21 +1,7 @@
-# recipe repo: no game bytes, ever
+# built outputs never ship through git
 *.rpak
 *.starpak
 *.starmap
-*.dds
-*.rmdl
-*.phy
-*.rseq
-*.rseq_extn
-*.rrig
-*.vg
-*.vg_static
-*.bsp
-*.bsp_lump
-*.ent
-*.vpk
-*.msw
-*.rson
 *.exe
 *.dll
 *.pdb
@@ -23,11 +9,16 @@
 *.log
 __pycache__/
 /paks/
-**/assets/
-**/out/
-**/dedi_out/
-**/extract*/
-**/converted/
-**/inv/
-**/bsp/
-**/logs/
+/s30_unified/out/
+/s30_unified/dedi_out/
+/s30_axle/paks_out/out/
+
+# map workspaces are extracted from your own game install, never committed
+/s21-maps/*/assets/
+/s21-maps/*/extract*/
+/s21-maps/*/converted/
+/s21-maps/*/inv/
+/s21-maps/*/bsp/
+/s21-maps/*/out/
+/s21-maps/*/dedi_work/
+/s21-to-s3-server/*/

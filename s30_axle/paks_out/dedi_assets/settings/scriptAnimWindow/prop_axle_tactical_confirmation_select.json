@@ -1,0 +1,18 @@
+{
+  "layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+  "settings": {
+    "assetName": "settings/scriptAnimWindow/prop_axle_tactical_confirmation_select.rpak",
+    "devDescription": "",
+    "type": "CreateProp",
+    "selectModelFrom": "HARD_CODED",
+    "modelName": "mdl/props/overdrive_tactical/overdrive_tactical_w.rmdl",
+    "modelScriptKey": "",
+    "attachPoint": "PROPGUN",
+    "animSequence": "animseq/props/overdrive_tactical/tactical_overdrive_confirmation_select.rseq",
+    "scriptCallbackKey": "",
+    "scale": 1.0,
+    "additionalAnims": [],
+    "propBodygroups": [],
+    "syncCycle": true
+  }
+}

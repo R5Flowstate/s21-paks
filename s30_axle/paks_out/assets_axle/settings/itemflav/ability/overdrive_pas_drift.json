@@ -1,0 +1,26 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+  "uniqueId": 992758418,
+  "settings": {
+    "assetName": "settings/itemflav/ability/overdrive_pas_drift.rpak",
+    "itemType": "ability",
+    "parentItemFlavor": "",
+    "settingsAssetID": "SAID00992758418",
+    "__featureFlag": "HAS_OVERDRIVE",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "#ABL_PAS_DRIFT",
+    "localizationKey_NAME_SHORT": "#ABL_PAS_DRIFT_SHORT",
+    "localizationKey_DESCRIPTION_LONG": "#ABL_PAS_DRIFT_LONGDESC",
+    "localizationKey_DESCRIPTION_SHORT": "#ABL_PAS_DRIFT_DESC",
+    "quality": "NONE",
+    "icon": "rui/hud/passive_icons/passive_overdrive",
+    "tagIcon": "",
+    "grxMode": "NONE",
+    "weaponClassname": "",
+    "passiveScriptRef": "PAS_OVERDRIVE",
+    "passiveWeaponMod": "",
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "showDetails": true
+  }
+}

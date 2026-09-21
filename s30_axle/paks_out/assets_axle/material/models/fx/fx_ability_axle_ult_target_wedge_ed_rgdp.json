@@ -1,0 +1,53 @@
+{
+ "name": "models/fx/fx_ability_axle_ult_target_wedge_ed",
+ "width": 128,
+ "height": 128,
+ "depth": 0,
+ "glueFlags": "0x10120086",
+ "glueFlags2": "0x0",
+ "blendStates": [
+  "0xF0138086",
+  "0x138286",
+  "0xF0008286",
+  "0xF0000000",
+  "0xF0138086",
+  "0x0",
+  "0x0",
+  "0x0"
+ ],
+ "blendStateMask": "0x9",
+ "depthStencilFlags": "0x7",
+ "rasterizerFlags": "0x2",
+ "uberBufferFlags": "0x0",
+ "dxStateUnk28": "0x0",
+ "unk_C0": "0x0",
+ "unk_CC": "0x0",
+ "unk_E8": "0x3F800000",
+ "unk_EA": "0x0",
+ "unk_84": "0x0",
+ "unk_F0": "0x0",
+ "features": "0x1F5A92BD",
+ "samplers": "0x1D0300",
+ "surfaceProp": "default",
+ "surfaceProp2": "",
+ "shaderType": "rgdp",
+ "shaderSet": "0x6329B3F29E488E83",
+ "$textures": {
+  "0": "0x89E41171F5BCD21A",
+  "1": "0xE60A86A873466805",
+  "2": "0xB6A7430F5B878F5F",
+  "3": "0x930B8FFAF67D7AA5"
+ },
+ "$textureTypes": {
+  "0": "_col",
+  "1": "_ilm",
+  "2": "_msk",
+  "3": "_nml"
+ },
+ "$depthShadowMaterial": "0x0",
+ "$depthPrepassMaterial": "0x0",
+ "$depthVSMMaterial": "0x0",
+ "$depthShadowTightMaterial": "0x0",
+ "$colpassMaterial": "0x0",
+ "$textureAnimation": "0x0"
+}

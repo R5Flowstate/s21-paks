@@ -339,9 +339,10 @@ in-place fix stack must be re-run after any rebuild.
 
 ## 9. Publishing rules for this repo
 
-- Recipes only. Never commit `.rpak`, `.starpak`, `.dds`, `.rmdl`, `.rseq`,
-  `.rrig`, `.phy`, `.vg`, `.msw`, `.bsp*`, `.vpk` or any extracted asset;
-  the `.gitignore` refuses them and that policy is deliberate.
+- Inputs for the custom and SDK content paks live in git (authored art and
+  converted SDK content). Map workspaces never do: those are extracted from
+  a game install and the `.gitignore` refuses `s21-maps/*/assets/` and
+  `s21-to-s3-server/*/` on purpose. Built `.rpak` / `.starpak` never.
 - Only content from retail seasons that have shipped. Nothing from
   playtest or unreleased builds, by name or by asset.
 - Paths inside manifests are repo-root relative. Never commit an absolute

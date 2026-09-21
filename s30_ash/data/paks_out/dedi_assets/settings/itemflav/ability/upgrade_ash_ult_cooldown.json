@@ -1,0 +1,26 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+  "uniqueId": 1781970257,
+  "settings": {
+    "assetName": "settings/itemflav/ability/upgrade_ash_ult_cooldown.rpak",
+    "itemType": "ability",
+    "parentItemFlavor": "",
+    "settingsAssetID": "SAID01781970257",
+    "__featureFlag": "",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "#UPGRADE_ULTIMATE_COOLDOWN_REDUCTION_NAME",
+    "localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+    "localizationKey_DESCRIPTION_LONG": "#UPGRADE_ULTIMATE_COOLDOWN_REDUCTION_LONG_30S_DESC",
+    "localizationKey_DESCRIPTION_SHORT": "#UPGRADE_ULTIMATE_COOLDOWN_REDUCTION_SHORT_DESC",
+    "quality": "NONE",
+    "icon": "rui/hud/legend_upgrades/horizon_ultimatecooldown_icon",
+    "tagIcon": "",
+    "grxMode": "NONE",
+    "weaponClassname": "",
+    "passiveScriptRef": "PAS_ULT_UPGRADE_TWO",
+    "passiveWeaponMod": "upgrade_ult_reduced_cooldown",
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "showDetails": true
+  }
+}

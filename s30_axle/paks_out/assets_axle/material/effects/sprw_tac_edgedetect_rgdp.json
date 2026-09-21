@@ -1,0 +1,53 @@
+{
+ "name": "effects/sprw_tac_edgedetect",
+ "width": 512,
+ "height": 512,
+ "depth": 0,
+ "glueFlags": "0x10120006",
+ "glueFlags2": "0x0",
+ "blendStates": [
+  "0xF0138086",
+  "0x138286",
+  "0xF0008286",
+  "0xF0000000",
+  "0xF0138086",
+  "0x0",
+  "0x0",
+  "0x0"
+ ],
+ "blendStateMask": "0x5",
+ "depthStencilFlags": "0x7",
+ "rasterizerFlags": "0x6",
+ "uberBufferFlags": "0x0",
+ "dxStateUnk28": "0x0",
+ "unk_C0": "0x0",
+ "unk_CC": "0x0",
+ "unk_E8": "0x3F800000",
+ "unk_EA": "0x0",
+ "unk_84": "0x0",
+ "unk_F0": "0x0",
+ "features": "0x1F5A92BD",
+ "samplers": "0x1D0300",
+ "surfaceProp": "default",
+ "surfaceProp2": "",
+ "shaderType": "rgdp",
+ "shaderSet": "0x87F2A534611F8BB7",
+ "$textures": {
+  "0": "0x7D23F3334ECF5BA2",
+  "1": "0x277814ADFDB8C32F",
+  "2": "0x3F82A54F8D47EE16",
+  "3": "0x58C4D58AEC4FF880"
+ },
+ "$textureTypes": {
+  "0": "_col",
+  "1": "_ilm",
+  "2": "_msk",
+  "3": "_ilm"
+ },
+ "$depthShadowMaterial": "0x0",
+ "$depthPrepassMaterial": "0x0",
+ "$depthVSMMaterial": "0x0",
+ "$depthShadowTightMaterial": "0x0",
+ "$colpassMaterial": "0x0",
+ "$textureAnimation": "0x0"
+}

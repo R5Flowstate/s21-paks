@@ -1,0 +1,32 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+  "uniqueId": 791996107,
+  "settings": {
+    "assetName": "settings/itemflav/gcard_tracker/overdrive/br_wins.rpak",
+    "itemType": "gladiator_card_stat_tracker",
+    "parentItemFlavor": "settings/itemflav/character/overdrive.rpak",
+    "settingsAssetID": "SAID00791996107",
+    "__featureFlag": "HAS_29_0_RELEASE",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "#TRACKER_WINS",
+    "localizationKey_NAME_SHORT": "#TRACKER_WINS",
+    "localizationKey_DESCRIPTION_LONG": "",
+    "localizationKey_DESCRIPTION_SHORT": "",
+    "quality": "COMMON",
+    "icon": "",
+    "tagIcon": "",
+    "grxMode": "REGULAR",
+    "grxMode": "REGULAR",
+    "grxRef": "gcard_tracker_overdrive_career_br_wins",
+    "ownershipTarget": "",
+    "statRef": "stats.characters[%char%].placements_win",
+    "valueNumberFormat": "INTEGER",
+    "valueSuffix": "",
+    "backgroundImage": "",
+    "multipleOwnershipTargets": [],
+    "color0": "<0.000000,0.000000,0.000000>",
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "isTheEmpty": false
+  }
+}

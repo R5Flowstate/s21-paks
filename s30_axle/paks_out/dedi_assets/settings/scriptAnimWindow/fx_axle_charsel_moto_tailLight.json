@@ -1,0 +1,12 @@
+{
+  "layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+  "settings": {
+    "assetName": "settings/scriptAnimWindow/fx_axle_charsel_moto_tailLight.rpak",
+    "devDescription": "",
+    "type": "PlayFX",
+    "particleSystemName": "P_charsel_axle_wheel_brakelight",
+    "attachPoint": "VFX_tailLight",
+    "followAttach": true,
+    "playEndCap": true
+  }
+}

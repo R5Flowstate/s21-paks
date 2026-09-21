@@ -1,0 +1,26 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+  "uniqueId": 1444653790,
+  "settings": {
+    "assetName": "settings/itemflav/ability/overdrive_upgrade_tac_slide_jump.rpak",
+    "itemType": "ability",
+    "parentItemFlavor": "",
+    "settingsAssetID": "SAID01444653790",
+    "__featureFlag": "HAS_OVERDRIVE",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "#UPGRADE_TAC_SLIDE_JUMP_NAME",
+    "localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+    "localizationKey_DESCRIPTION_LONG": "#UPGRADE_TAC_SLIDE_JUMP_LONG_DESC",
+    "localizationKey_DESCRIPTION_SHORT": "#UPGRADE_TAC_SLIDE_JUMP_SHORT_DESC",
+    "quality": "NONE",
+    "icon": "rui/hud/passive_icons/passive_sparrow",
+    "tagIcon": "",
+    "grxMode": "NONE",
+    "weaponClassname": "",
+    "passiveScriptRef": "PAS_TAC_UPGRADE_ONE",
+    "passiveWeaponMod": "",
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "showDetails": true
+  }
+}

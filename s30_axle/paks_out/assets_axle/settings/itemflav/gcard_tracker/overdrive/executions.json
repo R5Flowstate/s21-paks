@@ -1,0 +1,32 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+  "uniqueId": 1154235037,
+  "settings": {
+    "assetName": "settings/itemflav/gcard_tracker/overdrive/executions.rpak",
+    "itemType": "gladiator_card_stat_tracker",
+    "parentItemFlavor": "settings/itemflav/character/overdrive.rpak",
+    "settingsAssetID": "SAID01154235037",
+    "__featureFlag": "HAS_29_0_RELEASE",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "#gcard_tracker_overdrive_executions_NAME",
+    "localizationKey_NAME_SHORT": "#TRACKER_FINISHERS",
+    "localizationKey_DESCRIPTION_LONG": "",
+    "localizationKey_DESCRIPTION_SHORT": "",
+    "quality": "COMMON",
+    "icon": "",
+    "tagIcon": "",
+    "grxMode": "REGULAR",
+    "grxMode": "REGULAR",
+    "grxRef": "gcard_tracker_overdrive_executions",
+    "ownershipTarget": "",
+    "statRef": "stats.characters[%char%].executions",
+    "valueNumberFormat": "INTEGER",
+    "valueSuffix": "",
+    "backgroundImage": "",
+    "multipleOwnershipTargets": [],
+    "color0": "<0.550000,0.540000,0.540000>",
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "isTheEmpty": false
+  }
+}

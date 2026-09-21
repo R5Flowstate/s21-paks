@@ -1,0 +1,26 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+  "uniqueId": 290957408,
+  "settings": {
+    "assetName": "settings/itemflav/ability/overdrive_ultimate.rpak",
+    "itemType": "ability",
+    "parentItemFlavor": "",
+    "settingsAssetID": "SAID00290957408",
+    "__featureFlag": "",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "#ABL_ULT_FRAG_DRONE",
+    "localizationKey_NAME_SHORT": "#ABL_ULT_FRAG_DRONE_SHORT",
+    "localizationKey_DESCRIPTION_LONG": "#ABL_ULT_FRAG_DRONE_LONGDESC",
+    "localizationKey_DESCRIPTION_SHORT": "#ABL_ULT_FRAG_DRONE_DESC",
+    "quality": "NONE",
+    "icon": "rui/hud/ultimate_icons/ultimate_overdrive",
+    "tagIcon": "",
+    "grxMode": "NONE",
+    "weaponClassname": "mp_ability_frag_drone",
+    "passiveScriptRef": "",
+    "passiveWeaponMod": "",
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "showDetails": true
+  }
+}

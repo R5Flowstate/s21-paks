@@ -1,0 +1,12 @@
+{
+  "layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+  "settings": {
+    "assetName": "settings/scriptAnimWindow/fx_axle_charsel_moto_tire_RevUp.rpak",
+    "devDescription": "",
+    "type": "PlayFX",
+    "particleSystemName": "P_charsel_axle_wheel_RevUp_smk",
+    "attachPoint": "VFX_tire",
+    "followAttach": true,
+    "playEndCap": true
+  }
+}

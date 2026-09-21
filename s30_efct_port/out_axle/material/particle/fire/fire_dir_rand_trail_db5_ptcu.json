@@ -1,0 +1,47 @@
+{
+ "name": "particle/fire/fire_dir_rand_trail_db5",
+ "width": 256,
+ "height": 256,
+ "depth": 0,
+ "glueFlags": "0x80020086",
+ "glueFlags2": "0x0",
+ "blendStates": [
+  "0xF0138086",
+  "0x138286",
+  "0xF0008286",
+  "0xF0000000",
+  "0xF0138086",
+  "0x0",
+  "0x0",
+  "0x0"
+ ],
+ "blendStateMask": "0xB",
+ "depthStencilFlags": "0x7",
+ "rasterizerFlags": "0x2",
+ "uberBufferFlags": "0x4",
+ "features": "0x75C8DF6F",
+ "samplers": "0x1D02",
+ "surfaceProp": "default",
+ "surfaceProp2": "",
+ "shaderType": "ptcu",
+ "shaderSet": "0x9CEA150DCD9EB7F9",
+ "$textures": {
+  "0": "0xE2DD3268C2D039DE"
+ },
+ "$textureTypes": {
+  "0": "albedoTexture"
+ },
+ "$depthShadowMaterial": "0x0",
+ "$depthPrepassMaterial": "0x0",
+ "$depthVSMMaterial": "0x0",
+ "$depthShadowTightMaterial": "0x0",
+ "$colpassMaterial": "0x0",
+ "$textureAnimation": "0x7B5FB879A10476DB",
+ "dxStateUnk28": "0x0",
+ "unk_C0": "0x0",
+ "unk_CC": "0x0",
+ "unk_E8": "0x0",
+ "unk_EA": "0x0",
+ "unk_84": "0x0",
+ "unk_F0": "0x0"
+}

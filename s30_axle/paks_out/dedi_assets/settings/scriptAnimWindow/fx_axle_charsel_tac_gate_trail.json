@@ -1,0 +1,12 @@
+{
+  "layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+  "settings": {
+    "assetName": "settings/scriptAnimWindow/fx_axle_charsel_tac_gate_trail.rpak",
+    "devDescription": "",
+    "type": "PlayFX",
+    "particleSystemName": "P_charsel_axle_tac_gate_trail",
+    "attachPoint": "FX_freefall",
+    "followAttach": true,
+    "playEndCap": true
+  }
+}

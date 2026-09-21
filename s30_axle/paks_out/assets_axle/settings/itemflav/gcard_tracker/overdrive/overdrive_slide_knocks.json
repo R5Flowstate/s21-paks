@@ -1,0 +1,32 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+  "uniqueId": 249288670,
+  "settings": {
+    "assetName": "settings/itemflav/gcard_tracker/overdrive/overdrive_slide_knocks.rpak",
+    "itemType": "gladiator_card_stat_tracker",
+    "parentItemFlavor": "settings/itemflav/character/overdrive.rpak",
+    "settingsAssetID": "SAID00249288670",
+    "__featureFlag": "HAS_29_0_RELEASE",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "#gcard_tracker_overdrive_slide_knocks_NAME",
+    "localizationKey_NAME_SHORT": "#gcard_tracker_overdrive_slide_knocks_NAME_SHORT",
+    "localizationKey_DESCRIPTION_LONG": "",
+    "localizationKey_DESCRIPTION_SHORT": "",
+    "quality": "RARE",
+    "icon": "",
+    "tagIcon": "",
+    "grxMode": "REGULAR",
+    "grxMode": "REGULAR",
+    "grxRef": "gcard_tracker_overdrive_slide_knocks",
+    "ownershipTarget": "",
+    "statRef": "stats.overdrive_slide_knocks",
+    "valueNumberFormat": "INTEGER",
+    "valueSuffix": "",
+    "backgroundImage": "",
+    "multipleOwnershipTargets": [],
+    "color0": "<0.550000,0.540000,0.540000>",
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "isTheEmpty": false
+  }
+}

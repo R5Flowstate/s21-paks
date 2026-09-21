@@ -1,0 +1,16 @@
+{
+ "streamLayout": [
+  "permanent",
+  "permanent",
+  "permanent",
+  "permanent",
+  "permanent",
+  "permanent",
+  "permanent",
+  "mandatory",
+  "optional",
+  "optional"
+ ],
+ "resourceFlags": "0x0",
+ "usageFlags": "0x0"
+}

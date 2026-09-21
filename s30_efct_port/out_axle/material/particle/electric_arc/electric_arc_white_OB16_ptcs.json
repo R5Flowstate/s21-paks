@@ -1,0 +1,49 @@
+{
+ "name": "particle/electric_arc/electric_arc_white_OB16",
+ "width": 1024,
+ "height": 1024,
+ "depth": 0,
+ "glueFlags": "0x80000086",
+ "glueFlags2": "0x0",
+ "blendStates": [
+  "0xF0138086",
+  "0xF0138286",
+  "0xF0008286",
+  "0xF0000000",
+  "0xF0138086",
+  "0x0",
+  "0x0",
+  "0x0"
+ ],
+ "blendStateMask": "0x17",
+ "depthStencilFlags": "0x7",
+ "rasterizerFlags": "0x2",
+ "uberBufferFlags": "0x4",
+ "features": "0xCB4CB220",
+ "samplers": "0xD02",
+ "surfaceProp": "default",
+ "surfaceProp2": "",
+ "shaderType": "ptcs",
+ "shaderSet": "0x447138493D95C2F5",
+ "$textures": {
+  "0": "0x992198250888F8F2",
+  "1": "0xF69C6D6D2BA561BD"
+ },
+ "$textureTypes": {
+  "0": "albedoTexture",
+  "1": "albedoTexture"
+ },
+ "$depthShadowMaterial": "0x0",
+ "$depthPrepassMaterial": "0x0",
+ "$depthVSMMaterial": "0x0",
+ "$depthShadowTightMaterial": "0x0",
+ "$colpassMaterial": "0x0",
+ "$textureAnimation": "0x1901166BF280D1A7",
+ "dxStateUnk28": "0x0",
+ "unk_C0": "0x0",
+ "unk_CC": "0x0",
+ "unk_E8": "0x0",
+ "unk_EA": "0x0",
+ "unk_84": "0x0",
+ "unk_F0": "0x0"
+}

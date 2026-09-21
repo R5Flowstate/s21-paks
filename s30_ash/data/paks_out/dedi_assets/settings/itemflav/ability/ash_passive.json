@@ -1,0 +1,26 @@
+{
+ "layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+ "uniqueId": 714588587,
+ "settings": {
+  "assetName": "settings/itemflav/ability/ash_passive.rpak",
+  "itemType": "ability",
+  "parentItemFlavor": "",
+  "settingsAssetID": "SAID00714588587",
+  "__featureFlag": "",
+  "devDescription": "PLEASE DESCRIBE",
+  "localizationKey_NAME": "#PAS_ASH",
+  "localizationKey_NAME_SHORT": "#PAS_ASH",
+  "localizationKey_DESCRIPTION_LONG": "#PAS_ASH_LONGDESC",
+  "localizationKey_DESCRIPTION_SHORT": "#PAS_ASH_DESC",
+  "quality": "NONE",
+  "icon": "rui/hud/legend_upgrades/ash_dash_icon",
+  "tagIcon": "",
+  "grxMode": "NONE",
+  "weaponClassname": "",
+  "passiveScriptRef": "PAS_ASH",
+  "passiveWeaponMod": "",
+  "isNetworked": false,
+  "isTheFavoriteSentinel": false,
+  "showDetails": true
+ }
+}

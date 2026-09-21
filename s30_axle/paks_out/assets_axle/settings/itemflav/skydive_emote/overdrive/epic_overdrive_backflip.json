@@ -1,0 +1,30 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+  "uniqueId": 1804714424,
+  "settings": {
+    "assetName": "settings/itemflav/skydive_emote/overdrive/epic_overdrive_backflip.rpak",
+    "itemType": "skydive_emote",
+    "parentItemFlavor": "settings/itemflav/character/overdrive.rpak",
+    "settingsAssetID": "SAID01804714424",
+    "__featureFlag": "HAS_OVERDRIVE",
+    "devDescription": "backflip",
+    "localizationKey_NAME": "#skydive_emote_overdrive_backflip",
+    "localizationKey_NAME_SHORT": "#skydive_emote_overdrive_backflip",
+    "localizationKey_DESCRIPTION_LONG": "#skydive_emote_overdrive_backflip",
+    "localizationKey_DESCRIPTION_SHORT": "#skydive_emote_overdrive_backflip",
+    "quality": "EPIC",
+    "icon": "rui/menu/buttons/battlepass/skydive_emote_backflip",
+    "tagIcon": "rui/events/s29bp/item_source_icon",
+    "grxMode": "REGULAR",
+    "grxMode": "REGULAR",
+    "grxRef": "skydive_emote_overdrive_backflip",
+    "ownershipTarget": "",
+    "animSequence": "animseq/humans/class/medium/pilot_medium_overdrive/overdrive_freefall_emote_backflip.rseq",
+    "video": "media/skydive_emotes/axle_backflip",
+    "bcEvent": "",
+    "multipleOwnershipTargets": [],
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "isTheEmpty": false
+  }
+}

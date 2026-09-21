@@ -1,0 +1,26 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+  "uniqueId": 1362174815,
+  "settings": {
+    "assetName": "settings/itemflav/ability/upgrade_ash_ult_increased_range.rpak",
+    "itemType": "ability",
+    "parentItemFlavor": "",
+    "settingsAssetID": "SAID01362174815",
+    "__featureFlag": "",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "#UPGRADE_ASH_ULT_DISTANCE_NAME",
+    "localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+    "localizationKey_DESCRIPTION_LONG": "#UPGRADE_ASH_ULT_DISTANCE_LONG_DESC",
+    "localizationKey_DESCRIPTION_SHORT": "#UPGRADE_ASH_ULT_DISTANCE_SHORT_DESC",
+    "quality": "NONE",
+    "icon": "rui/hud/legend_upgrades/ash_quicktear_icon",
+    "tagIcon": "",
+    "grxMode": "NONE",
+    "weaponClassname": "",
+    "passiveScriptRef": "PAS_ULT_UPGRADE_THREE",
+    "passiveWeaponMod": "",
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false,
+    "showDetails": true
+  }
+}

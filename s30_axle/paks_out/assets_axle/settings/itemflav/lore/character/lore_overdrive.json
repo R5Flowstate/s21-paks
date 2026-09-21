@@ -1,0 +1,28 @@
+{
+  "layoutAsset": "settings_layout/settings_itemtype_lore_layout.rpak",
+  "uniqueId": 1081630083,
+  "settings": {
+    "assetName": "settings/itemflav/lore/character/lore_overdrive.rpak",
+    "itemType": "lore",
+    "parentItemFlavor": "",
+    "settingsAssetID": "SAID01081630083",
+    "__featureFlag": "HAS_OVERDRIVE",
+    "devDescription": "PLEASE DESCRIBE",
+    "localizationKey_NAME": "",
+    "localizationKey_NAME_SHORT": "",
+    "localizationKey_DESCRIPTION_LONG": "",
+    "localizationKey_DESCRIPTION_SHORT": "",
+    "quality": "NONE",
+    "icon": "",
+    "tagIcon": "",
+    "grxMode": "NONE",
+    "type": "Legend",
+    "legend_real_name": "#LORE_OVERDRIVE_REAL_NAME",
+    "legend_alias": "",
+    "legend_age": "#LORE_OVERDRIVE_AGE",
+    "legend_home_world": "#LORE_OVERDRIVE_HOME_WORLD",
+    "bio": [{"line": "#LORE_OVERDRIVE_0", "featureFlag": "", "paddingLeft": 0, "paddingRight": 0, "paddingTop": 0, "paddingBottom": 15}, {"line": "#LORE_OVERDRIVE_1", "featureFlag": "", "paddingLeft": 0, "paddingRight": 0, "paddingTop": 0, "paddingBottom": 15}, {"line": "#LORE_OVERDRIVE_2", "featureFlag": "", "paddingLeft": 0, "paddingRight": 0, "paddingTop": 0, "paddingBottom": 15}, {"line": "#LORE_OVERDRIVE_3", "featureFlag": "", "paddingLeft": 0, "paddingRight": 0, "paddingTop": 0, "paddingBottom": 15}],
+    "isNetworked": false,
+    "isTheFavoriteSentinel": false
+  }
+}
